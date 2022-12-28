@@ -1,0 +1,2193 @@
+Element;Line;Type;Energy
+Kr;L?3;Escape Peak (Si);6.6
+Si;K?2;Escape Peak (Si);39.2
+Si;K?1;Escape Peak (Si);39.8
+Li;K?3;Emission Line;49.4
+Rb;L?1;Escape Peak (Si);51
+Mg;L?3;Emission Line;87.6
+Mg;L?4;Emission Line;87.6
+Li;K?3;Sum Peak (2x);98.8
+Be;K?3;Emission Line;103.5
+Sr;L?2;Escape Peak (Si);104
+Sr;L?1;Escape Peak (Si);105.8
+Be;K?1;Emission Line;108.5
+Be;K?2;Emission Line;108.5
+Al;L?4;Emission Line;115.8
+Al;L?3;Emission Line;115.8
+Rb;L?4;Escape Peak (Si);116.3
+Rb;L?3;Escape Peak (Si);125.9
+Si;K?3;Escape Peak (Si);137
+Si;K?1;Escape Peak (Si);137
+Si;L?4;Emission Line;147.7
+Si;L?3;Emission Line;147.7
+Sr;L?1;Escape Peak (Si);171
+Mg;L?4;Sum Peak (2x);175.2
+Mg;L?3;Sum Peak (2x);175.2
+B;K?3;Emission Line;175.4
+P;L?4;Emission Line;182
+P;L?3;Emission Line;183
+B;K?1;Emission Line;183.3
+B;K?2;Emission Line;183.3
+Be;K?3;Sum Peak (2x);207
+Be;K?2;Sum Peak (2x);217
+Be;K?1;Sum Peak (2x);217
+Y;L?2;Escape Peak (Si);222.3
+S;L?4;Emission Line;222.9
+S;L?3;Emission Line;223.9
+Y;L?1;Escape Peak (Si);224.2
+Al;L?3;Sum Peak (2x);231.6
+Al;L?4;Sum Peak (2x);231.6
+Sr;L?4;Escape Peak (Si);235.7
+Sr;L?3;Escape Peak (Si);246
+P;K?3;Escape Peak (Si);256.5
+Cl;L?4;Emission Line;260
+Cl;L?3;Emission Line;260
+C;K?3;Emission Line;266.2
+C;K?1;Emission Line;277
+C;K?2;Emission Line;277
+Si;L?4;Sum Peak (2x);295.4
+Si;L?3;Sum Peak (2x);295.4
+Y;L?1;Escape Peak (Si);298.3
+P;K?2;Escape Peak (Si);309.5
+Ar;L?4;Emission Line;310.4
+P;K?1;Escape Peak (Si);310.5
+Ar;L?3;Emission Line;310.6
+Zr;L?2;Escape Peak (Si);341.9
+Zr;L?1;Escape Peak (Si);344.2
+B;K?3;Sum Peak (2x);350.8
+K;L?3;Emission Line;360.3
+K;L?4;Emission Line;360.3
+Y;L?4;Escape Peak (Si);362.4
+P;L?4;Sum Peak (2x);364
+P;L?3;Sum Peak (2x);366
+B;K?2;Sum Peak (2x);366.6
+B;K?1;Sum Peak (2x);366.6
+N;K?3;Emission Line;372.6
+Y;L?3;Escape Peak (Si);374.2
+N;K?2;Emission Line;392.4
+N;K?1;Emission Line;392.4
+Ca;L?3;Emission Line;413
+Ca;L?4;Emission Line;413
+Zr;L?1;Escape Peak (Si);425.9
+P;K?3;Escape Peak (Si);438.5
+P;K?1;Escape Peak (Si);439.5
+S;L?4;Sum Peak (2x);445.8
+S;L?3;Sum Peak (2x);447.8
+Ti;L?1;Emission Line;451.8
+Ti;L?2;Emission Line;451.8
+Ti;L?1;Emission Line;458.2
+Nb;L?2;Escape Peak (Si);466
+Nb;L?1;Escape Peak (Si);468.7
+Sc;L?4;Emission Line;469.7
+Sc;L?3;Emission Line;469.7
+Zr;L?4;Escape Peak (Si);488.5
+O;K?3;Emission Line;501.5
+Zr;L?3;Escape Peak (Si);502.2
+V;L?2;Emission Line;510.1
+V;L?1;Emission Line;510.1
+V;L?1;Emission Line;517.8
+Cl;L?3;Sum Peak (2x);520
+Cl;L?4;Sum Peak (2x);520
+O;K?1;Emission Line;524.9
+O;K?2;Emission Line;524.9
+Ti;L?4;Emission Line;528.3
+Ti;L?3;Emission Line;528.3
+C;K?3;Sum Peak (2x);532.4
+S;K?3;Escape Peak (Si);541.1
+C;K?1;Sum Peak (2x);554
+C;K?2;Sum Peak (2x);554
+Nb;L?1;Escape Peak (Si);560
+Cr;L?2;Emission Line;572.1
+Cr;L?1;Emission Line;572.1
+Cr;L?1;Emission Line;581.8
+Mo;L?2;Escape Peak (Si);588.9
+V;L?3;Emission Line;589.5
+V;L?4;Emission Line;589.5
+Mo;L?1;Escape Peak (Si);592.1
+S;K?2;Escape Peak (Si);608.4
+S;K?1;Escape Peak (Si);609.5
+Ar;L?4;Sum Peak (2x);620.8
+Ar;L?3;Sum Peak (2x);621.2
+Nb;L?4;Escape Peak (Si);621.9
+Mn;L?1;Emission Line;636.7
+Mn;L?2;Emission Line;636.7
+Nb;L?3;Escape Peak (Si);637.4
+Mn;L?1;Emission Line;647.9
+F;K?3;Emission Line;651.7
+Cr;L?4;Emission Line;653.8
+Cr;L?3;Emission Line;653.8
+F;K?1;Emission Line;676.8
+F;K?2;Emission Line;676.8
+Mo;L?1;Escape Peak (Si);693.9
+Fe;L?1;Emission Line;704.8
+Fe;L?2;Emission Line;704.8
+Fe;L?1;Emission Line;717.9
+Tc;L?2;Escape Peak (Si);719.4
+K;L?4;Sum Peak (2x);720.6
+K;L?3;Sum Peak (2x);720.6
+Mn;L?4;Emission Line;721.9
+Mn;L?3;Emission Line;721.9
+Tc;L?1;Escape Peak (Si);723.1
+N;K?3;Sum Peak (2x);745.2
+Mo;L?4;Escape Peak (Si);754.4
+S;K?3;Escape Peak (Si);764
+S;K?1;Escape Peak (Si);765
+Mo;L?3;Escape Peak (Si);772
+Co;L?2;Emission Line;775.1
+Co;L?1;Emission Line;775.1
+N;K?1;Sum Peak (2x);784.8
+N;K?2;Sum Peak (2x);784.8
+Co;L?1;Emission Line;790.2
+Fe;L?4;Emission Line;791.9
+Fe;L?3;Emission Line;791.9
+Ne;K?3;Emission Line;821.7
+Ca;L?3;Sum Peak (2x);826
+Ca;L?4;Sum Peak (2x);826
+Tc;L?1;Escape Peak (Si);835.4
+Ne;K?2;Emission Line;848.5
+Ne;K?1;Emission Line;848.6
+Ni;L?2;Emission Line;848.7
+Ni;L?1;Emission Line;848.7
+Cl;K?3;Escape Peak (Si);852
+Ru;L?2;Escape Peak (Si);853.8
+Ru;L?1;Escape Peak (Si);858
+Co;L?3;Emission Line;865.2
+Ni;L?1;Emission Line;866
+Co;L?4;Emission Line;866.2
+Tc;L?4;Escape Peak (Si);895.4
+Ti;L?1;Sum Peak (2x);903.6
+Ti;L?2;Sum Peak (2x);903.6
+Ti;L?1;Sum Peak (2x);916.4
+Cl;K?2;Escape Peak (Si);920
+Cl;K?1;Escape Peak (Si);922
+Tc;L?3;Escape Peak (Si);925.3
+Cu;L?2;Emission Line;927.7
+Cu;L?1;Emission Line;927.7
+Sc;L?4;Sum Peak (2x);939.4
+Sc;L?3;Sum Peak (2x);939.4
+Ni;L?4;Emission Line;940.6
+Ni;L?3;Emission Line;942.4
+Cu;L?1;Emission Line;947.3
+Ru;L?1;Escape Peak (Si);982.8
+Rh;L?2;Escape Peak (Si);992.1
+Rh;L?1;Escape Peak (Si);996.8
+O;K?3;Sum Peak (2x);1003
+Na;K?3;Emission Line;1007.3
+Zn;L?2;Emission Line;1011.6
+Zn;L?1;Emission Line;1011.7
+Cu;L?4;Emission Line;1019.4
+V;L?1;Sum Peak (2x);1020.2
+V;L?2;Sum Peak (2x);1020.2
+Cu;L?3;Emission Line;1021.6
+Zn;L?1;Emission Line;1034.7
+V;L?1;Sum Peak (2x);1035.6
+Na;K?1;Emission Line;1040.3
+Na;K?2;Emission Line;1040.4
+Ru;L?4;Escape Peak (Si);1040.7
+O;K?2;Sum Peak (2x);1049.8
+O;K?1;Sum Peak (2x);1049.8
+Ti;L?4;Sum Peak (2x);1056.6
+Ti;L?3;Sum Peak (2x);1056.6
+Ru;L?3;Escape Peak (Si);1062.5
+Ga;L?2;Emission Line;1097.7
+Ga;L?1;Emission Line;1097.7
+Zn;L?4;Emission Line;1104.8
+Zn;L?3;Emission Line;1107.6
+Cl;K?3;Escape Peak (Si);1112
+Cl;K?1;Escape Peak (Si);1112
+Ga;L?1;Emission Line;1124.5
+Pd;L?2;Escape Peak (Si);1132.5
+Rh;L?1;Escape Peak (Si);1134.1
+Pd;L?1;Escape Peak (Si);1137.8
+Cr;L?1;Sum Peak (2x);1144.2
+Cr;L?2;Sum Peak (2x);1144.2
+Cr;L?1;Sum Peak (2x);1163.6
+V;L?4;Sum Peak (2x);1179
+V;L?3;Sum Peak (2x);1179
+Ar;K?3;Escape Peak (Si);1179.6
+Ge;L?2;Emission Line;1187.2
+Ge;L?1;Emission Line;1187.8
+Rh;L?4;Escape Peak (Si);1190.7
+Ga;L?4;Emission Line;1195.5
+Ga;L?3;Emission Line;1199
+Mg;K?3;Emission Line;1214.4
+Rh;L?3;Escape Peak (Si);1215.5
+Ge;L?1;Emission Line;1218.3
+Mg;K?2;Emission Line;1253.4
+Mg;K?1;Emission Line;1253.79
+Ar;K?2;Escape Peak (Si);1255.3
+Ar;K?1;Escape Peak (Si);1257.5
+Mn;L?1;Sum Peak (2x);1273.4
+Mn;L?2;Sum Peak (2x);1273.4
+Ag;L?2;Escape Peak (Si);1277
+As;L?1;Emission Line;1281.9
+As;L?2;Emission Line;1281.9
+Ag;L?1;Escape Peak (Si);1282.7
+Pd;L?1;Escape Peak (Si);1289.5
+Ge;L?4;Emission Line;1289.7
+Ge;L?3;Emission Line;1293.8
+Mn;L?1;Sum Peak (2x);1295.8
+Mg;K?1;Emission Line;1302
+Mg;K?3;Emission Line;1302
+F;K?3;Sum Peak (2x);1303.4
+Cr;L?3;Sum Peak (2x);1307.6
+Cr;L?4;Sum Peak (2x);1307.6
+As;L?1;Emission Line;1317.4
+Pd;L?4;Escape Peak (Si);1344.1
+F;K?1;Sum Peak (2x);1353.6
+F;K?2;Sum Peak (2x);1353.6
+Pd;L?3;Escape Peak (Si);1371.7
+Se;L?2;Emission Line;1378.4
+Se;L?1;Emission Line;1379.3
+As;L?4;Emission Line;1380.8
+As;L?3;Emission Line;1385.8
+Fe;L?1;Sum Peak (2x);1409.6
+Fe;L?2;Sum Peak (2x);1409.6
+Se;L?1;Emission Line;1418.8
+Cd;L?2;Escape Peak (Si);1426.1
+Cd;L?1;Escape Peak (Si);1432.8
+Fe;L?1;Sum Peak (2x);1435.8
+Al;K?3;Emission Line;1441.2
+Mn;L?4;Sum Peak (2x);1443.8
+Mn;L?3;Sum Peak (2x);1443.8
+Ag;L?1;Escape Peak (Si);1450
+Br;L?2;Emission Line;1480
+Br;L?1;Emission Line;1481
+Se;L?4;Emission Line;1485.5
+Al;K?2;Emission Line;1486.1
+Al;K?1;Emission Line;1486.5
+Ar;K?3;Escape Peak (Si);1490
+Ar;K?1;Escape Peak (Si);1490.2
+Se;L?3;Emission Line;1491.3
+Ag;L?4;Escape Peak (Si);1502.2
+Br;L?1;Emission Line;1526
+K;K?3;Escape Peak (Si);1529.8
+Ag;L?3;Escape Peak (Si);1533
+Co;L?1;Sum Peak (2x);1550.2
+Co;L?2;Sum Peak (2x);1550.2
+Al;K?1;Emission Line;1557
+Al;K?3;Emission Line;1557
+In;L?2;Escape Peak (Si);1578.6
+Co;L?1;Sum Peak (2x);1580.4
+Kr;L?2;Emission Line;1583.4
+Fe;L?4;Sum Peak (2x);1583.8
+Fe;L?3;Sum Peak (2x);1583.8
+Kr;L?1;Emission Line;1584.6
+In;L?1;Escape Peak (Si);1586.1
+Br;L?4;Emission Line;1593
+Br;L?3;Emission Line;1600
+K;K?2;Escape Peak (Si);1611.1
+K;K?1;Escape Peak (Si);1613.8
+Cd;L?1;Escape Peak (Si);1615.1
+Kr;L?1;Emission Line;1635.9
+Ne;K?3;Sum Peak (2x);1643.4
+Cd;L?4;Escape Peak (Si);1665.4
+Si;K?3;Emission Line;1689.3
+Rb;L?2;Emission Line;1691
+Rb;L?1;Emission Line;1692
+Ne;K?2;Sum Peak (2x);1697
+Ne;K?1;Sum Peak (2x);1697.2
+Ni;L?2;Sum Peak (2x);1697.4
+Ni;L?1;Sum Peak (2x);1697.4
+Kr;L?4;Emission Line;1698.8
+Cd;L?3;Escape Peak (Si);1699.6
+Kr;L?3;Emission Line;1706.6
+Co;L?3;Sum Peak (2x);1730.4
+Ni;L?1;Sum Peak (2x);1732
+Co;L?4;Sum Peak (2x);1732.4
+Sn;L?2;Escape Peak (Si);1735.8
+Si;K?2;Emission Line;1739.2
+Si;K?1;Emission Line;1739.8
+Sn;L?1;Escape Peak (Si);1744.1
+Rb;L?1;Emission Line;1751
+In;L?1;Escape Peak (Si);1786.6
+Sr;L?2;Emission Line;1804
+Sr;L?1;Emission Line;1805.8
+Rb;L?4;Emission Line;1816.3
+Rb;L?3;Emission Line;1825.9
+In;L?4;Escape Peak (Si);1834.8
+Si;K?1;Emission Line;1837
+Si;K?3;Emission Line;1837
+Cu;L?1;Sum Peak (2x);1855.4
+Cu;L?2;Sum Peak (2x);1855.4
+Sr;L?1;Emission Line;1871
+In;L?3;Escape Peak (Si);1872.7
+Ni;L?4;Sum Peak (2x);1881.2
+Ni;L?3;Sum Peak (2x);1884.8
+K;K?3;Escape Peak (Si);1890.1
+K;K?1;Escape Peak (Si);1890.1
+Sb;L?2;Escape Peak (Si);1894.5
+Cu;L?1;Sum Peak (2x);1894.6
+Ca;K?3;Escape Peak (Si);1900.1
+Sb;L?1;Escape Peak (Si);1903.8
+Y;L?2;Emission Line;1922.3
+Y;L?1;Emission Line;1924.2
+Sr;L?4;Emission Line;1935.7
+Sr;L?3;Emission Line;1946
+P;K?3;Emission Line;1956.5
+Sn;L?1;Escape Peak (Si);1962.8
+Ca;K?2;Escape Peak (Si);1988.8
+Ca;K?1;Escape Peak (Si);1992.3
+Y;L?1;Emission Line;1998.3
+Sn;L?4;Escape Peak (Si);2008.5
+P;K?2;Emission Line;2009.5
+P;K?1;Emission Line;2010.5
+Na;K?3;Sum Peak (2x);2014.6
+Zn;L?2;Sum Peak (2x);2023.2
+Zn;L?1;Sum Peak (2x);2023.4
+Cu;L?4;Sum Peak (2x);2038.8
+Zr;L?2;Emission Line;2041.9
+Cu;L?3;Sum Peak (2x);2043.2
+Zr;L?1;Emission Line;2044.2
+Sn;L?3;Escape Peak (Si);2050.4
+Te;L?2;Escape Peak (Si);2057.6
+Y;L?4;Emission Line;2062.4
+Te;L?1;Escape Peak (Si);2068
+Zn;L?1;Sum Peak (2x);2069.4
+Y;L?3;Emission Line;2074.2
+Na;K?1;Sum Peak (2x);2080.6
+Na;K?2;Sum Peak (2x);2080.8
+Zr;L?1;Emission Line;2125.9
+P;K?3;Emission Line;2138.5
+P;K?1;Emission Line;2139.5
+Sb;L?1;Escape Peak (Si);2142.5
+Nb;L?2;Emission Line;2166
+Nb;L?1;Emission Line;2168.7
+Sb;L?4;Escape Peak (Si);2185.3
+Zr;L?4;Emission Line;2188.5
+Ga;L?1;Sum Peak (2x);2195.4
+Ga;L?2;Sum Peak (2x);2195.4
+Zr;L?3;Emission Line;2202.2
+Zn;L?4;Sum Peak (2x);2209.6
+Zn;L?3;Sum Peak (2x);2215.2
+I;L?2;Escape Peak (Si);2226.2
+Sb;L?3;Escape Peak (Si);2231.6
+I;L?1;Escape Peak (Si);2237.7
+S;K?3;Emission Line;2241.1
+Ga;L?1;Sum Peak (2x);2249
+Nb;L?1;Emission Line;2260
+Mo;L?2;Emission Line;2288.9
+Mo;L?1;Emission Line;2292.1
+Sc;K?3;Escape Peak (Si);2294
+S;K?2;Emission Line;2308.4
+S;K?1;Emission Line;2309.5
+Ca;K?3;Escape Peak (Si);2313.1
+Ca;K?1;Escape Peak (Si);2313.1
+Nb;L?4;Emission Line;2321.9
+Te;L?1;Escape Peak (Si);2328.6
+Nb;L?3;Emission Line;2337.4
+Te;L?4;Escape Peak (Si);2368.2
+Ge;L?2;Sum Peak (2x);2374.4
+Ge;L?1;Sum Peak (2x);2375.6
+Sc;K?2;Escape Peak (Si);2388.4
+Ga;L?4;Sum Peak (2x);2391
+Sc;K?1;Escape Peak (Si);2393.3
+Mo;L?1;Emission Line;2393.9
+Xe;L?2;Escape Peak (Si);2397
+Ga;L?3;Sum Peak (2x);2398
+Xe;L?1;Escape Peak (Si);2409.6
+Te;L?3;Escape Peak (Si);2418.2
+Tc;L?2;Emission Line;2419.4
+Tc;L?1;Emission Line;2423.1
+Mg;K?3;Sum Peak (2x);2428.8
+Ge;L?1;Sum Peak (2x);2436.6
+Mo;L?4;Emission Line;2454.4
+S;K?3;Emission Line;2464
+S;K?1;Emission Line;2465
+Mo;L?3;Emission Line;2472
+Mg;K?2;Sum Peak (2x);2506.8
+Mg;K?1;Sum Peak (2x);2507.58
+I;L?1;Escape Peak (Si);2521.2
+Tc;L?1;Emission Line;2535.4
+Cl;K?3;Emission Line;2552
+Ru;L?2;Emission Line;2553.8
+I;L?4;Escape Peak (Si);2557
+Ru;L?1;Emission Line;2558
+As;L?2;Sum Peak (2x);2563.8
+As;L?1;Sum Peak (2x);2563.8
+Cs;L?2;Escape Peak (Si);2571.5
+Ge;L?4;Sum Peak (2x);2579.4
+Cs;L?1;Escape Peak (Si);2585.4
+Ge;L?3;Sum Peak (2x);2587.6
+Tc;L?4;Emission Line;2595.4
+Mg;K?3;Sum Peak (2x);2604
+Mg;K?1;Sum Peak (2x);2604
+I;L?3;Escape Peak (Si);2613
+Cl;K?2;Emission Line;2620
+Cl;K?1;Emission Line;2622
+Tc;L?3;Emission Line;2625.3
+As;L?1;Sum Peak (2x);2634.8
+Ru;L?1;Emission Line;2682.8
+Rh;L?2;Emission Line;2692.1
+Rh;L?1;Emission Line;2696.8
+Ti;K?3;Escape Peak (Si);2705.1
+Xe;L?1;Escape Peak (Si);2718
+Ru;L?4;Emission Line;2740.7
+Xe;L?4;Escape Peak (Si);2750.9
+Ba;L?2;Escape Peak (Si);2751.3
+Se;L?2;Sum Peak (2x);2756.8
+Se;L?1;Sum Peak (2x);2758.6
+As;L?4;Sum Peak (2x);2761.6
+Ru;L?3;Emission Line;2762.5
+Sc;K?1;Escape Peak (Si);2763.7
+Sc;K?3;Escape Peak (Si);2763.7
+Ba;L?1;Escape Peak (Si);2766.5
+As;L?3;Sum Peak (2x);2771.6
+Ti;K?2;Escape Peak (Si);2805.8
+Cl;K?3;Emission Line;2812
+Cl;K?1;Emission Line;2812
+Ti;K?1;Escape Peak (Si);2812.2
+Xe;L?3;Escape Peak (Si);2812.4
+Pd;L?2;Emission Line;2832.5
+Rh;L?1;Emission Line;2834.1
+Se;L?1;Sum Peak (2x);2837.6
+Pd;L?1;Emission Line;2837.8
+Ar;K?3;Emission Line;2879.6
+Al;K?3;Sum Peak (2x);2882.4
+Rh;L?4;Emission Line;2890.7
+Rh;L?3;Emission Line;2915.5
+Cs;L?1;Escape Peak (Si);2918.5
+La;L?2;Escape Peak (Si);2930
+Cs;L?4;Escape Peak (Si);2943
+La;L?1;Escape Peak (Si);2947
+Ar;K?2;Emission Line;2955.3
+Ar;K?1;Emission Line;2957.5
+Br;L?2;Sum Peak (2x);2960
+Br;L?1;Sum Peak (2x);2962
+Se;L?4;Sum Peak (2x);2971
+Al;K?2;Sum Peak (2x);2972.2
+Al;K?1;Sum Peak (2x);2973
+Ag;L?2;Emission Line;2977
+Se;L?3;Sum Peak (2x);2982.6
+Ag;L?1;Emission Line;2982.7
+Pd;L?1;Emission Line;2989.5
+Cs;L?3;Escape Peak (Si);3011
+Pd;L?4;Emission Line;3044.1
+Br;L?1;Sum Peak (2x);3052
+Pd;L?3;Emission Line;3071.7
+Al;K?3;Sum Peak (2x);3114
+Al;K?1;Sum Peak (2x);3114
+Ce;L?2;Escape Peak (Si);3120.6
+Cd;L?2;Emission Line;3126.1
+Ba;L?1;Escape Peak (Si);3128.3
+Cd;L?1;Emission Line;3132.8
+V;K?3;Escape Peak (Si);3138.3
+Ce;L?1;Escape Peak (Si);3139.2
+Ag;L?1;Emission Line;3150
+Ba;L?4;Escape Peak (Si);3152
+Kr;L?2;Sum Peak (2x);3166.8
+Kr;L?1;Sum Peak (2x);3169.2
+Br;L?4;Sum Peak (2x);3186
+Ar;K?3;Emission Line;3190
+Ar;K?1;Emission Line;3190.2
+Br;L?3;Sum Peak (2x);3200
+Ag;L?4;Emission Line;3202.2
+Ba;L?3;Escape Peak (Si);3226
+K;K?3;Emission Line;3229.8
+Ag;L?3;Emission Line;3233
+Ti;K?1;Escape Peak (Si);3233.4
+Ti;K?3;Escape Peak (Si);3233.4
+V;K?2;Escape Peak (Si);3245.2
+V;K?1;Escape Peak (Si);3252.9
+Ti;K?5;Escape Peak (Si);3264
+Kr;L?1;Sum Peak (2x);3271.8
+In;L?2;Emission Line;3278.6
+In;L?1;Emission Line;3286.1
+K;K?2;Emission Line;3311.1
+K;K?1;Emission Line;3313.8
+Cd;L?1;Emission Line;3315.1
+Pr;L?2;Escape Peak (Si);3315.7
+Pr;L?1;Escape Peak (Si);3335.2
+La;L?1;Escape Peak (Si);3338
+La;L?4;Escape Peak (Si);3357
+Cd;L?4;Emission Line;3365.4
+Si;K?3;Sum Peak (2x);3378.6
+Rb;L?2;Sum Peak (2x);3382
+Rb;L?1;Sum Peak (2x);3384
+Kr;L?4;Sum Peak (2x);3397.6
+Cd;L?3;Emission Line;3399.6
+Kr;L?3;Sum Peak (2x);3413.2
+Sn;L?2;Emission Line;3435.8
+La;L?3;Escape Peak (Si);3438
+Sn;L?1;Emission Line;3444.1
+Si;K?2;Sum Peak (2x);3478.4
+Si;K?1;Sum Peak (2x);3479.6
+In;L?1;Emission Line;3486.6
+Rb;L?1;Sum Peak (2x);3502
+Nd;L?2;Escape Peak (Si);3504.7
+Nd;L?1;Escape Peak (Si);3527.6
+In;L?4;Emission Line;3534.8
+Ce;L?1;Escape Peak (Si);3561.6
+In;L?3;Emission Line;3572.7
+Ce;L?4;Escape Peak (Si);3574
+K;K?3;Emission Line;3590.1
+K;K?1;Emission Line;3590.1
+Cr;K?3;Escape Peak (Si);3593
+Sb;L?2;Emission Line;3594.5
+Ca;K?3;Emission Line;3600.1
+Sb;L?1;Emission Line;3603.8
+Sr;L?2;Sum Peak (2x);3608
+Sr;L?1;Sum Peak (2x);3611.6
+Rb;L?4;Sum Peak (2x);3632.6
+Rb;L?3;Sum Peak (2x);3651.8
+Ce;L?3;Escape Peak (Si);3661
+Sn;L?1;Emission Line;3662.8
+Si;K?1;Sum Peak (2x);3674
+Si;K?3;Sum Peak (2x);3674
+Ca;K?2;Emission Line;3688.8
+Ca;K?1;Emission Line;3692.3
+Cr;K?2;Escape Peak (Si);3705.2
+Pm;L?2;Escape Peak (Si);3707
+Sn;L?4;Emission Line;3708.5
+Cr;K?1;Escape Peak (Si);3714.9
+V;K?3;Escape Peak (Si);3727.8
+V;K?1;Escape Peak (Si);3727.8
+Pm;L?1;Escape Peak (Si);3732
+Sr;L?1;Sum Peak (2x);3742
+Sn;L?3;Emission Line;3750.4
+Te;L?2;Emission Line;3757.6
+V;K?5;Escape Peak (Si);3763
+Te;L?1;Emission Line;3768
+Pr;L?1;Escape Peak (Si);3791.7
+Pr;L?4;Escape Peak (Si);3798
+Sb;L?1;Emission Line;3842.5
+Y;L?2;Sum Peak (2x);3844.6
+Y;L?1;Sum Peak (2x);3848.4
+Sr;L?4;Sum Peak (2x);3871.4
+Sb;L?4;Emission Line;3885.3
+Sr;L?3;Sum Peak (2x);3892
+Pr;L?3;Escape Peak (Si);3893
+Sm;L?2;Escape Peak (Si);3905.1
+P;K?3;Sum Peak (2x);3913
+I;L?2;Emission Line;3926.2
+Sb;L?3;Emission Line;3931.6
+Sm;L?1;Escape Peak (Si);3932.6
+I;L?1;Emission Line;3937.7
+Sc;K?3;Emission Line;3994
+Y;L?1;Sum Peak (2x);3996.6
+Ca;K?3;Emission Line;4013.1
+Ca;K?1;Emission Line;4013.1
+Nd;L?1;Escape Peak (Si);4018.7
+P;K?2;Sum Peak (2x);4019
+P;K?1;Sum Peak (2x);4021
+Nd;L?4;Escape Peak (Si);4023
+Te;L?1;Emission Line;4028.6
+Te;L?4;Emission Line;4068.2
+Mn;K?3;Escape Peak (Si);4069.9
+Zr;L?2;Sum Peak (2x);4083.8
+Sc;K?2;Emission Line;4088.4
+Zr;L?1;Sum Peak (2x);4088.4
+Sc;K?1;Emission Line;4093.3
+Xe;L?2;Emission Line;4097
+Xe;L?1;Emission Line;4109.6
+Te;L?3;Emission Line;4118.2
+Eu;L?2;Escape Peak (Si);4118.4
+Y;L?4;Sum Peak (2x);4124.8
+Nd;L?3;Escape Peak (Si);4129
+Y;L?3;Sum Peak (2x);4148.4
+Eu;L?1;Escape Peak (Si);4149.5
+Mn;K?2;Escape Peak (Si);4189.1
+Mn;K?1;Escape Peak (Si);4200.3
+I;L?1;Emission Line;4221.2
+Cr;K?3;Escape Peak (Si);4246.8
+Cr;K?1;Escape Peak (Si);4246.8
+Zr;L?1;Sum Peak (2x);4251.8
+Pm;L?4;Escape Peak (Si);4256.6
+I;L?4;Emission Line;4257
+Pm;L?1;Escape Peak (Si);4261
+Cs;L?2;Emission Line;4271.5
+P;K?3;Sum Peak (2x);4277
+P;K?1;Sum Peak (2x);4279
+Cs;L?1;Emission Line;4285.4
+Cr;K?5;Escape Peak (Si);4287
+I;L?3;Emission Line;4313
+Gd;L?2;Escape Peak (Si);4321.1
+Nb;L?2;Sum Peak (2x);4332
+Nb;L?1;Sum Peak (2x);4337.4
+Gd;L?1;Escape Peak (Si);4353.4
+Pm;L?3;Escape Peak (Si);4371
+Zr;L?4;Sum Peak (2x);4377
+Zr;L?3;Sum Peak (2x);4404.4
+Ti;K?3;Emission Line;4405.1
+Xe;L?1;Emission Line;4418
+Xe;L?4;Emission Line;4450.9
+Ba;L?2;Emission Line;4451.3
+Sc;K?3;Emission Line;4463.7
+Sc;K?1;Emission Line;4463.7
+Ba;L?1;Emission Line;4466.5
+S;K?3;Sum Peak (2x);4482.2
+Sm;L?4;Escape Peak (Si);4496
+Sm;L?1;Escape Peak (Si);4501.1
+Ti;K?2;Emission Line;4505.8
+Ti;K?1;Emission Line;4512.2
+Xe;L?3;Emission Line;4512.4
+Nb;L?1;Sum Peak (2x);4520
+Tb;L?2;Escape Peak (Si);4537.1
+Fe;K?3;Escape Peak (Si);4567.4
+Tb;L?1;Escape Peak (Si);4572.9
+Mo;L?2;Sum Peak (2x);4577.8
+Mo;L?1;Sum Peak (2x);4584.2
+S;K?2;Sum Peak (2x);4616.8
+Sm;L?3;Escape Peak (Si);4617.2
+Cs;L?1;Emission Line;4618.5
+S;K?1;Sum Peak (2x);4619
+La;L?2;Emission Line;4630
+Cs;L?4;Emission Line;4643
+Nb;L?4;Sum Peak (2x);4643.8
+La;L?1;Emission Line;4647
+Nb;L?3;Sum Peak (2x);4674.8
+Fe;K?2;Escape Peak (Si);4692.1
+Fe;K?1;Escape Peak (Si);4705.2
+Cs;L?3;Emission Line;4711
+Eu;L?4;Escape Peak (Si);4738
+Dy;L?2;Escape Peak (Si);4757
+Eu;L?1;Escape Peak (Si);4758.4
+Mo;L?1;Sum Peak (2x);4787.8
+Mn;K?1;Escape Peak (Si);4791.8
+Mn;K?3;Escape Peak (Si);4791.8
+Dy;L?1;Escape Peak (Si);4798
+Ce;L?2;Emission Line;4820.6
+Ba;L?1;Emission Line;4828.3
+Mn;K?5;Escape Peak (Si);4837
+V;K?3;Emission Line;4838.3
+Tc;L?2;Sum Peak (2x);4838.8
+Ce;L?1;Emission Line;4839.2
+Tc;L?1;Sum Peak (2x);4846.2
+Ba;L?4;Emission Line;4852
+Eu;L?3;Escape Peak (Si);4871
+Mo;L?4;Sum Peak (2x);4908.8
+Ba;L?3;Emission Line;4926
+S;K?3;Sum Peak (2x);4928
+S;K?1;Sum Peak (2x);4930
+Ti;K?3;Emission Line;4933.4
+Ti;K?1;Emission Line;4933.4
+Mo;L?3;Sum Peak (2x);4944
+V;K?2;Emission Line;4945.2
+V;K?1;Emission Line;4952.9
+Ti;K?5;Emission Line;4964
+Ho;L?2;Escape Peak (Si);4979
+Gd;L?4;Escape Peak (Si);4988
+Gd;L?1;Escape Peak (Si);5008.1
+Pr;L?2;Emission Line;5015.7
+Ho;L?1;Escape Peak (Si);5020
+Pr;L?1;Emission Line;5035.2
+La;L?1;Emission Line;5038
+La;L?4;Emission Line;5057
+Tc;L?1;Sum Peak (2x);5070.8
+Co;K?3;Escape Peak (Si);5083.9
+Cl;K?3;Sum Peak (2x);5104
+Ru;L?2;Sum Peak (2x);5107.6
+Ru;L?1;Sum Peak (2x);5116
+Gd;L?3;Escape Peak (Si);5132
+La;L?3;Emission Line;5138
+Tc;L?4;Sum Peak (2x);5190.8
+Nd;L?2;Emission Line;5204.7
+Er;L?2;Escape Peak (Si);5205
+Co;K?2;Escape Peak (Si);5215.8
+Nd;L?1;Emission Line;5227.6
+Co;K?1;Escape Peak (Si);5230.9
+Cl;K?2;Sum Peak (2x);5240
+Tb;L?4;Escape Peak (Si);5240
+Cl;K?1;Sum Peak (2x);5244
+Er;L?1;Escape Peak (Si);5249
+Tc;L?3;Sum Peak (2x);5250.6
+Ce;L?1;Emission Line;5261.6
+Ce;L?4;Emission Line;5274
+Tb;L?1;Escape Peak (Si);5275.1
+Cr;K?3;Emission Line;5293
+Fe;K?1;Escape Peak (Si);5359.3
+Fe;K?3;Escape Peak (Si);5359.3
+Ce;L?3;Emission Line;5361
+Ru;L?1;Sum Peak (2x);5365.6
+Rh;L?2;Sum Peak (2x);5384.2
+Rh;L?1;Sum Peak (2x);5393.6
+Tb;L?3;Escape Peak (Si);5397
+Cr;K?2;Emission Line;5405.2
+Pm;L?2;Emission Line;5407
+Fe;K?5;Escape Peak (Si);5410
+Cr;K?1;Emission Line;5414.9
+V;K?3;Emission Line;5427.8
+V;K?1;Emission Line;5427.8
+Pm;L?1;Emission Line;5432
+Tm;L?2;Escape Peak (Si);5433
+V;K?5;Emission Line;5463
+Tm;L?1;Escape Peak (Si);5480
+Ru;L?4;Sum Peak (2x);5481.4
+Pr;L?1;Emission Line;5491.7
+Pr;L?4;Emission Line;5498
+Dy;L?4;Escape Peak (Si);5504
+Ru;L?3;Sum Peak (2x);5525
+Dy;L?1;Escape Peak (Si);5548
+Pr;L?3;Emission Line;5593
+Sm;L?2;Emission Line;5605.1
+Cl;K?3;Sum Peak (2x);5624
+Cl;K?1;Sum Peak (2x);5624
+Ni;K?3;Escape Peak (Si);5624.4
+Sm;L?1;Emission Line;5632.6
+Pd;L?2;Sum Peak (2x);5665
+Yb;L?2;Escape Peak (Si);5668
+Rh;L?1;Sum Peak (2x);5668.2
+Dy;L?3;Escape Peak (Si);5670
+Pd;L?1;Sum Peak (2x);5675.6
+Yb;L?1;Escape Peak (Si);5716
+Nd;L?1;Emission Line;5718.7
+Nd;L?4;Emission Line;5723
+Ar;K?3;Sum Peak (2x);5759.2
+Ni;K?2;Escape Peak (Si);5763
+Mn;K?3;Emission Line;5769.9
+Ho;L?4;Escape Peak (Si);5771
+Ni;K?1;Escape Peak (Si);5780.3
+Rh;L?4;Sum Peak (2x);5781.4
+Eu;L?2;Emission Line;5818.4
+Ho;L?1;Escape Peak (Si);5826
+Nd;L?3;Emission Line;5829
+Rh;L?3;Sum Peak (2x);5831
+Eu;L?1;Emission Line;5849.5
+Mn;K?2;Emission Line;5889.1
+Mn;K?1;Emission Line;5900.3
+Lu;L?2;Escape Peak (Si);5905
+Ar;K?2;Sum Peak (2x);5910.6
+Ar;K?1;Sum Peak (2x);5915
+Cr;K?3;Emission Line;5946.8
+Cr;K?1;Emission Line;5946.8
+Co;K?1;Escape Peak (Si);5949.1
+Co;K?3;Escape Peak (Si);5950.1
+Ho;L?3;Escape Peak (Si);5953
+Ag;L?2;Sum Peak (2x);5954
+Lu;L?1;Escape Peak (Si);5955
+Pm;L?4;Emission Line;5956.6
+Pm;L?1;Emission Line;5961
+Ag;L?1;Sum Peak (2x);5965.4
+Pd;L?1;Sum Peak (2x);5979
+Cr;K?5;Emission Line;5987
+Co;K?5;Escape Peak (Si);6006
+Gd;L?2;Emission Line;6021.1
+Er;L?4;Escape Peak (Si);6045
+Gd;L?1;Emission Line;6053.4
+Pm;L?3;Emission Line;6071
+Pd;L?4;Sum Peak (2x);6088.2
+Er;L?1;Escape Peak (Si);6111
+Pd;L?3;Sum Peak (2x);6143.4
+Hf;L?2;Escape Peak (Si);6145
+Cu;K?3;Escape Peak (Si);6182.3
+Sm;L?4;Emission Line;6196
+Hf;L?1;Escape Peak (Si);6199
+Sm;L?1;Emission Line;6201.1
+Tb;L?2;Emission Line;6237.1
+Er;L?3;Escape Peak (Si);6239
+Cd;L?2;Sum Peak (2x);6252.2
+Cd;L?1;Sum Peak (2x);6265.6
+Fe;K?3;Emission Line;6267.4
+Tb;L?1;Emission Line;6272.9
+Ag;L?1;Sum Peak (2x);6300
+Sm;L?3;Emission Line;6317.2
+Tm;L?4;Escape Peak (Si);6326
+Cu;K?2;Escape Peak (Si);6326.7
+Cu;K?1;Escape Peak (Si);6346.3
+Ar;K?3;Sum Peak (2x);6380
+Ar;K?1;Sum Peak (2x);6380.4
+Ta;L?2;Escape Peak (Si);6388
+Fe;K?2;Emission Line;6392.1
+Tm;L?1;Escape Peak (Si);6402
+Ag;L?4;Sum Peak (2x);6404.4
+Fe;K?1;Emission Line;6405.2
+Eu;L?4;Emission Line;6438
+Ta;L?1;Escape Peak (Si);6446
+Dy;L?2;Emission Line;6457
+Eu;L?1;Emission Line;6458.4
+K;K?3;Sum Peak (2x);6459.6
+Ag;L?3;Sum Peak (2x);6466
+Mn;K?1;Emission Line;6491.8
+Mn;K?3;Emission Line;6491.8
+Dy;L?1;Emission Line;6498
+Tm;L?3;Escape Peak (Si);6531
+Mn;K?5;Emission Line;6537
+In;L?2;Sum Peak (2x);6557.2
+Ni;K?3;Escape Peak (Si);6565
+Ni;K?1;Escape Peak (Si);6566.8
+Eu;L?3;Emission Line;6571
+In;L?1;Sum Peak (2x);6572.2
+Yb;L?4;Escape Peak (Si);6613
+K;K?2;Sum Peak (2x);6622.2
+K;K?1;Sum Peak (2x);6627.6
+Ni;K?5;Escape Peak (Si);6629
+Cd;L?1;Sum Peak (2x);6630.2
+W;L?2;Escape Peak (Si);6635
+Ho;L?2;Emission Line;6679
+Gd;L?4;Emission Line;6688
+W;L?1;Escape Peak (Si);6698
+Yb;L?1;Escape Peak (Si);6702
+Gd;L?1;Emission Line;6708.1
+Ho;L?1;Emission Line;6720
+Cd;L?4;Sum Peak (2x);6730.8
+Zn;K?3;Escape Peak (Si);6762.8
+Co;K?3;Emission Line;6783.9
+Cd;L?3;Sum Peak (2x);6799.2
+Gd;L?3;Emission Line;6832
+Yb;L?3;Escape Peak (Si);6836
+Sn;L?2;Sum Peak (2x);6871.6
+Re;L?2;Escape Peak (Si);6886
+Sn;L?1;Sum Peak (2x);6888.2
+Er;L?2;Emission Line;6905
+Lu;L?4;Escape Peak (Si);6906
+Zn;K?2;Escape Peak (Si);6914.1
+Co;K?2;Emission Line;6915.8
+Co;K?1;Emission Line;6930.9
+Zn;K?1;Escape Peak (Si);6937.2
+Tb;L?4;Emission Line;6940
+Er;L?1;Emission Line;6949
+Re;L?1;Escape Peak (Si);6952
+In;L?1;Sum Peak (2x);6973.2
+Tb;L?1;Emission Line;6975.1
+Lu;L?1;Escape Peak (Si);7010
+Fe;K?1;Emission Line;7059.3
+Fe;K?3;Emission Line;7059.3
+In;L?4;Sum Peak (2x);7069.6
+Tb;L?3;Emission Line;7097
+Fe;K?5;Emission Line;7110
+Tm;L?2;Emission Line;7133
+Os;L?2;Escape Peak (Si);7140
+In;L?3;Sum Peak (2x);7145.4
+Lu;L?3;Escape Peak (Si);7146
+Tm;L?1;Emission Line;7180
+K;K?1;Sum Peak (2x);7180.2
+K;K?3;Sum Peak (2x);7180.2
+Sb;L?2;Sum Peak (2x);7189
+Ca;K?3;Sum Peak (2x);7200.2
+Cu;K?3;Escape Peak (Si);7201.7
+Cu;K?1;Escape Peak (Si);7203.9
+Dy;L?4;Emission Line;7204
+Hf;L?4;Escape Peak (Si);7206
+Sb;L?1;Sum Peak (2x);7207.6
+Os;L?1;Escape Peak (Si);7211
+Dy;L?1;Emission Line;7248
+Cu;K?5;Escape Peak (Si);7274
+Hf;L?1;Escape Peak (Si);7323
+Ni;K?3;Emission Line;7324.4
+Sn;L?1;Sum Peak (2x);7325.6
+Yb;L?2;Emission Line;7368
+Ga;K?3;Escape Peak (Si);7368
+Dy;L?3;Emission Line;7370
+Ca;K?2;Sum Peak (2x);7377.6
+Ca;K?1;Sum Peak (2x);7384.6
+Ir;L?2;Escape Peak (Si);7399
+Yb;L?1;Emission Line;7416
+Sn;L?4;Sum Peak (2x);7417
+Ni;K?2;Emission Line;7463
+Hf;L?3;Escape Peak (Si);7464
+Ho;L?4;Emission Line;7471
+Ir;L?1;Escape Peak (Si);7475
+Ni;K?1;Emission Line;7480.3
+Sn;L?3;Sum Peak (2x);7500.8
+Ta;L?4;Escape Peak (Si);7513
+Te;L?2;Sum Peak (2x);7515.2
+Ga;K?2;Escape Peak (Si);7523.8
+Ho;L?1;Emission Line;7526
+Te;L?1;Sum Peak (2x);7536
+Ga;K?1;Escape Peak (Si);7550.6
+Lu;L?2;Emission Line;7605
+Ta;L?1;Escape Peak (Si);7643
+Co;K?1;Emission Line;7649.1
+Co;K?3;Emission Line;7650.1
+Ho;L?3;Emission Line;7653
+Lu;L?1;Emission Line;7655
+Pt;L?2;Escape Peak (Si);7662
+Sb;L?1;Sum Peak (2x);7685
+Co;K?5;Emission Line;7706
+Pt;L?1;Escape Peak (Si);7742
+Er;L?4;Emission Line;7745
+Sb;L?4;Sum Peak (2x);7770.6
+Ta;L?3;Escape Peak (Si);7788
+Er;L?1;Emission Line;7811
+W;L?4;Escape Peak (Si);7825
+Hf;L?2;Emission Line;7845
+I;L?2;Sum Peak (2x);7852.4
+Sb;L?3;Sum Peak (2x);7863.2
+Zn;K?3;Escape Peak (Si);7867.6
+Zn;K?1;Escape Peak (Si);7870.4
+I;L?1;Sum Peak (2x);7875.4
+Cu;K?3;Emission Line;7882.3
+Hf;L?1;Emission Line;7899
+Au;L?2;Escape Peak (Si);7928
+Er;L?3;Emission Line;7939
+Zn;K?5;Escape Peak (Si);7948.8
+W;L?1;Escape Peak (Si);7972
+Sc;K?3;Sum Peak (2x);7988
+Ge;K?3;Escape Peak (Si);7988.4
+Au;L?1;Escape Peak (Si);8013
+Tm;L?4;Emission Line;8026
+Ca;K?3;Sum Peak (2x);8026.2
+Ca;K?1;Sum Peak (2x);8026.2
+Cu;K?2;Emission Line;8026.7
+Cu;K?1;Emission Line;8046.3
+Te;L?1;Sum Peak (2x);8057.2
+Ta;L?2;Emission Line;8088
+Tm;L?1;Emission Line;8102
+W;L?3;Escape Peak (Si);8119
+Te;L?4;Sum Peak (2x);8136.4
+Re;L?4;Escape Peak (Si);8145
+Ta;L?1;Emission Line;8146
+Ge;K?2;Escape Peak (Si);8154.9
+Sc;K?2;Sum Peak (2x);8176.8
+Ge;K?1;Escape Peak (Si);8186
+Sc;K?1;Sum Peak (2x);8186.6
+Xe;L?2;Sum Peak (2x);8194
+Hg;L?2;Escape Peak (Si);8199
+Xe;L?1;Sum Peak (2x);8219.2
+Tm;L?3;Emission Line;8231
+Te;L?3;Sum Peak (2x);8236.4
+Ni;K?3;Emission Line;8265
+Ni;K?1;Emission Line;8266.8
+Hg;L?1;Escape Peak (Si);8289
+Re;L?1;Escape Peak (Si);8310
+Yb;L?4;Emission Line;8313
+Ni;K?5;Emission Line;8329
+W;L?2;Emission Line;8335
+W;L?1;Emission Line;8398
+Yb;L?1;Emission Line;8402
+I;L?1;Sum Peak (2x);8442.4
+Re;L?3;Escape Peak (Si);8460
+Zn;K?3;Emission Line;8462.8
+Tl;L?2;Escape Peak (Si);8473
+Os;L?4;Escape Peak (Si);8476
+I;L?4;Sum Peak (2x);8514
+Yb;L?3;Emission Line;8536
+Cs;L?2;Sum Peak (2x);8543
+Ga;K?3;Escape Peak (Si);8563.5
+Ga;K?1;Escape Peak (Si);8567
+Tl;L?1;Escape Peak (Si);8569
+Cs;L?1;Sum Peak (2x);8570.8
+Re;L?2;Emission Line;8586
+Lu;L?4;Emission Line;8606
+Zn;K?2;Emission Line;8614.1
+I;L?3;Sum Peak (2x);8626
+Zn;K?1;Emission Line;8637.2
+As;K?3;Escape Peak (Si);8640
+Ga;K?5;Escape Peak (Si);8648.3
+Re;L?1;Emission Line;8652
+Os;L?1;Escape Peak (Si);8654
+Lu;L?1;Emission Line;8710
+Pb;L?2;Escape Peak (Si);8749
+As;K?2;Escape Peak (Si);8807.9
+Ir;L?4;Escape Peak (Si);8810
+Ti;K?3;Sum Peak (2x);8810.2
+Os;L?3;Escape Peak (Si);8811
+Xe;L?1;Sum Peak (2x);8836
+Os;L?2;Emission Line;8840
+As;K?1;Escape Peak (Si);8843.4
+Lu;L?3;Emission Line;8846
+Pb;L?1;Escape Peak (Si);8851
+Cu;K?3;Emission Line;8901.7
+Xe;L?4;Sum Peak (2x);8901.8
+Ba;L?2;Sum Peak (2x);8902.6
+Cu;K?1;Emission Line;8903.9
+Hf;L?4;Emission Line;8906
+Os;L?1;Emission Line;8911
+Sc;K?1;Sum Peak (2x);8927.4
+Sc;K?3;Sum Peak (2x);8927.4
+Ba;L?1;Sum Peak (2x);8933
+Cu;K?5;Emission Line;8974
+Ir;L?1;Escape Peak (Si);9008
+Ti;K?2;Sum Peak (2x);9011.6
+Hf;L?1;Emission Line;9023
+Ti;K?1;Sum Peak (2x);9024.4
+Xe;L?3;Sum Peak (2x);9024.8
+Bi;L?2;Escape Peak (Si);9031
+Ga;K?3;Emission Line;9068
+Ir;L?2;Emission Line;9099
+Bi;L?1;Escape Peak (Si);9139
+Pt;L?4;Escape Peak (Si);9153
+Hf;L?3;Emission Line;9164
+Ir;L?3;Escape Peak (Si);9168
+Ir;L?1;Emission Line;9175
+Ta;L?4;Emission Line;9213
+Ga;K?2;Emission Line;9223.8
+Cs;L?1;Sum Peak (2x);9237
+Ga;K?1;Emission Line;9250.6
+La;L?2;Sum Peak (2x);9260
+Ge;K?3;Escape Peak (Si);9278.1
+Ge;K?1;Escape Peak (Si);9282.2
+Cs;L?4;Sum Peak (2x);9286
+La;L?1;Sum Peak (2x);9294
+Se;K?3;Escape Peak (Si);9306
+Po;L?2;Escape Peak (Si);9316
+Ta;L?1;Emission Line;9343
+Pt;L?2;Emission Line;9362
+Pt;L?1;Escape Peak (Si);9371
+Ge;K?5;Escape Peak (Si);9373.2
+Cs;L?3;Sum Peak (2x);9422
+Po;L?1;Escape Peak (Si);9431
+Pt;L?1;Emission Line;9442
+Se;K?2;Escape Peak (Si);9483.7
+Ta;L?3;Emission Line;9488
+Au;L?4;Escape Peak (Si);9505
+Se;K?1;Escape Peak (Si);9524.1
+W;L?4;Emission Line;9525
+Pt;L?3;Escape Peak (Si);9535
+Zn;K?3;Emission Line;9567.6
+Zn;K?1;Emission Line;9570.4
+At;L?2;Escape Peak (Si);9605
+Au;L?2;Emission Line;9628
+Ce;L?2;Sum Peak (2x);9641.2
+Zn;K?5;Emission Line;9648.8
+Ba;L?1;Sum Peak (2x);9656.6
+W;L?1;Emission Line;9672
+V;K?3;Sum Peak (2x);9676.6
+Ce;L?1;Sum Peak (2x);9678.4
+Ge;K?3;Emission Line;9688.4
+Ba;L?4;Sum Peak (2x);9704
+Au;L?1;Emission Line;9713
+At;L?1;Escape Peak (Si);9727
+Au;L?1;Escape Peak (Si);9743
+W;L?3;Emission Line;9819
+Re;L?4;Emission Line;9845
+Ba;L?3;Sum Peak (2x);9852
+Ge;K?2;Emission Line;9854.9
+Hg;L?4;Escape Peak (Si);9860
+Ti;K?1;Sum Peak (2x);9866.8
+Ti;K?3;Sum Peak (2x);9866.8
+Ge;K?1;Emission Line;9886
+V;K?2;Sum Peak (2x);9890.4
+Rn;L?2;Escape Peak (Si);9897
+Hg;L?2;Emission Line;9899
+V;K?1;Sum Peak (2x);9905.8
+Au;L?3;Escape Peak (Si);9910
+Ti;K?5;Sum Peak (2x);9928
+Hg;L?1;Emission Line;9989
+Br;K?3;Escape Peak (Si);9992
+Re;L?1;Emission Line;10010
+As;K?3;Escape Peak (Si);10020.8
+As;K?1;Escape Peak (Si);10025.8
+Rn;L?1;Escape Peak (Si);10027
+Pr;L?2;Sum Peak (2x);10031.4
+Pr;L?1;Sum Peak (2x);10070.4
+La;L?1;Sum Peak (2x);10076
+La;L?4;Sum Peak (2x);10114
+Hg;L?1;Escape Peak (Si);10124
+As;K?5;Escape Peak (Si);10125.3
+Re;L?3;Emission Line;10160
+As;K?2;Escape Peak (Si);10164
+Tl;L?2;Emission Line;10173
+Os;L?4;Emission Line;10176
+Br;K?2;Escape Peak (Si);10178
+Fr;L?2;Escape Peak (Si);10195
+Au;L?5;Escape Peak (Si);10214
+Br;K?1;Escape Peak (Si);10224
+Tl;L?4;Escape Peak (Si);10231
+Ga;K?3;Emission Line;10263.5
+Ga;K?1;Emission Line;10267
+Tl;L?1;Emission Line;10269
+La;L?3;Sum Peak (2x);10276
+Hg;L?3;Escape Peak (Si);10292
+Fr;L?1;Escape Peak (Si);10331
+As;K?3;Emission Line;10340
+Ga;K?5;Emission Line;10348.3
+Os;L?1;Emission Line;10354
+Nd;L?2;Sum Peak (2x);10409.4
+Pb;L?2;Emission Line;10449
+Nd;L?1;Sum Peak (2x);10455.2
+Ra;L?2;Escape Peak (Si);10496
+As;K?2;Emission Line;10507.9
+Ir;L?4;Emission Line;10510
+Os;L?3;Emission Line;10511
+Tl;L?1;Escape Peak (Si);10513
+Ce;L?1;Sum Peak (2x);10523.2
+As;K?1;Emission Line;10543.4
+Ce;L?4;Sum Peak (2x);10548
+Pb;L?1;Emission Line;10551
+Hg;L?5;Escape Peak (Si);10574.4
+Cr;K?3;Sum Peak (2x);10586
+Pb;L?4;Escape Peak (Si);10607
+Ra;L?1;Escape Peak (Si);10639
+Tl;L?3;Escape Peak (Si);10690
+Kr;K?3;Escape Peak (Si);10705
+Ir;L?1;Emission Line;10708
+Ce;L?3;Sum Peak (2x);10722
+Bi;L?2;Emission Line;10731
+Se;K?3;Escape Peak (Si);10791.5
+Se;K?1;Escape Peak (Si);10797.3
+Ac;L?2;Escape Peak (Si);10801
+Cr;K?2;Sum Peak (2x);10810.4
+Pm;L?2;Sum Peak (2x);10814
+Cr;K?1;Sum Peak (2x);10829.8
+Bi;L?1;Emission Line;10839
+Pt;L?4;Emission Line;10853
+V;K?3;Sum Peak (2x);10855.6
+V;K?1;Sum Peak (2x);10855.6
+Pm;L?1;Sum Peak (2x);10864
+Ir;L?3;Emission Line;10868
+Kr;K?2;Escape Peak (Si);10895.1
+Se;K?5;Escape Peak (Si);10902.5
+Pb;L?1;Escape Peak (Si);10914
+V;K?5;Sum Peak (2x);10926
+Tl;L?5;Escape Peak (Si);10943.3
+Kr;K?1;Escape Peak (Si);10947.6
+Ac;L?1;Escape Peak (Si);10952
+Se;K?2;Escape Peak (Si);10955
+Ge;K?3;Emission Line;10978.1
+Ge;K?1;Emission Line;10982.2
+Pr;L?1;Sum Peak (2x);10983.4
+Bi;L?4;Escape Peak (Si);10992
+Pr;L?4;Sum Peak (2x);10996
+Se;K?3;Emission Line;11006
+Po;L?2;Emission Line;11016
+Pt;L?1;Emission Line;11071
+Ge;K?5;Emission Line;11073.2
+Pb;L?3;Escape Peak (Si);11095
+Th;L?2;Escape Peak (Si);11109
+Po;L?1;Emission Line;11131
+Se;K?2;Emission Line;11183.7
+Pr;L?3;Sum Peak (2x);11186
+Au;L?4;Emission Line;11205
+Sm;L?2;Sum Peak (2x);11210.2
+Se;K?1;Emission Line;11224.1
+Pt;L?3;Emission Line;11235
+Sm;L?1;Sum Peak (2x);11265.2
+Th;L?1;Escape Peak (Si);11268
+At;L?2;Emission Line;11305
+Pb;L?5;Escape Peak (Si);11314.3
+Bi;L?1;Escape Peak (Si);11323
+Po;L?4;Escape Peak (Si);11385
+Pa;L?2;Escape Peak (Si);11422
+At;L?1;Emission Line;11427
+Rb;K?3;Escape Peak (Si);11435
+Nd;L?1;Sum Peak (2x);11437.4
+Au;L?1;Emission Line;11443
+Nd;L?4;Sum Peak (2x);11446
+Bi;L?3;Escape Peak (Si);11511
+Mn;K?3;Sum Peak (2x);11539.8
+Hg;L?4;Emission Line;11560
+Br;K?3;Escape Peak (Si);11585
+Pa;L?1;Escape Peak (Si);11591
+Br;K?1;Escape Peak (Si);11592
+Rn;L?2;Emission Line;11597
+Au;L?3;Emission Line;11610
+Rb;K?2;Escape Peak (Si);11636
+Eu;L?2;Sum Peak (2x);11636.8
+Nd;L?3;Sum Peak (2x);11658
+Br;K?3;Emission Line;11692
+Bi;L?5;Escape Peak (Si);11692.1
+Rb;K?1;Escape Peak (Si);11696
+Eu;L?1;Sum Peak (2x);11699
+Br;K?5;Escape Peak (Si);11704
+As;K?3;Emission Line;11720.8
+As;K?1;Emission Line;11725.8
+Rn;L?1;Emission Line;11727
+U;L?2;Escape Peak (Si);11738
+Po;L?1;Escape Peak (Si);11746
+Br;K?2;Escape Peak (Si);11771
+Mn;K?2;Sum Peak (2x);11778.2
+At;L?4;Escape Peak (Si);11785
+Mn;K?1;Sum Peak (2x);11800.6
+Hg;L?1;Emission Line;11824
+As;K?5;Emission Line;11825.3
+As;K?2;Emission Line;11864
+Br;K?2;Emission Line;11878
+Cr;K?1;Sum Peak (2x);11893.6
+Cr;K?3;Sum Peak (2x);11893.6
+Fr;L?2;Emission Line;11895
+Pm;L?4;Sum Peak (2x);11913.2
+Au;L?5;Emission Line;11914
+U;L?1;Escape Peak (Si);11914
+Pm;L?1;Sum Peak (2x);11922
+Br;K?1;Emission Line;11924
+Tl;L?4;Emission Line;11931
+Po;L?3;Escape Peak (Si);11937
+Cr;K?5;Sum Peak (2x);11974
+Hg;L?3;Emission Line;11992
+Fr;L?1;Emission Line;12031
+Gd;L?2;Sum Peak (2x);12042.2
+Np;L?2;Escape Peak (Si);12061
+Po;L?5;Escape Peak (Si);12083
+Gd;L?1;Sum Peak (2x);12106.8
+Pm;L?3;Sum Peak (2x);12142
+At;L?1;Escape Peak (Si);12176
+Sr;K?3;Escape Peak (Si);12189
+Rn;L?4;Escape Peak (Si);12190
+Ra;L?2;Emission Line;12196
+Tl;L?1;Emission Line;12213
+Np;L?1;Escape Peak (Si);12246
+Hg;L?5;Emission Line;12274.4
+Pb;L?4;Emission Line;12307
+Ra;L?1;Emission Line;12339
+At;L?3;Escape Peak (Si);12367
+Pu;L?2;Escape Peak (Si);12387
+Tl;L?3;Emission Line;12390
+Sm;L?4;Sum Peak (2x);12392
+Sr;K?2;Escape Peak (Si);12398
+Sm;L?1;Sum Peak (2x);12402.2
+Kr;K?3;Escape Peak (Si);12403.8
+Kr;K?3;Emission Line;12405
+Kr;K?1;Escape Peak (Si);12411.6
+Sr;K?1;Escape Peak (Si);12465
+At;L?5;Escape Peak (Si);12474
+Tb;L?2;Sum Peak (2x);12474.2
+Se;K?3;Emission Line;12491.5
+Se;K?1;Emission Line;12497.3
+Ac;L?2;Emission Line;12501
+Kr;K?5;Escape Peak (Si);12531
+Fe;K?3;Sum Peak (2x);12534.8
+Tb;L?1;Sum Peak (2x);12545.8
+Pu;L?1;Escape Peak (Si);12582
+Kr;K?2;Emission Line;12595.1
+Se;K?5;Emission Line;12602.5
+Kr;K?2;Escape Peak (Si);12611.9
+Fr;L?4;Escape Peak (Si);12612
+Pb;L?1;Emission Line;12614
+Rn;L?1;Escape Peak (Si);12615
+Sm;L?3;Sum Peak (2x);12634.4
+Tl;L?5;Emission Line;12643.3
+Kr;K?1;Emission Line;12647.6
+Ac;L?1;Emission Line;12652
+Se;K?2;Emission Line;12655
+Bi;L?4;Emission Line;12692
+Am;L?2;Escape Peak (Si);12714
+Fe;K?2;Sum Peak (2x);12784.2
+Pb;L?3;Emission Line;12795
+Th;L?2;Emission Line;12809
+Fe;K?1;Sum Peak (2x);12810.4
+Rn;L?3;Escape Peak (Si);12811
+Rn;L?5;Escape Peak (Si);12871
+Eu;L?4;Sum Peak (2x);12876
+Dy;L?2;Sum Peak (2x);12914
+Eu;L?1;Sum Peak (2x);12916.8
+Am;L?1;Escape Peak (Si);12920
+Y;K?3;Escape Peak (Si);12965
+Th;L?1;Emission Line;12968
+Mn;K?3;Sum Peak (2x);12983.6
+Mn;K?1;Sum Peak (2x);12983.6
+Dy;L?1;Sum Peak (2x);12996
+Pb;L?5;Emission Line;13014.3
+Bi;L?1;Emission Line;13023
+Cm;L?2;Escape Peak (Si);13046
+Ra;L?4;Escape Peak (Si);13047
+Fr;L?1;Escape Peak (Si);13071
+Mn;K?5;Sum Peak (2x);13074
+Po;L?4;Emission Line;13085
+Pa;L?2;Emission Line;13122
+Rb;K?3;Emission Line;13135
+Eu;L?3;Sum Peak (2x);13142
+Y;K?2;Escape Peak (Si);13182
+Bi;L?3;Emission Line;13211
+Rb;K?3;Escape Peak (Si);13251.3
+Y;K?1;Escape Peak (Si);13258
+Rb;K?1;Escape Peak (Si);13260.9
+Cm;L?1;Escape Peak (Si);13261
+Fr;L?5;Escape Peak (Si);13273
+Fr;L?3;Escape Peak (Si);13276
+Br;K?3;Emission Line;13285
+Pa;L?1;Emission Line;13291
+Br;K?1;Emission Line;13292
+Rb;K?2;Emission Line;13336
+Ho;L?2;Sum Peak (2x);13358
+Gd;L?4;Sum Peak (2x);13376
+Bk;L?2;Escape Peak (Si);13382
+Rb;K?5;Escape Peak (Si);13387
+Bi;L?5;Emission Line;13392.1
+Rb;K?1;Emission Line;13396
+Br;K?5;Emission Line;13404
+Gd;L?1;Sum Peak (2x);13416.2
+U;L?2;Emission Line;13438
+Ho;L?1;Sum Peak (2x);13440
+Po;L?1;Emission Line;13446
+Br;K?2;Emission Line;13471
+Rb;K?2;Escape Peak (Si);13483.7
+Ac;L?4;Escape Peak (Si);13484
+At;L?4;Emission Line;13485
+Ra;L?1;Escape Peak (Si);13536
+Co;K?3;Sum Peak (2x);13567.8
+Bk;L?1;Escape Peak (Si);13608
+U;L?1;Emission Line;13614
+Po;L?3;Emission Line;13637
+Gd;L?3;Sum Peak (2x);13664
+Ra;L?5;Escape Peak (Si);13676
+Cf;L?2;Escape Peak (Si);13723
+Ra;L?3;Escape Peak (Si);13745
+Np;L?2;Emission Line;13761
+Zr;K?3;Escape Peak (Si);13766
+Po;L?5;Emission Line;13783
+Er;L?2;Sum Peak (2x);13810
+Co;K?2;Sum Peak (2x);13831.6
+Co;K?1;Sum Peak (2x);13861.8
+At;L?1;Emission Line;13876
+Tb;L?4;Sum Peak (2x);13880
+Sr;K?3;Emission Line;13889
+Rn;L?4;Emission Line;13890
+Er;L?1;Sum Peak (2x);13898
+Th;L?4;Escape Peak (Si);13942
+Np;L?1;Emission Line;13946
+Tb;L?1;Sum Peak (2x);13950.2
+Cf;L?1;Escape Peak (Si);13960
+Zr;K?2;Escape Peak (Si);13991
+Ac;L?1;Escape Peak (Si);14013
+At;L?3;Emission Line;14067
+Zr;K?1;Escape Peak (Si);14075
+Pu;L?2;Emission Line;14087
+Ac;L?5;Escape Peak (Si);14091
+Sr;K?2;Emission Line;14098
+Kr;K?3;Emission Line;14103.8
+Kr;K?1;Emission Line;14111.6
+Fe;K?3;Sum Peak (2x);14118.6
+Fe;K?1;Sum Peak (2x);14118.6
+Sr;K?3;Escape Peak (Si);14124.7
+Sr;K?1;Escape Peak (Si);14135
+Sr;K?1;Emission Line;14165
+At;L?5;Emission Line;14174
+Tb;L?3;Sum Peak (2x);14194
+Fe;K?5;Sum Peak (2x);14220
+Kr;K?5;Emission Line;14231
+Ac;L?3;Escape Peak (Si);14231
+Tm;L?2;Sum Peak (2x);14266
+Sr;K?5;Escape Peak (Si);14269
+Pu;L?1;Emission Line;14282
+Kr;K?2;Emission Line;14311.9
+Fr;L?4;Emission Line;14312
+Rn;L?1;Emission Line;14315
+Tm;L?1;Sum Peak (2x);14360
+Sr;K?2;Escape Peak (Si);14383.4
+Pa;L?4;Escape Peak (Si);14404
+Dy;L?4;Sum Peak (2x);14408
+Am;L?2;Emission Line;14414
+Dy;L?1;Sum Peak (2x);14496
+Th;L?1;Escape Peak (Si);14502
+Th;L?5;Escape Peak (Si);14507.5
+Rn;L?3;Emission Line;14511
+Rn;L?5;Emission Line;14571
+Nb;K?3;Escape Peak (Si);14588
+Am;L?1;Emission Line;14620
+Ni;K?3;Sum Peak (2x);14648.8
+Y;K?3;Emission Line;14665
+Th;L?3;Escape Peak (Si);14726
+Yb;L?2;Sum Peak (2x);14736
+Dy;L?3;Sum Peak (2x);14740
+Cm;L?2;Emission Line;14746
+Ra;L?4;Emission Line;14747
+Fr;L?1;Emission Line;14771
+Nb;K?2;Escape Peak (Si);14821
+Yb;L?1;Sum Peak (2x);14832
+U;L?4;Escape Peak (Si);14875
+Y;K?2;Emission Line;14882
+Nb;K?1;Escape Peak (Si);14915
+Ni;K?2;Sum Peak (2x);14926
+Pa;L?5;Escape Peak (Si);14939
+Ho;L?4;Sum Peak (2x);14942
+Rb;K?3;Emission Line;14951.3
+Y;K?1;Emission Line;14958
+Ni;K?1;Sum Peak (2x);14960.6
+Rb;K?1;Emission Line;14960.9
+Cm;L?1;Emission Line;14961
+Fr;L?5;Emission Line;14973
+Fr;L?3;Emission Line;14976
+Pa;L?1;Escape Peak (Si);15003
+Y;K?3;Escape Peak (Si);15027.4
+Y;K?1;Escape Peak (Si);15039.2
+Ho;L?1;Sum Peak (2x);15052
+Bk;L?2;Emission Line;15082
+Rb;K?5;Emission Line;15087
+Y;K?5;Escape Peak (Si);15180.3
+Rb;K?2;Emission Line;15183.7
+Ac;L?4;Emission Line;15184
+Lu;L?2;Sum Peak (2x);15210
+Pa;L?3;Escape Peak (Si);15231
+Ra;L?1;Emission Line;15236
+Co;K?1;Sum Peak (2x);15298.2
+Co;K?3;Sum Peak (2x);15300.2
+Ho;L?3;Sum Peak (2x);15306
+Bk;L?1;Emission Line;15308
+Lu;L?1;Sum Peak (2x);15310
+Y;K?2;Escape Peak (Si);15313.6
+Np;L?4;Escape Peak (Si);15361
+U;L?5;Escape Peak (Si);15363.2
+Ra;L?5;Emission Line;15376
+Co;K?5;Sum Peak (2x);15412
+Cf;L?2;Emission Line;15423
+Mo;K?3;Escape Peak (Si);15434
+Ra;L?3;Emission Line;15445
+Zr;K?3;Emission Line;15466
+Er;L?4;Sum Peak (2x);15490
+U;L?1;Escape Peak (Si);15520
+Er;L?1;Sum Peak (2x);15622
+Th;L?4;Emission Line;15642
+Cf;L?1;Emission Line;15660
+Mo;K?2;Escape Peak (Si);15675
+Hf;L?2;Sum Peak (2x);15690
+Zr;K?2;Emission Line;15691
+Ac;L?1;Emission Line;15713
+U;L?3;Escape Peak (Si);15754
+Cu;K?3;Sum Peak (2x);15764.6
+Zr;K?1;Emission Line;15775
+Mo;K?1;Escape Peak (Si);15780
+Ac;L?5;Emission Line;15791
+Hf;L?1;Sum Peak (2x);15798
+Np;L?5;Escape Peak (Si);15801
+Sr;K?3;Emission Line;15824.7
+Sr;K?1;Emission Line;15835
+Pu;L?4;Escape Peak (Si);15857
+Er;L?3;Sum Peak (2x);15878
+Ac;L?3;Emission Line;15931
+Zr;K?3;Escape Peak (Si);15954.5
+Zr;K?1;Escape Peak (Si);15968.2
+Sr;K?5;Emission Line;15969
+Np;L?1;Escape Peak (Si);16051
+Tm;L?4;Sum Peak (2x);16052
+Cu;K?2;Sum Peak (2x);16053.4
+Sr;K?2;Emission Line;16083.4
+Cu;K?1;Sum Peak (2x);16092.6
+Pa;L?4;Emission Line;16104
+Zr;K?5;Escape Peak (Si);16116.9
+Ta;L?2;Sum Peak (2x);16176
+Th;L?1;Emission Line;16202
+Tm;L?1;Sum Peak (2x);16204
+Th;L?5;Emission Line;16207.5
+Pu;L?5;Escape Peak (Si);16244
+Zr;K?2;Escape Peak (Si);16269.5
+Nb;K?3;Emission Line;16288
+Np;L?3;Escape Peak (Si);16292
+Ta;L?1;Sum Peak (2x);16292
+Tc;K?3;Escape Peak (Si);16301
+Am;L?4;Escape Peak (Si);16369
+Th;L?3;Emission Line;16426
+Tm;L?3;Sum Peak (2x);16462
+Nb;K?2;Emission Line;16521
+Ni;K?3;Sum Peak (2x);16530
+Ni;K?1;Sum Peak (2x);16533.6
+Tc;K?2;Escape Peak (Si);16551
+U;L?4;Emission Line;16575
+Pu;L?1;Escape Peak (Si);16596
+Nb;K?1;Emission Line;16615
+Yb;L?4;Sum Peak (2x);16626
+Pa;L?5;Emission Line;16639
+Ni;K?5;Sum Peak (2x);16658
+Tc;K?1;Escape Peak (Si);16667
+W;L?2;Sum Peak (2x);16670
+Am;L?5;Escape Peak (Si);16694
+Pa;L?1;Emission Line;16703
+Y;K?3;Emission Line;16727.4
+Y;K?1;Emission Line;16739.2
+W;L?1;Sum Peak (2x);16796
+Yb;L?1;Sum Peak (2x);16804
+Pu;L?3;Escape Peak (Si);16841
+Y;K?5;Emission Line;16880.3
+Cm;L?4;Escape Peak (Si);16889
+Nb;K?3;Escape Peak (Si);16909.9
+Nb;K?1;Escape Peak (Si);16925.4
+Zn;K?3;Sum Peak (2x);16925.6
+Pa;L?3;Emission Line;16931
+Y;K?2;Emission Line;17013.6
+Np;L?4;Emission Line;17061
+U;L?5;Emission Line;17063.2
+Yb;L?3;Sum Peak (2x);17072
+Nb;K?5;Escape Peak (Si);17081
+Mo;K?3;Emission Line;17134
+Cm;L?5;Escape Peak (Si);17146
+Am;L?1;Escape Peak (Si);17156
+Re;L?2;Sum Peak (2x);17172
+Ru;K?3;Escape Peak (Si);17193
+Lu;L?4;Sum Peak (2x);17212
+U;L?1;Emission Line;17220
+Zn;K?2;Sum Peak (2x);17228.2
+Nb;K?2;Escape Peak (Si);17253.4
+Zn;K?1;Sum Peak (2x);17274.4
+Re;L?1;Sum Peak (2x);17304
+Mo;K?2;Emission Line;17375
+Am;L?3;Escape Peak (Si);17410
+Bk;L?4;Escape Peak (Si);17418
+Lu;L?1;Sum Peak (2x);17420
+Ru;K?2;Escape Peak (Si);17450
+U;L?3;Emission Line;17454
+Mo;K?1;Emission Line;17480
+Np;L?5;Emission Line;17501
+Pu;L?4;Emission Line;17557
+Ru;K?1;Escape Peak (Si);17579
+Bk;L?5;Escape Peak (Si);17605
+Zr;K?3;Emission Line;17654.5
+Zr;K?1;Emission Line;17668.2
+Os;L?2;Sum Peak (2x);17680
+Lu;L?3;Sum Peak (2x);17692
+Cm;L?1;Escape Peak (Si);17727
+Np;L?1;Emission Line;17751
+Cu;K?3;Sum Peak (2x);17803.4
+Cu;K?1;Sum Peak (2x);17807.8
+Hf;L?4;Sum Peak (2x);17812
+Zr;K?5;Emission Line;17816.9
+Os;L?1;Sum Peak (2x);17822
+Mo;K?3;Escape Peak (Si);17888.4
+Mo;K?1;Escape Peak (Si);17906
+Pu;L?5;Emission Line;17944
+Cu;K?5;Sum Peak (2x);17948
+Cf;L?4;Escape Peak (Si);17965
+Zr;K?2;Emission Line;17969.5
+Cm;L?3;Escape Peak (Si);17988
+Np;L?3;Emission Line;17992
+Tc;K?3;Emission Line;18001
+Hf;L?1;Sum Peak (2x);18046
+Mo;K?5;Escape Peak (Si);18068.9
+Am;L?4;Emission Line;18069
+Cf;L?5;Escape Peak (Si);18070
+Rh;K?3;Escape Peak (Si);18108
+Ga;K?3;Sum Peak (2x);18136
+Ir;L?2;Sum Peak (2x);18198
+Tc;K?2;Emission Line;18251
+Mo;K?2;Escape Peak (Si);18262.4
+Pu;L?1;Emission Line;18296
+Bk;L?1;Escape Peak (Si);18318
+Hf;L?3;Sum Peak (2x);18328
+Ir;L?1;Sum Peak (2x);18350
+Tc;K?1;Emission Line;18367
+Rh;K?2;Escape Peak (Si);18374
+Am;L?5;Emission Line;18394
+Ta;L?4;Sum Peak (2x);18426
+Ga;K?2;Sum Peak (2x);18447.6
+Ga;K?1;Sum Peak (2x);18501.2
+Rh;K?1;Escape Peak (Si);18516
+Pu;L?3;Emission Line;18541
+Bk;L?3;Escape Peak (Si);18580
+Cm;L?4;Emission Line;18589
+Nb;K?3;Emission Line;18609.9
+Nb;K?1;Emission Line;18625.4
+Ta;L?1;Sum Peak (2x);18686
+Pt;L?2;Sum Peak (2x);18724
+Nb;K?5;Emission Line;18781
+Cm;L?5;Emission Line;18846
+Am;L?1;Emission Line;18856
+Pt;L?1;Sum Peak (2x);18884
+Ru;K?3;Emission Line;18893
+Tc;K?3;Escape Peak (Si);18896.4
+Cf;L?1;Escape Peak (Si);18924
+Tc;K?1;Escape Peak (Si);18926.3
+Nb;K?2;Emission Line;18953.4
+Ta;L?3;Sum Peak (2x);18976
+Pd;K?3;Escape Peak (Si);19046
+W;L?4;Sum Peak (2x);19050
+Tc;K?5;Escape Peak (Si);19086.4
+Am;L?3;Emission Line;19110
+Bk;L?4;Emission Line;19118
+Zn;K?3;Sum Peak (2x);19135.2
+Zn;K?1;Sum Peak (2x);19140.8
+Ru;K?2;Emission Line;19150
+Cf;L?3;Escape Peak (Si);19194
+Au;L?2;Sum Peak (2x);19256
+Ru;K?1;Emission Line;19279
+Zn;K?5;Sum Peak (2x);19297.6
+Tc;K?2;Escape Peak (Si);19301.7
+Bk;L?5;Emission Line;19305
+Pd;K?2;Escape Peak (Si);19320
+W;L?1;Sum Peak (2x);19344
+Ge;K?3;Sum Peak (2x);19376.8
+Au;L?1;Sum Peak (2x);19426
+Cm;L?1;Emission Line;19427
+Pd;K?1;Escape Peak (Si);19477
+Mo;K?3;Emission Line;19588.4
+Mo;K?1;Emission Line;19606
+W;L?3;Sum Peak (2x);19638
+Cf;L?4;Emission Line;19665
+Cm;L?3;Emission Line;19688
+Re;L?4;Sum Peak (2x);19690
+Ge;K?2;Sum Peak (2x);19709.8
+Mo;K?5;Emission Line;19768.9
+Cf;L?5;Emission Line;19770
+Ge;K?1;Sum Peak (2x);19772
+Hg;L?2;Sum Peak (2x);19798
+Rh;K?3;Emission Line;19808
+Ru;K?3;Escape Peak (Si);19933.7
+Ru;K?1;Escape Peak (Si);19955.5
+Mo;K?2;Emission Line;19962.4
+Hg;L?1;Sum Peak (2x);19978
+Ag;K?3;Escape Peak (Si);20008
+Bk;L?1;Emission Line;20018
+Re;L?1;Sum Peak (2x);20020
+Rh;K?2;Emission Line;20074
+Ru;K?5;Escape Peak (Si);20132.8
+Rh;K?1;Emission Line;20216
+Bk;L?3;Emission Line;20280
+Ag;K?2;Escape Peak (Si);20290
+Re;L?3;Sum Peak (2x);20320
+Tl;L?2;Sum Peak (2x);20346
+Os;L?4;Sum Peak (2x);20352
+Ru;K?2;Escape Peak (Si);20370.7
+Ag;K?1;Escape Peak (Si);20463
+Ga;K?3;Sum Peak (2x);20527
+Ga;K?1;Sum Peak (2x);20534
+Tl;L?1;Sum Peak (2x);20538
+Tc;K?3;Emission Line;20596.4
+Cf;L?1;Emission Line;20624
+Tc;K?1;Emission Line;20626.3
+As;K?3;Sum Peak (2x);20680
+Ga;K?5;Sum Peak (2x);20696.6
+Os;L?1;Sum Peak (2x);20708
+Pd;K?3;Emission Line;20746
+Tc;K?5;Emission Line;20786.4
+Cf;L?3;Emission Line;20894
+Pb;L?2;Sum Peak (2x);20898
+Cd;K?3;Escape Peak (Si);20993
+Rh;K?3;Escape Peak (Si);20998.7
+Tc;K?2;Emission Line;21001.7
+As;K?2;Sum Peak (2x);21015.8
+Pd;K?2;Emission Line;21020
+Ir;L?4;Sum Peak (2x);21020
+Os;L?3;Sum Peak (2x);21022
+Rh;K?1;Escape Peak (Si);21023.5
+As;K?1;Sum Peak (2x);21086.8
+Pb;L?1;Sum Peak (2x);21102
+Pd;K?1;Emission Line;21177
+Rh;K?5;Escape Peak (Si);21208.1
+Cd;K?2;Escape Peak (Si);21284
+Ir;L?1;Sum Peak (2x);21416
+Bi;L?2;Sum Peak (2x);21462
+Rh;K?2;Escape Peak (Si);21469.5
+Cd;K?1;Escape Peak (Si);21473
+Rh;K?4;Escape Peak (Si);21518
+Ru;K?3;Emission Line;21633.7
+Ru;K?1;Emission Line;21655.5
+Bi;L?1;Sum Peak (2x);21678
+Pt;L?4;Sum Peak (2x);21706
+Ag;K?3;Emission Line;21708
+Ir;L?3;Sum Peak (2x);21736
+Ru;K?5;Emission Line;21832.8
+Ge;K?3;Sum Peak (2x);21956.2
+Ge;K?1;Sum Peak (2x);21964.4
+Ag;K?2;Emission Line;21990
+In;K?3;Escape Peak (Si);22002
+Se;K?3;Sum Peak (2x);22012
+Po;L?2;Sum Peak (2x);22032
+Ru;K?2;Emission Line;22070.7
+Pd;K?3;Escape Peak (Si);22090.1
+Pd;K?1;Escape Peak (Si);22117.7
+Pt;L?1;Sum Peak (2x);22142
+Ge;K?5;Sum Peak (2x);22146.4
+Ag;K?1;Emission Line;22163
+Po;L?1;Sum Peak (2x);22262
+In;K?2;Escape Peak (Si);22302
+Pd;K?5;Escape Peak (Si);22309.5
+Se;K?2;Sum Peak (2x);22367.4
+Au;L?4;Sum Peak (2x);22410
+Se;K?1;Sum Peak (2x);22448.2
+Pt;L?3;Sum Peak (2x);22470
+In;K?1;Escape Peak (Si);22510
+Pd;K?2;Escape Peak (Si);22594.3
+At;L?2;Sum Peak (2x);22610
+Pd;K?4;Escape Peak (Si);22648
+Cd;K?3;Emission Line;22693
+Rh;K?3;Emission Line;22698.7
+Rh;K?1;Emission Line;22723.5
+At;L?1;Sum Peak (2x);22854
+Au;L?1;Sum Peak (2x);22886
+Rh;K?5;Emission Line;22908.1
+Cd;K?2;Emission Line;22984
+Sn;K?3;Escape Peak (Si);23035
+Hg;L?4;Sum Peak (2x);23120
+Rh;K?2;Emission Line;23169.5
+Cd;K?1;Emission Line;23173
+Rn;L?2;Sum Peak (2x);23194
+Ag;K?3;Escape Peak (Si);23210.2
+Rh;K?4;Emission Line;23218
+Au;L?3;Sum Peak (2x);23220
+Ag;K?1;Escape Peak (Si);23241
+Sn;K?2;Escape Peak (Si);23344
+Br;K?3;Sum Peak (2x);23384
+Ag;K?5;Escape Peak (Si);23440
+As;K?3;Sum Peak (2x);23441.6
+As;K?1;Sum Peak (2x);23451.6
+Rn;L?1;Sum Peak (2x);23454
+Sn;K?1;Escape Peak (Si);23571
+Hg;L?1;Sum Peak (2x);23648
+As;K?5;Sum Peak (2x);23650.6
+In;K?3;Emission Line;23702
+As;K?2;Sum Peak (2x);23728
+Ag;K?2;Escape Peak (Si);23750.3
+Br;K?2;Sum Peak (2x);23756
+Fr;L?2;Sum Peak (2x);23790
+Pd;K?3;Emission Line;23790.1
+Ag;K?4;Escape Peak (Si);23810
+Pd;K?1;Emission Line;23817.7
+Au;L?5;Sum Peak (2x);23828
+Br;K?1;Sum Peak (2x);23848
+Tl;L?4;Sum Peak (2x);23862
+Hg;L?3;Sum Peak (2x);23984
+In;K?2;Emission Line;24002
+Pd;K?5;Emission Line;24009.5
+Fr;L?1;Sum Peak (2x);24062
+Sb;K?3;Escape Peak (Si);24093
+In;K?1;Emission Line;24210
+Pd;K?2;Emission Line;24294.3
+Pd;K?4;Emission Line;24348
+Cd;K?3;Escape Peak (Si);24358.4
+Ra;L?2;Sum Peak (2x);24392
+Cd;K?1;Escape Peak (Si);24392.6
+Sb;K?2;Escape Peak (Si);24411
+Tl;L?1;Sum Peak (2x);24426
+Hg;L?5;Sum Peak (2x);24548.8
+Cd;K?5;Escape Peak (Si);24599.1
+Pb;L?4;Sum Peak (2x);24614
+Sb;K?1;Escape Peak (Si);24659
+Ra;L?1;Sum Peak (2x);24678
+Sn;K?3;Emission Line;24735
+Tl;L?3;Sum Peak (2x);24780
+Kr;K?3;Sum Peak (2x);24810
+Ag;K?3;Emission Line;24910.2
+Ag;K?1;Emission Line;24941
+Cd;K?2;Escape Peak (Si);24947.1
+Se;K?3;Sum Peak (2x);24983
+Se;K?1;Sum Peak (2x);24994.6
+Cd;K?4;Escape Peak (Si);24999.3
+Ac;L?2;Sum Peak (2x);25002
+Sn;K?2;Emission Line;25044
+Ag;K?5;Emission Line;25140
+Te;K?3;Escape Peak (Si);25175
+Kr;K?2;Sum Peak (2x);25190.2
+Se;K?5;Sum Peak (2x);25205
+Pb;L?1;Sum Peak (2x);25228
+Sn;K?1;Emission Line;25271
+Tl;L?5;Sum Peak (2x);25286.6
+Kr;K?1;Sum Peak (2x);25295.2
+Ac;L?1;Sum Peak (2x);25304
+Se;K?2;Sum Peak (2x);25310
+Bi;L?4;Sum Peak (2x);25384
+Ag;K?2;Emission Line;25450.3
+Te;K?2;Escape Peak (Si);25502
+Ag;K?4;Emission Line;25510
+In;K?3;Escape Peak (Si);25536.8
+In;K?1;Escape Peak (Si);25574.7
+Pb;L?3;Sum Peak (2x);25590
+Th;L?2;Sum Peak (2x);25618
+Te;K?1;Escape Peak (Si);25773
+In;K?5;Escape Peak (Si);25788.6
+Sb;K?3;Emission Line;25793
+Th;L?1;Sum Peak (2x);25936
+Pb;L?5;Sum Peak (2x);26028.6
+Bi;L?1;Sum Peak (2x);26046
+Cd;K?3;Emission Line;26058.4
+Cd;K?1;Emission Line;26092.6
+Sb;K?2;Emission Line;26111
+In;K?2;Escape Peak (Si);26166.5
+Po;L?4;Sum Peak (2x);26170
+In;K?4;Escape Peak (Si);26222.3
+Pa;L?2;Sum Peak (2x);26244
+Rb;K?3;Sum Peak (2x);26270
+I;K?3;Escape Peak (Si);26281
+Cd;K?5;Emission Line;26299.1
+Sb;K?1;Emission Line;26359
+Bi;L?3;Sum Peak (2x);26422
+Br;K?3;Sum Peak (2x);26570
+Pa;L?1;Sum Peak (2x);26582
+Br;K?1;Sum Peak (2x);26584
+I;K?2;Escape Peak (Si);26617
+Cd;K?2;Emission Line;26647.1
+Rb;K?2;Sum Peak (2x);26672
+Cd;K?4;Emission Line;26699.3
+Sn;K?3;Escape Peak (Si);26743.5
+Bi;L?5;Sum Peak (2x);26784.2
+Sn;K?1;Escape Peak (Si);26785.4
+Rb;K?1;Sum Peak (2x);26792
+Br;K?5;Sum Peak (2x);26808
+Te;K?3;Emission Line;26875
+U;L?2;Sum Peak (2x);26876
+Po;L?1;Sum Peak (2x);26892
+I;K?1;Escape Peak (Si);26912
+Br;K?2;Sum Peak (2x);26942
+At;L?4;Sum Peak (2x);26970
+Sn;K?5;Escape Peak (Si);27006.8
+Te;K?2;Emission Line;27202
+U;L?1;Sum Peak (2x);27228
+In;K?3;Emission Line;27236.8
+Po;L?3;Sum Peak (2x);27274
+In;K?1;Emission Line;27274.7
+Xe;K?3;Escape Peak (Si);27408
+Sn;K?2;Escape Peak (Si);27416.4
+Te;K?1;Emission Line;27473
+Sn;K?4;Escape Peak (Si);27475.1
+In;K?5;Emission Line;27488.6
+Np;L?2;Sum Peak (2x);27522
+Po;L?5;Sum Peak (2x);27566
+At;L?1;Sum Peak (2x);27752
+Xe;K?2;Escape Peak (Si);27754
+Sr;K?3;Sum Peak (2x);27778
+Rn;L?4;Sum Peak (2x);27780
+In;K?2;Emission Line;27866.5
+Np;L?1;Sum Peak (2x);27892
+In;K?4;Emission Line;27922.3
+Sb;K?3;Escape Peak (Si);27978.3
+I;K?3;Emission Line;27981
+Sb;K?1;Escape Peak (Si);28024.6
+Xe;K?1;Escape Peak (Si);28075
+At;L?3;Sum Peak (2x);28134
+Pu;L?2;Sum Peak (2x);28174
+Sr;K?2;Sum Peak (2x);28196
+Kr;K?3;Sum Peak (2x);28207.6
+Kr;K?1;Sum Peak (2x);28223.2
+Sb;K?5;Escape Peak (Si);28253.5
+I;K?2;Emission Line;28317
+Sr;K?1;Sum Peak (2x);28330
+At;L?5;Sum Peak (2x);28348
+Sn;K?3;Emission Line;28443.5
+Kr;K?5;Sum Peak (2x);28462
+Sn;K?1;Emission Line;28485.4
+Pu;L?1;Sum Peak (2x);28564
+Cs;K?3;Escape Peak (Si);28571
+I;K?1;Emission Line;28612
+Kr;K?2;Sum Peak (2x);28623.8
+Fr;L?4;Sum Peak (2x);28624
+Rn;L?1;Sum Peak (2x);28630
+Sb;K?2;Escape Peak (Si);28695.4
+Sn;K?5;Emission Line;28706.8
+Sb;K?4;Escape Peak (Si);28757.7
+Am;L?2;Sum Peak (2x);28828
+Cs;K?2;Escape Peak (Si);28926
+Rn;L?3;Sum Peak (2x);29022
+Xe;K?3;Emission Line;29108
+Sn;K?2;Emission Line;29116.4
+Rn;L?5;Sum Peak (2x);29142
+Sn;K?4;Emission Line;29175.1
+Am;L?1;Sum Peak (2x);29240
+Te;K?3;Escape Peak (Si);29243.2
+Cs;K?1;Escape Peak (Si);29273
+Te;K?1;Escape Peak (Si);29293.2
+Y;K?3;Sum Peak (2x);29330
+Xe;K?2;Emission Line;29454
+Cm;L?2;Sum Peak (2x);29492
+Ra;L?4;Sum Peak (2x);29494
+Te;K?5;Escape Peak (Si);29530.6
+Fr;L?1;Sum Peak (2x);29542
+Sb;K?3;Emission Line;29678.3
+Sb;K?1;Emission Line;29724.6
+Ba;K?3;Escape Peak (Si);29752
+Y;K?2;Sum Peak (2x);29764
+Xe;K?1;Emission Line;29775
+Rb;K?3;Sum Peak (2x);29902.6
+Y;K?1;Sum Peak (2x);29916
+Rb;K?1;Sum Peak (2x);29921.8
+Cm;L?1;Sum Peak (2x);29922
+Fr;L?5;Sum Peak (2x);29946
+Fr;L?3;Sum Peak (2x);29952
+Sb;K?5;Emission Line;29953.5
+Te;K?2;Escape Peak (Si);30010.7
+Te;K?4;Escape Peak (Si);30072.1
+Ba;K?2;Escape Peak (Si);30117
+Bk;L?2;Sum Peak (2x);30164
+Rb;K?5;Sum Peak (2x);30174
+Cs;K?3;Emission Line;30271
+Rb;K?2;Sum Peak (2x);30367.4
+Ac;L?4;Sum Peak (2x);30368
+Sb;K?2;Emission Line;30395.4
+Sb;K?4;Emission Line;30457.7
+Ra;L?1;Sum Peak (2x);30472
+Ba;K?1;Escape Peak (Si);30494
+I;K?3;Escape Peak (Si);30538
+I;K?1;Escape Peak (Si);30594
+Bk;L?1;Sum Peak (2x);30616
+Cs;K?2;Emission Line;30626
+Ra;L?5;Sum Peak (2x);30752
+I;K?5;Escape Peak (Si);30838.2
+Cf;L?2;Sum Peak (2x);30846
+Ra;L?3;Sum Peak (2x);30890
+Zr;K?3;Sum Peak (2x);30932
+Te;K?3;Emission Line;30943.2
+La;K?3;Escape Peak (Si);30959
+Cs;K?1;Emission Line;30973
+Te;K?1;Emission Line;30993.2
+Te;K?5;Emission Line;31230.6
+Th;L?4;Sum Peak (2x);31284
+Cf;L?1;Sum Peak (2x);31320
+La;K?2;Escape Peak (Si);31334
+I;K?2;Escape Peak (Si);31346
+Zr;K?2;Sum Peak (2x);31382
+I;K?4;Escape Peak (Si);31418.4
+Ac;L?1;Sum Peak (2x);31426
+Ba;K?3;Emission Line;31452
+Zr;K?1;Sum Peak (2x);31550
+Ac;L?5;Sum Peak (2x);31582
+Sr;K?3;Sum Peak (2x);31649.4
+Sr;K?1;Sum Peak (2x);31670
+Te;K?2;Emission Line;31710.7
+La;K?1;Escape Peak (Si);31742
+Te;K?4;Emission Line;31772.1
+Ba;K?2;Emission Line;31817
+Xe;K?3;Escape Peak (Si);31858.9
+Ac;L?3;Sum Peak (2x);31862
+Xe;K?1;Escape Peak (Si);31920.4
+Sr;K?5;Sum Peak (2x);31938
+Sr;K?2;Sum Peak (2x);32166.8
+Xe;K?5;Escape Peak (Si);32172
+Ba;K?1;Emission Line;32194
+Ce;K?3;Escape Peak (Si);32195
+Pa;L?4;Sum Peak (2x);32208
+I;K?3;Emission Line;32238
+I;K?1;Emission Line;32294
+Th;L?1;Sum Peak (2x);32404
+Th;L?5;Sum Peak (2x);32415
+I;K?5;Emission Line;32538.2
+Nb;K?3;Sum Peak (2x);32576
+Ce;K?2;Escape Peak (Si);32579
+La;K?3;Emission Line;32659
+Xe;K?2;Escape Peak (Si);32714.3
+Xe;K?4;Escape Peak (Si);32791.5
+Th;L?3;Sum Peak (2x);32852
+Ce;K?1;Escape Peak (Si);33020
+La;K?2;Emission Line;33034
+Nb;K?2;Sum Peak (2x);33042
+I;K?2;Emission Line;33046
+I;K?4;Emission Line;33118.4
+U;L?4;Sum Peak (2x);33150
+Cs;K?3;Escape Peak (Si);33214
+Nb;K?1;Sum Peak (2x);33230
+Pa;L?5;Sum Peak (2x);33278
+Cs;K?1;Escape Peak (Si);33282
+Pa;L?1;Sum Peak (2x);33406
+La;K?1;Emission Line;33442
+Y;K?3;Sum Peak (2x);33454.8
+Pr;K?3;Escape Peak (Si);33456
+Y;K?1;Sum Peak (2x);33478.4
+Cs;K?5;Escape Peak (Si);33544.5
+Xe;K?3;Emission Line;33558.9
+Xe;K?1;Emission Line;33620.4
+Y;K?5;Sum Peak (2x);33760.6
+Pr;K?2;Escape Peak (Si);33851
+Pa;L?3;Sum Peak (2x);33862
+Xe;K?5;Emission Line;33872
+Ce;K?3;Emission Line;33895
+Y;K?2;Sum Peak (2x);34027.2
+Cs;K?2;Escape Peak (Si);34112.6
+Np;L?4;Sum Peak (2x);34122
+U;L?5;Sum Peak (2x);34126.4
+Cs;K?4;Escape Peak (Si);34205.2
+Mo;K?3;Sum Peak (2x);34268
+Ce;K?2;Emission Line;34279
+Pr;K?1;Escape Peak (Si);34327
+Xe;K?2;Emission Line;34414.3
+U;L?1;Sum Peak (2x);34440
+Xe;K?4;Emission Line;34491.5
+Ba;K?3;Escape Peak (Si);34604
+Ba;K?1;Escape Peak (Si);34678
+Ce;K?1;Emission Line;34720
+Nd;K?3;Escape Peak (Si);34743
+Mo;K?2;Sum Peak (2x);34750
+U;L?3;Sum Peak (2x);34908
+Cs;K?3;Emission Line;34914
+Ba;K?5;Escape Peak (Si);34945.3
+Mo;K?1;Sum Peak (2x);34960
+Cs;K?1;Emission Line;34982
+Np;L?5;Sum Peak (2x);35002
+Pu;L?4;Sum Peak (2x);35114
+Nd;K?2;Escape Peak (Si);35147
+Pr;K?3;Emission Line;35156
+Cs;K?5;Emission Line;35244.5
+Zr;K?3;Sum Peak (2x);35309
+Zr;K?1;Sum Peak (2x);35336.4
+Np;L?1;Sum Peak (2x);35502
+Ba;K?2;Escape Peak (Si);35549
+Pr;K?2;Emission Line;35551
+Zr;K?5;Sum Peak (2x);35633.8
+Ba;K?4;Escape Peak (Si);35648.4
+Nd;K?1;Escape Peak (Si);35661
+Cs;K?2;Emission Line;35812.6
+Pu;L?5;Sum Peak (2x);35888
+Cs;K?4;Emission Line;35905.2
+Zr;K?2;Sum Peak (2x);35939
+Np;L?3;Sum Peak (2x);35984
+Tc;K?3;Sum Peak (2x);36002
+La;K?3;Escape Peak (Si);36016
+Pr;K?1;Emission Line;36027
+Pm;K?3;Escape Peak (Si);36056
+La;K?1;Escape Peak (Si);36097
+Am;L?4;Sum Peak (2x);36138
+Ba;K?3;Emission Line;36304
+La;K?5;Escape Peak (Si);36372
+Ba;K?1;Emission Line;36378
+Nd;K?3;Emission Line;36443
+Pm;K?2;Escape Peak (Si);36471
+Tc;K?2;Sum Peak (2x);36502
+Pu;L?1;Sum Peak (2x);36592
+Ba;K?5;Emission Line;36645.3
+Tc;K?1;Sum Peak (2x);36734
+Am;L?5;Sum Peak (2x);36788
+Nd;K?2;Emission Line;36847
+La;K?2;Escape Peak (Si);37019.2
+Pm;K?1;Escape Peak (Si);37025
+Pu;L?3;Sum Peak (2x);37082
+La;K?4;Escape Peak (Si);37119.7
+Cm;L?4;Sum Peak (2x);37178
+Nb;K?3;Sum Peak (2x);37219.8
+Ba;K?2;Emission Line;37249
+Nb;K?1;Sum Peak (2x);37250.8
+Ba;K?4;Emission Line;37348.4
+Nd;K?1;Emission Line;37361
+Sm;K?3;Escape Peak (Si);37397
+Ce;K?3;Escape Peak (Si);37469
+Ce;K?1;Escape Peak (Si);37556
+Nb;K?5;Sum Peak (2x);37562
+Cm;L?5;Sum Peak (2x);37692
+Am;L?1;Sum Peak (2x);37712
+La;K?3;Emission Line;37716
+Pm;K?3;Emission Line;37756
+Ru;K?3;Sum Peak (2x);37786
+La;K?1;Emission Line;37797
+Sm;K?2;Escape Peak (Si);37822
+Ce;K?5;Escape Peak (Si);37840.6
+Nb;K?2;Sum Peak (2x);37906.8
+La;K?5;Emission Line;38072
+Pm;K?2;Emission Line;38171
+Am;L?3;Sum Peak (2x);38220
+Bk;L?4;Sum Peak (2x);38236
+Ru;K?2;Sum Peak (2x);38300
+Sm;K?1;Escape Peak (Si);38418
+Ce;K?2;Escape Peak (Si);38519.8
+Ru;K?1;Sum Peak (2x);38558
+Bk;L?5;Sum Peak (2x);38610
+Ce;K?4;Escape Peak (Si);38634
+La;K?2;Emission Line;38719.2
+Pm;K?1;Emission Line;38725
+Eu;K?3;Escape Peak (Si);38767
+La;K?4;Emission Line;38819.7
+Cm;L?1;Sum Peak (2x);38854
+Pr;K?3;Escape Peak (Si);38954
+Pr;K?1;Escape Peak (Si);39049
+Sm;K?3;Emission Line;39097
+Ce;K?3;Emission Line;39169
+Mo;K?3;Sum Peak (2x);39176.8
+Eu;K?2;Escape Peak (Si);39202
+Mo;K?1;Sum Peak (2x);39212
+Ce;K?1;Emission Line;39256
+Cf;L?4;Sum Peak (2x);39330
+Pr;K?5;Escape Peak (Si);39342.7
+Cm;L?3;Sum Peak (2x);39376
+Sm;K?2;Emission Line;39522
+Mo;K?5;Sum Peak (2x);39537.8
+Cf;L?5;Sum Peak (2x);39540
+Ce;K?5;Emission Line;39540.6
+Rh;K?3;Sum Peak (2x);39616
+Eu;K?1;Escape Peak (Si);39842
+Mo;K?2;Sum Peak (2x);39924.8
+Bk;L?1;Sum Peak (2x);40036
+Pr;K?2;Escape Peak (Si);40054.7
+Sm;K?1;Emission Line;40118
+Rh;K?2;Sum Peak (2x);40148
+Gd;K?3;Escape Peak (Si);40163
+Pr;K?4;Escape Peak (Si);40175.9
+Ce;K?2;Emission Line;40219.8
+Ce;K?4;Emission Line;40334
+Rh;K?1;Sum Peak (2x);40432
+Nd;K?3;Escape Peak (Si);40466
+Eu;K?3;Emission Line;40467
+Bk;L?3;Sum Peak (2x);40560
+Nd;K?1;Escape Peak (Si);40572
+Gd;K?2;Escape Peak (Si);40609
+Pr;K?3;Emission Line;40654
+Pr;K?1;Emission Line;40749
+Nd;K?5;Escape Peak (Si);40865.7
+Eu;K?2;Emission Line;40902
+Pr;K?5;Emission Line;41042.7
+Tc;K?3;Sum Peak (2x);41192.8
+Cf;L?1;Sum Peak (2x);41248
+Tc;K?1;Sum Peak (2x);41252.6
+Gd;K?1;Escape Peak (Si);41296
+Pd;K?3;Sum Peak (2x);41492
+Eu;K?1;Emission Line;41542
+Tc;K?5;Sum Peak (2x);41572.8
+Tb;K?3;Escape Peak (Si);41588
+Nd;K?2;Escape Peak (Si);41625.7
+Nd;K?4;Escape Peak (Si);41748.5
+Pr;K?2;Emission Line;41754.7
+Cf;L?3;Sum Peak (2x);41788
+Gd;K?3;Emission Line;41863
+Pr;K?4;Emission Line;41875.9
+Tc;K?2;Sum Peak (2x);42003.4
+Pm;K?3;Escape Peak (Si);42012.6
+Pd;K?2;Sum Peak (2x);42040
+Tb;K?2;Escape Peak (Si);42044
+Pm;K?1;Escape Peak (Si);42127
+Nd;K?3;Emission Line;42166
+Nd;K?1;Emission Line;42272
+Gd;K?2;Emission Line;42309
+Pd;K?1;Sum Peak (2x);42354
+Pm;K?5;Escape Peak (Si);42432
+Nd;K?5;Emission Line;42565.7
+Tb;K?1;Escape Peak (Si);42782
+Gd;K?1;Emission Line;42996
+Dy;K?3;Escape Peak (Si);43043
+Pm;K?2;Escape Peak (Si);43242
+Ru;K?3;Sum Peak (2x);43267.4
+Tb;K?3;Emission Line;43288
+Ru;K?1;Sum Peak (2x);43311
+Nd;K?2;Emission Line;43325.7
+Pm;K?4;Escape Peak (Si);43364
+Ag;K?3;Sum Peak (2x);43416
+Nd;K?4;Emission Line;43448.5
+Dy;K?2;Escape Peak (Si);43508
+Sm;K?3;Escape Peak (Si);43593
+Ru;K?5;Sum Peak (2x);43665.6
+Pm;K?3;Emission Line;43712.6
+Sm;K?1;Escape Peak (Si);43714.2
+Tb;K?2;Emission Line;43744
+Pm;K?1;Emission Line;43827
+Ag;K?2;Sum Peak (2x);43980
+Sm;K?5;Escape Peak (Si);44023.1
+Pm;K?5;Emission Line;44132
+Ru;K?2;Sum Peak (2x);44141.4
+Dy;K?1;Escape Peak (Si);44299
+Ag;K?1;Sum Peak (2x);44326
+Tb;K?1;Emission Line;44482
+Ho;K?3;Escape Peak (Si);44524
+Dy;K?3;Emission Line;44743
+Sm;K?2;Escape Peak (Si);44868.4
+Pm;K?2;Emission Line;44942
+Ho;K?2;Escape Peak (Si);45000
+Sm;K?4;Escape Peak (Si);45005
+Pm;K?4;Emission Line;45064
+Eu;K?3;Escape Peak (Si);45205
+Dy;K?2;Emission Line;45208
+Sm;K?3;Emission Line;45293
+Eu;K?1;Escape Peak (Si);45338
+Cd;K?3;Sum Peak (2x);45386
+Rh;K?3;Sum Peak (2x);45397.4
+Sm;K?1;Emission Line;45414.2
+Rh;K?1;Sum Peak (2x);45447
+Eu;K?5;Escape Peak (Si);45660.4
+Sm;K?5;Emission Line;45723.1
+Rh;K?5;Sum Peak (2x);45816.2
+Ho;K?1;Escape Peak (Si);45847
+Cd;K?2;Sum Peak (2x);45968
+Dy;K?1;Emission Line;45999
+Er;K?3;Escape Peak (Si);46035
+Ho;K?3;Emission Line;46224
+Rh;K?2;Sum Peak (2x);46339
+Cd;K?1;Sum Peak (2x);46346
+Rh;K?4;Sum Peak (2x);46436
+Er;K?2;Escape Peak (Si);46522
+Eu;K?2;Escape Peak (Si);46535
+Sm;K?2;Emission Line;46568.4
+Eu;K?4;Escape Peak (Si);46686
+Ho;K?2;Emission Line;46700
+Sm;K?4;Emission Line;46705
+Gd;K?3;Escape Peak (Si);46851
+Eu;K?3;Emission Line;46905
+Gd;K?1;Escape Peak (Si);46995
+Eu;K?1;Emission Line;47038
+Gd;K?5;Escape Peak (Si);47317.1
+Eu;K?5;Emission Line;47360.4
+In;K?3;Sum Peak (2x);47404
+Er;K?1;Escape Peak (Si);47428
+Ho;K?1;Emission Line;47547
+Tm;K?3;Escape Peak (Si);47574
+Pd;K?3;Sum Peak (2x);47580.2
+Pd;K?1;Sum Peak (2x);47635.4
+Er;K?3;Emission Line;47735
+In;K?2;Sum Peak (2x);48004
+Pd;K?5;Sum Peak (2x);48019
+Tm;K?2;Escape Peak (Si);48073
+Er;K?2;Emission Line;48222
+Eu;K?2;Emission Line;48235
+Gd;K?2;Escape Peak (Si);48253
+Eu;K?4;Emission Line;48386
+In;K?1;Sum Peak (2x);48420
+Gd;K?3;Emission Line;48551
+Pd;K?2;Sum Peak (2x);48588.6
+Gd;K?1;Emission Line;48695
+Pd;K?4;Sum Peak (2x);48696
+Gd;K?5;Emission Line;49017.1
+Er;K?1;Emission Line;49128
+Tm;K?3;Emission Line;49274
+Sn;K?3;Sum Peak (2x);49470
+Tm;K?2;Emission Line;49773
+Ag;K?3;Sum Peak (2x);49820.4
+Ag;K?1;Sum Peak (2x);49882
+Gd;K?2;Emission Line;49953

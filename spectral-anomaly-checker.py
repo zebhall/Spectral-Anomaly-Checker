@@ -1,9 +1,11 @@
 # XRF Spectral Anomaly Checker by ZH
-versionNum = 'v0.0.1'
-versionDate = '2022/12/27'
+versionNum = 'v1.0.0'
+versionDate = '2022/12/28'
 
 import xraydb as xrdb
 import pandas as pd
+
+pd.options.mode.chained_assignment = None  # default='warn'
 
 
 def elementZtoSymbol(Z):        # Returns 1-2 character Element symbol as a string
@@ -12,6 +14,18 @@ def elementZtoSymbol(Z):        # Returns 1-2 character Element symbol as a stri
         return elementSymbols[Z-1]
     else:
         return 'Error: Z out of range'
+
+def elementSymboltoName(sym:str):
+    if len(sym) < 4:
+        elementSymbols = ['H', 'He', 'Li', 'Be', 'B', 'C', 'N', 'O', 'F', 'Ne', 'Na', 'Mg', 'Al', 'Si', 'P', 'S', 'Cl', 'Ar', 'K', 'Ca', 'Sc', 'Ti', 'V', 'Cr', 'Mn', 'Fe', 'Co', 'Ni', 'Cu', 'Zn', 'Ga', 'Ge', 'As', 'Se', 'Br', 'Kr', 'Rb', 'Sr', 'Y', 'Zr', 'Nb', 'Mo', 'Tc', 'Ru', 'Rh', 'Pd', 'Ag', 'Cd', 'In', 'Sn', 'Sb', 'Te', 'I', 'Xe', 'Cs', 'Ba', 'La', 'Ce', 'Pr', 'Nd', 'Pm', 'Sm', 'Eu', 'Gd', 'Tb', 'Dy', 'Ho', 'Er', 'Tm', 'Yb', 'Lu', 'Hf', 'Ta', 'W', 'Re', 'Os', 'Ir', 'Pt', 'Au', 'Hg', 'Tl', 'Pb', 'Bi', 'Po', 'At', 'Rn', 'Fr', 'Ra', 'Ac', 'Th', 'Pa', 'U', 'Np', 'Pu', 'Am', 'Cm', 'Bk', 'Cf', 'Es', 'Fm', 'Md', 'No', 'Lr', 'Rf', 'Db', 'Sg', 'Bh', 'Hs', 'Mt', 'Ds', 'Rg', 'Cn', 'Nh', 'Fl', 'Mc', 'Lv', 'Ts', 'Og']
+        elementNames = ['Hydrogen', 'Helium', 'Lithium', 'Beryllium', 'Boron', 'Carbon', 'Nitrogen', 'Oxygen', 'Fluorine', 'Neon', 'Sodium', 'Magnesium', 'Aluminium', 'Silicon', 'Phosphorus', 'Sulfur', 'Chlorine', 'Argon', 'Potassium', 'Calcium', 'Scandium', 'Titanium', 'Vanadium', 'Chromium', 'Manganese', 'Iron', 'Cobalt', 'Nickel', 'Copper', 'Zinc', 'Gallium', 'Germanium', 'Arsenic', 'Selenium', 'Bromine', 'Krypton', 'Rubidium', 'Strontium', 'Yttrium', 'Zirconium', 'Niobium', 'Molybdenum', 'Technetium', 'Ruthenium', 'Rhodium', 'Palladium', 'Silver', 'Cadmium', 'Indium', 'Tin', 'Antimony', 'Tellurium', 'Iodine', 'Xenon', 'Caesium', 'Barium', 'Lanthanum', 'Cerium', 'Praseodymium', 'Neodymium', 'Promethium', 'Samarium', 'Europium', 'Gadolinium', 'Terbium', 'Dysprosium', 'Holmium', 'Erbium', 'Thulium', 'Ytterbium', 'Lutetium', 'Hafnium', 'Tantalum', 'Tungsten', 'Rhenium', 'Osmium', 'Iridium', 'Platinum', 'Gold', 'Mercury', 'Thallium', 'Lead', 'Bismuth', 'Polonium', 'Astatine', 'Radon', 'Francium', 'Radium', 'Actinium', 'Thorium', 'Protactinium', 'Uranium', 'Neptunium', 'Plutonium', 'Americium', 'Curium', 'Berkelium', 'Californium', 'Einsteinium', 'Fermium', 'Mendelevium', 'Nobelium', 'Lawrencium', 'Rutherfordium', 'Dubnium', 'Seaborgium', 'Bohrium', 'Hassium', 'Meitnerium', 'Darmstadtium', 'Roentgenium', 'Copernicium', 'Nihonium', 'Flerovium', 'Moscovium', 'Livermorium', 'Tennessine', 'Oganesson']
+        try:
+            i = elementSymbols.index(sym)
+            return elementNames[i]
+        except:
+            print('Element symbol unrecognised')
+    else:
+        return 'Error: Symbol too long'
 
 def elementZtoSymbolZ(Z):       # Returns 1-2 character Element symbol formatted WITH atomic number in brackets
     if Z <= 118:
@@ -27,6 +41,17 @@ def elementZtoName(Z):          # Returns Element name
     else:
         return 'Error: Z out of range'
 
+
+class bcol:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 def lineEnergiesToCSV(element):
     anomalies = pd.DataFrame(data={'Element':[],'Line':[],'Type':[],'Energy':[]})
@@ -60,9 +85,14 @@ def lineEnergiesToCSV(element):
     anomalies.to_csv('all_lines.csv', index = False)
     print(anomalies)
 
-def getClosestByEnergy(energy):
-    closest = energies_df.set_index('Energy').sub(energy).abs().idxmin()
-    return(closest)
+def getClosestByEnergy(energy, qty:int):
+    closest = energies_df.iloc[(energies_df['Energy']-energy).abs().argsort()[:qty]]
+    data = closest
+    data['Element'] = data['Element'].apply(elementSymboltoName)
+    data['Line'] = data['Line'].str.replace('a', '\u03B1')  # replace a with alpha
+    data['Line'] = data['Line'].str.replace('b', '\u03B2')  # replace b with beta
+    data.rename(columns={'Energy':'Energy (eV)'}, inplace = True)   
+    return(data.to_markdown(index = False))
 
 
 def main():
@@ -70,9 +100,36 @@ def main():
     #lineEnergiesToCSV()
     energies_df = pd.read_csv('energies.csv')
     print(energies_df)
-    request = input('Enter energy of suspected anomaly (eV): ')
-    request = float(request)
-    print(getClosestByEnergy(request))
+    print(f'{bcol.OKGREEN}Energies data loaded from file.{bcol.ENDC}')
+
+    loop = True
+    while loop == True:
+        print('')
+        cont = False
+        cont2 = False
+        while cont == False:
+            request = input(f'{bcol.OKCYAN}Enter energy of suspected anomaly (eV): {bcol.ENDC}')
+            try:
+                request = float(request)
+                cont = True
+            except: 
+                print(f'{bcol.WARNING}Energy must be either a Float or an Integer.{bcol.ENDC}')
+                cont = False
+
+        while cont2 == False:
+            qty = input(f'{bcol.OKCYAN}Enter the number of nearby possibilities to display: {bcol.ENDC}')
+            try:
+                qty = int(qty)
+                cont2 = True
+            except:
+                print(f'{bcol.WARNING}Number must be an Integer.{bcol.ENDC}')
+                cont2 = False
+
+        print('')
+        print(f'{bcol.UNDERLINE}{qty} nearest possibilities for a spectral anomaly located at {bcol.OKBLUE}{request} eV{bcol.ENDC}:')
+        print(getClosestByEnergy(request, qty))
+        print('')
+        input('Press Enter to Continue...')
 
 
 if __name__ == main():
