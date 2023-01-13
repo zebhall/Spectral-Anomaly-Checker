@@ -1,19 +1,8 @@
-# XRF Spectral Anomaly Checker by ZH
-versionNum = 'v1.0.1'
-versionDate = '2023/01/11'
+# Exports lines and energies to CSV archive for use with spectral-anomaly-checker ZH
 
+import xraydb as xrdb
 import pandas as pd
 
-
-
-# CHANGE THIS TO FALSE FORMATTING IN TERMINAL IS MESSED UP **********************************************
-USE_COLOURS_IN_TERMINAL = True
-
-
-
-
-
-pd.options.mode.chained_assignment = None  # default='warn'
 
 def elementZtoSymbol(Z):        # Returns 1-2 character Element symbol as a string
     if Z <= 118:
@@ -49,94 +38,37 @@ def elementZtoName(Z):          # Returns Element name
         return 'Error: Z out of range'
 
 
-class bcol:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
+def lineEnergiesToCSV(element):
+    anomalies = pd.DataFrame(data={'Element':[],'Line':[],'Type':[],'Energy':[]})
+    line_type_whitelist = ['Ka1','Ka2','Ka3','Ka4','Ka5','Kb1','Kb2','Kb3','Kb4','Kb5','La1','La2','La3','La4','La5','Lb1','Lb2','Lb3','Lb4','Lb5']
+    # Iterate through all Elements
+    for z in range(1,104):
+            element = elementZtoSymbol(z)
+            # Get standard emission lines for all elements
+            try:
+                for name, line in xrdb.xray_lines(element).items():
+                    energy = line.energy
 
-def getClosestByEnergy(energy, qty:int):
-    closest = energies_df.iloc[(energies_df['Energy']-energy).abs().argsort()[:qty]]
-    data = closest
-    data['Element'] = data['Element'].apply(elementSymboltoName)
-    data['Line'] = data['Line'].str.replace('a', '\u03B1')  # replace a with alpha
-    data['Line'] = data['Line'].str.replace('b', '\u03B2')  # replace b with beta
-    data.rename(columns={'Energy':'Energy (eV)'}, inplace = True)   
-    return(data.to_string(index = False))
+                    if name in line_type_whitelist:
+                        if energy <= 50000:
+                            newrow = {'Element':element,'Line':name,'Type':'Emission Line','Energy':energy}
+                            anomalies = anomalies.append(newrow, ignore_index = True)
+                            if energy*2 <= 50000:   # check if sum peak is possible for standard detector (50kV)
+                                newrow2 = {'Element':element,'Line':name,'Type':'Sum Peak (2x)','Energy':(energy*2)}
+                                anomalies = anomalies.append(newrow2, ignore_index = True)
+                            # if energy*3 <= 50000:   # check if 3x sum peak is possible for standard detector (50kV)
+                            #     newrow2 = {'Element':element,'Line':name,'Type':'Sum Peak (3x)','Energy':(energy*3)}
+                            #     anomalies = anomalies.append(newrow2, ignore_index = True)
+                            if energy-1700 > 0:     # check if escape peak is possible
+                                newrow4 = {'Element':element,'Line':name,'Type':'Escape Peak (Si)','Energy':(energy-1700)}
+                                anomalies = anomalies.append(newrow4, ignore_index = True)
+            except: 
+                print(f'Error getting lines for {element}')
+                pass
 
-
-def main():
-    global energies_df
-
-    energies_df = pd.read_csv('energies.csv')
-    print(energies_df)
-    print(f'{bcol.OKGREEN}Energies data loaded from file.{bcol.ENDC}')
-
-    loop = True
-
-    if USE_COLOURS_IN_TERMINAL:
-        while loop == True:
-            print('')
-            cont = False
-            cont2 = False
-            while cont == False:
-                request = input(f'{bcol.OKCYAN}Enter energy of suspected anomaly (eV): {bcol.ENDC}')
-                try:
-                    request = float(request)
-                    cont = True
-                except: 
-                    print(f'{bcol.WARNING}Energy must be either a Float or an Integer.{bcol.ENDC}')
-                    cont = False
-
-            while cont2 == False:
-                qty = input(f'{bcol.OKCYAN}Enter the number of nearby possibilities to display: {bcol.ENDC}')
-                try:
-                    qty = int(qty)
-                    cont2 = True
-                except:
-                    print(f'{bcol.WARNING}Number must be an Integer.{bcol.ENDC}')
-                    cont2 = False
-
-            print('')
-            print(f'{bcol.UNDERLINE}{qty} nearest possibilities for a spectral anomaly located at {bcol.OKBLUE}{request} eV{bcol.ENDC}:')
-            print(getClosestByEnergy(request, qty))
-            print('')
-            input('Press Enter to Continue...')
-    
-    else:
-        while loop == True:
-            print('')
-            cont = False
-            cont2 = False
-            while cont == False:
-                request = input('Enter energy of suspected anomaly (eV): ')
-                try:
-                    request = float(request)
-                    cont = True
-                except: 
-                    print('Energy must be either a Float or an Integer.')
-                    cont = False
-
-            while cont2 == False:
-                qty = input('Enter the number of nearby possibilities to display: ')
-                try:
-                    qty = int(qty)
-                    cont2 = True
-                except:
-                    print('Number must be an Integer.')
-                    cont2 = False
-
-            print('')
-            print(f'{qty} nearest possibilities for a spectral anomaly located at {request} eV:')
-            print(getClosestByEnergy(request, qty))
-            print('')
-            input('Press Enter to Continue...')
+    anomalies.sort_values(by='Energy', inplace=True)
+    anomalies.to_csv('all_lines.csv', index = False)
+    print(anomalies)
 
 
-if __name__ == main():
-    main()
+lineEnergiesToCSV
