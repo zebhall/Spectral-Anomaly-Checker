@@ -3,9 +3,12 @@ versionNum = 'v1.1.0'
 versionDate = '2023/05/10'
 
 import pandas as pd
+import os
+
+
+
 pd.options.mode.chained_assignment = None  # default='warn'
-
-
+os.system('color')
 
 # CHANGE THIS TO FALSE IF FORMATTING IN TERMINAL IS MESSED UP **********************************************
 USE_COLOURS_IN_TERMINAL = True
