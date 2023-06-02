@@ -1,0 +1,4951 @@
+Element,Line,Type,Energy
+Hf,Mb,Escape Peak (Si),0.09999999999990905
+Hg,Mz,Escape Peak (Si),4.7999999999999545
+Kr,Lb3,Escape Peak (Si),6.599999999999909
+Zn,Mz,Emission Line,9.2
+Tm,Mg,Escape Peak (Si),9.5
+Ta,Ma,Escape Peak (Si),11.5
+Ga,Mz,Emission Line,16.7
+Zn,Mz,Sum Peak (2x),18.4
+Ge,Mz,Emission Line,26.8
+Ga,Mz,Sum Peak (2x),33.4
+As,Mz,Emission Line,38.7
+Si,Ka2,Escape Peak (Si),39.200000000000045
+Si,Ka1,Escape Peak (Si),39.799999999999955
+Mg,Ll,Emission Line,47.21
+Mg,Ln,Emission Line,47.6
+Li,Ka3,Emission Line,49.4
+Rb,Lb1,Escape Peak (Si),51.0
+Se,Mz,Emission Line,52.5
+Ge,Mz,Sum Peak (2x),53.6
+Y,Ln,Escape Peak (Si),64.0
+Tl,Mz,Escape Peak (Si),64.5
+Br,Mz,Emission Line,67.0
+Yb,Mg,Escape Peak (Si),67.59999999999991
+Al,Ll,Emission Line,68.5
+Al,Ln,Emission Line,68.9
+Ta,Mb,Escape Peak (Si),69.5
+Rb,Lb6,Escape Peak (Si),73.5
+W,Ma,Escape Peak (Si),75.40000000000009
+As,Mz,Sum Peak (2x),77.4
+Br,Lg3,Escape Peak (Si),79.0
+Br,Lg2,Escape Peak (Si),79.0
+Kr,Mz,Emission Line,80.9
+Mg,Lb4,Emission Line,87.6
+Mg,Lb3,Emission Line,87.6
+Si,Ll,Emission Line,91.2
+Si,Ln,Emission Line,91.8
+Zr,Ll,Escape Peak (Si),92.70000000000005
+Mg,Ll,Sum Peak (2x),94.42
+Mg,Ln,Sum Peak (2x),95.2
+Rb,Mz,Emission Line,96.7
+Li,Ka3,Sum Peak (2x),98.8
+Be,Ka3,Emission Line,103.5
+Sr,La2,Escape Peak (Si),104.0
+Se,Mz,Sum Peak (2x),105.0
+Sr,La1,Escape Peak (Si),105.79999999999995
+Be,Ka2,Emission Line,108.5
+Be,Ka1,Emission Line,108.5
+Sr,Mz,Emission Line,114.4
+Al,Lb4,Emission Line,115.8
+Al,Lb3,Emission Line,115.8
+Rb,Lb4,Escape Peak (Si),116.29999999999995
+P,Ll,Emission Line,123.0
+P,Ln,Emission Line,124.0
+Pb,Mz,Escape Peak (Si),124.09999999999991
+Rb,Lb3,Escape Peak (Si),125.90000000000009
+Lu,Mg,Escape Peak (Si),127.70000000000005
+Y,Mz,Emission Line,133.3
+Br,Mz,Sum Peak (2x),134.0
+Al,Ll,Sum Peak (2x),137.0
+Si,Kb1,Escape Peak (Si),137.0
+Si,Kb3,Escape Peak (Si),137.0
+Al,Ln,Sum Peak (2x),137.8
+W,Mb,Escape Peak (Si),138.4000000000001
+Re,Ma,Escape Peak (Si),140.0999999999999
+Si,Lb3,Emission Line,147.7
+Si,Lb4,Emission Line,147.7
+S,Ll,Emission Line,148.5
+S,Ln,Emission Line,149.6
+Zr,Mz,Emission Line,152.6
+Kr,Mz,Sum Peak (2x),161.8
+Sr,Lb1,Escape Peak (Si),171.0
+Nb,Mz,Emission Line,172.4
+Mg,Lb3,Sum Peak (2x),175.2
+Mg,Lb4,Sum Peak (2x),175.2
+B,Ka3,Emission Line,175.4
+Zr,Ln,Escape Peak (Si),176.70000000000005
+Cl,Ll,Emission Line,182.0
+P,Lb4,Emission Line,182.0
+Si,Ll,Sum Peak (2x),182.4
+Bi,Mz,Escape Peak (Si),182.79999999999995
+P,Lb3,Emission Line,183.0
+B,Ka1,Emission Line,183.3
+B,Ka2,Emission Line,183.3
+Si,Ln,Sum Peak (2x),183.6
+Cl,Ln,Emission Line,184.0
+Rb,Mz,Sum Peak (2x),193.4
+Mo,Mz,Emission Line,193.5
+Hf,Mg,Escape Peak (Si),195.5
+Sr,Lb6,Escape Peak (Si),201.0999999999999
+Nb,Ll,Escape Peak (Si),204.4000000000001
+Re,Mb,Escape Peak (Si),206.0999999999999
+Os,Ma,Escape Peak (Si),206.5999999999999
+Kr,Lg2,Escape Peak (Si),206.9000000000001
+Kr,Lg3,Escape Peak (Si),206.9000000000001
+Be,Ka3,Sum Peak (2x),207.0
+Tc,Mz,Emission Line,215.3
+Be,Ka1,Sum Peak (2x),217.0
+Be,Ka2,Sum Peak (2x),217.0
+Ar,Ll,Emission Line,219.1
+Ar,Ln,Emission Line,221.3
+Y,La2,Escape Peak (Si),222.29999999999995
+S,Lb4,Emission Line,222.9
+S,Lb3,Emission Line,223.9
+Y,La1,Escape Peak (Si),224.20000000000005
+Sr,Mz,Sum Peak (2x),228.8
+Al,Lb3,Sum Peak (2x),231.6
+Al,Lb4,Sum Peak (2x),231.6
+Sr,Lb4,Escape Peak (Si),235.70000000000005
+Ru,Mz,Emission Line,237.9
+Sr,Lb3,Escape Peak (Si),246.0
+P,Ll,Sum Peak (2x),246.0
+Po,Mz,Escape Peak (Si),247.0
+P,Ln,Sum Peak (2x),248.0
+P,Ka3,Escape Peak (Si),256.5
+K,Ll,Emission Line,259.8
+Cl,Lb4,Emission Line,260.0
+Cl,Lb3,Emission Line,260.0
+Rh,Mz,Emission Line,261.4
+K,Ln,Emission Line,262.5
+C,Ka3,Emission Line,266.2
+Y,Mz,Sum Peak (2x),266.6
+Ta,Mg,Escape Peak (Si),267.5999999999999
+Ir,Ma,Escape Peak (Si),276.20000000000005
+C,Ka2,Emission Line,277.0
+C,Ka1,Emission Line,277.0
+Os,Mb,Escape Peak (Si),277.5999999999999
+Pd,Mz,Emission Line,284.8
+Si,Lb4,Sum Peak (2x),295.4
+Si,Lb3,Sum Peak (2x),295.4
+S,Ll,Sum Peak (2x),297.0
+Y,Lb1,Escape Peak (Si),298.29999999999995
+Nb,Ln,Escape Peak (Si),298.4000000000001
+S,Ln,Sum Peak (2x),299.2
+Ca,Ll,Emission Line,301.9
+Zr,Mz,Sum Peak (2x),305.2
+Ca,Ln,Emission Line,305.4
+P,Ka2,Escape Peak (Si),309.5
+Ag,Mz,Emission Line,310.3
+Ar,Lb4,Emission Line,310.4
+P,Ka1,Escape Peak (Si),310.5
+Ar,Lb3,Emission Line,310.6
+Mo,Ll,Escape Peak (Si),313.70000000000005
+At,Mz,Escape Peak (Si),323.0
+Y,Lb6,Escape Peak (Si),336.20000000000005
+W,Mg,Escape Peak (Si),337.5
+Zr,La2,Escape Peak (Si),341.9000000000001
+Zr,La1,Escape Peak (Si),344.20000000000005
+Nb,Mz,Sum Peak (2x),344.8
+Pt,Ma,Escape Peak (Si),347.5
+Sc,Ll,Emission Line,347.6
+Cd,Mz,Emission Line,348.0
+Rb,Lg2,Escape Peak (Si),348.6999999999998
+Rb,Lg3,Escape Peak (Si),349.6999999999998
+B,Ka3,Sum Peak (2x),350.8
+Ir,Mb,Escape Peak (Si),352.1999999999998
+Sc,Ln,Emission Line,352.5
+K,Lb3,Emission Line,360.3
+K,Lb4,Emission Line,360.3
+Y,Lb4,Escape Peak (Si),362.4000000000001
+Cl,Ll,Sum Peak (2x),364.0
+P,Lb4,Sum Peak (2x),364.0
+P,Lb3,Sum Peak (2x),366.0
+B,Ka2,Sum Peak (2x),366.6
+B,Ka1,Sum Peak (2x),366.6
+Cl,Ln,Sum Peak (2x),368.0
+N,Ka3,Emission Line,372.6
+Y,Lb3,Escape Peak (Si),374.1999999999998
+In,Mz,Emission Line,377.9
+Mo,Mz,Sum Peak (2x),387.0
+N,Ka1,Emission Line,392.4
+N,Ka2,Emission Line,392.4
+Rn,Mz,Escape Peak (Si),393.0
+Ti,Ll,Emission Line,395.1
+Ti,Ln,Emission Line,401.5
+Re,Mg,Escape Peak (Si),406.5
+Sn,Mz,Emission Line,409.6
+Ca,Lb4,Emission Line,413.0
+Ca,Lb3,Emission Line,413.0
+Au,Ma,Escape Peak (Si),418.4000000000001
+Mo,Ln,Escape Peak (Si),418.6999999999998
+Zr,Lb1,Escape Peak (Si),425.9000000000001
+Pt,Mb,Escape Peak (Si),427.5
+Tc,Mz,Sum Peak (2x),430.6
+Tc,Ll,Escape Peak (Si),433.0
+Ar,Ll,Sum Peak (2x),438.2
+P,Kb3,Escape Peak (Si),438.5
+P,Kb1,Escape Peak (Si),439.5
+Sb,Mz,Emission Line,441.9
+Ar,Ln,Sum Peak (2x),442.6
+S,Lb4,Sum Peak (2x),445.8
+V,Ll,Emission Line,445.8
+S,Lb3,Sum Peak (2x),447.8
+Ti,La2,Emission Line,451.8
+Ti,La1,Emission Line,451.8
+V,Ln,Emission Line,453.5
+Fr,Mz,Escape Peak (Si),456.0
+Ti,Lb1,Emission Line,458.2
+Nb,La2,Escape Peak (Si),466.0
+Nb,La1,Escape Peak (Si),468.6999999999998
+Sc,Lb4,Emission Line,469.7
+Sc,Lb3,Emission Line,469.7
+Zr,Lb6,Escape Peak (Si),472.4000000000001
+Ru,Mz,Sum Peak (2x),475.8
+Os,Mg,Escape Peak (Si),478.5
+Te,Mz,Emission Line,480.1
+Zr,Lb4,Escape Peak (Si),488.5
+Ra,Mz,Escape Peak (Si),490.0
+Hg,Ma,Escape Peak (Si),491.0
+Sr,Lg2,Escape Peak (Si),494.4000000000001
+Rh,Mg,Emission Line,494.5
+Sr,Lg3,Escape Peak (Si),495.9000000000001
+Cr,Ll,Emission Line,500.0
+O,Ka3,Emission Line,501.5
+Zr,Lb3,Escape Peak (Si),502.1999999999998
+Au,Mb,Escape Peak (Si),503.4000000000001
+I,Mz,Emission Line,507.8
+Cr,Ln,Emission Line,509.7
+V,La2,Emission Line,510.1
+V,La1,Emission Line,510.1
+V,Lb1,Emission Line,517.8
+K,Ll,Sum Peak (2x),519.6
+Cl,Lb3,Sum Peak (2x),520.0
+Cl,Lb4,Sum Peak (2x),520.0
+Rh,Mz,Sum Peak (2x),522.8
+O,Ka1,Emission Line,524.9
+O,Ka2,Emission Line,524.9
+K,Ln,Sum Peak (2x),525.0
+Sb,Ma,Emission Line,528.2
+Ti,Lb3,Emission Line,528.3
+Ti,Lb4,Emission Line,528.3
+Pd,Mg,Emission Line,530.3
+C,Ka3,Sum Peak (2x),532.4
+Sb,Mb,Emission Line,537.5
+S,Ka3,Escape Peak (Si),541.0999999999999
+Xe,Mz,Emission Line,542.3
+Tc,Ln,Escape Peak (Si),549.0
+Ru,Ll,Escape Peak (Si),551.9000000000001
+C,Ka1,Sum Peak (2x),554.0
+C,Ka2,Sum Peak (2x),554.0
+Ir,Mg,Escape Peak (Si),554.6999999999998
+Mn,Ll,Emission Line,556.4
+Nb,Lb1,Escape Peak (Si),560.0
+Tl,Ma,Escape Peak (Si),566.8000000000002
+Mn,Ln,Emission Line,567.6
+Cs,Mz,Emission Line,568.1
+Ag,Mg,Emission Line,569.0
+Pd,Mz,Sum Peak (2x),569.6
+Cr,La2,Emission Line,572.1
+Cr,La1,Emission Line,572.1
+Te,Ma,Emission Line,573.0
+Hg,Mb,Escape Peak (Si),581.0
+Cr,Lb1,Emission Line,581.8
+Te,Mb,Emission Line,583.4
+Mo,La2,Escape Peak (Si),588.9000000000001
+V,Lb4,Emission Line,589.5
+V,Lb3,Emission Line,589.5
+Ac,Mz,Escape Peak (Si),590.0
+Mo,La1,Escape Peak (Si),592.0999999999999
+Ba,Mz,Emission Line,603.7
+Ca,Ll,Sum Peak (2x),603.8
+Cd,Mg,Emission Line,607.7
+S,Ka2,Escape Peak (Si),608.4000000000001
+S,Ka1,Escape Peak (Si),609.5
+Ca,Ln,Sum Peak (2x),610.8
+Nb,Lb6,Escape Peak (Si),614.5999999999999
+Fe,Ll,Emission Line,615.5
+I,Ma,Emission Line,619.3
+Ag,Mz,Sum Peak (2x),620.6
+Ar,Lb4,Sum Peak (2x),620.8
+Ar,Lb3,Sum Peak (2x),621.2
+Nb,Lb4,Escape Peak (Si),621.9000000000001
+Th,Mz,Escape Peak (Si),623.0
+Fe,Ln,Emission Line,628.6
+Pt,Mg,Escape Peak (Si),630.4000000000001
+I,Mb,Emission Line,630.8
+Mn,La2,Emission Line,636.7
+Mn,La1,Emission Line,636.7
+Nb,Lb3,Escape Peak (Si),637.4000000000001
+Pb,Ma,Escape Peak (Si),642.3000000000002
+La,Mz,Emission Line,647.2
+Mn,Lb1,Emission Line,647.9
+In,Mg,Emission Line,648.4
+Y,Lg2,Escape Peak (Si),648.5999999999999
+Y,Lg3,Escape Peak (Si),649.9000000000001
+F,Ka3,Emission Line,651.7
+Cr,Lb4,Emission Line,653.8
+Cr,Lb3,Emission Line,653.8
+Tl,Mb,Escape Peak (Si),662.8000000000002
+Rh,Ll,Escape Peak (Si),675.9000000000001
+Xe,Ma,Emission Line,676.4
+F,Ka2,Emission Line,676.8
+F,Ka1,Emission Line,676.8
+Co,Ll,Emission Line,677.1
+Ce,Mz,Emission Line,679.2
+Ru,Ln,Escape Peak (Si),680.9000000000001
+Pa,Mz,Escape Peak (Si),687.0
+Xe,Mb,Emission Line,689.0
+Sn,Mg,Emission Line,690.7
+Co,Ln,Emission Line,692.2
+Mo,Lb1,Escape Peak (Si),693.9000000000001
+Sc,Ll,Sum Peak (2x),695.2
+Cd,Mz,Sum Peak (2x),696.0
+Fe,La1,Emission Line,704.8
+Fe,La2,Emission Line,704.8
+Sc,Ln,Sum Peak (2x),705.0
+Au,Mg,Escape Peak (Si),707.9000000000001
+Pr,Mz,Emission Line,712.0
+Bi,Ma,Escape Peak (Si),717.6999999999998
+Fe,Lb1,Emission Line,717.9
+Tc,La2,Escape Peak (Si),719.4000000000001
+K,Lb4,Sum Peak (2x),720.6
+K,Lb3,Sum Peak (2x),720.6
+Mn,Lb3,Emission Line,721.9
+Mn,Lb4,Emission Line,721.9
+Tc,La1,Escape Peak (Si),723.0999999999999
+Cs,Ma,Emission Line,726.6
+Sb,Mg,Emission Line,734.3
+Cs,Mb,Emission Line,740.5
+Ni,Ll,Emission Line,741.9
+Pb,Mb,Escape Peak (Si),744.3000000000002
+N,Ka3,Sum Peak (2x),745.2
+Mo,Lb4,Escape Peak (Si),754.4000000000001
+In,Mz,Sum Peak (2x),755.8
+Mo,Lb6,Escape Peak (Si),756.8000000000002
+U,Mz,Escape Peak (Si),757.0
+Ni,Ln,Emission Line,759.2
+Nd,Mz,Emission Line,760.0
+S,Kb3,Escape Peak (Si),764.0
+S,Kb1,Escape Peak (Si),765.0
+Mo,Lb3,Escape Peak (Si),772.0
+Co,La2,Emission Line,775.1
+Co,La1,Emission Line,775.1
+Te,Mg,Emission Line,780.4
+Ba,Ma,Emission Line,780.5
+N,Ka2,Sum Peak (2x),784.8
+N,Ka1,Sum Peak (2x),784.8
+Hg,Mg,Escape Peak (Si),788.1999999999998
+Ti,Ll,Sum Peak (2x),790.2
+Co,Lb1,Emission Line,790.2
+Fe,Lb4,Emission Line,791.9
+Fe,Lb3,Emission Line,791.9
+Ba,Mb,Emission Line,795.7
+Po,Ma,Escape Peak (Si),799.0
+Pd,Ll,Escape Peak (Si),801.4000000000001
+Ti,Ln,Sum Peak (2x),803.0
+Zr,Lg2,Escape Peak (Si),803.5
+Zr,Lg3,Escape Peak (Si),804.9000000000001
+Pm,Mz,Emission Line,810.0
+Cu,Ll,Emission Line,810.2
+Rh,Ln,Escape Peak (Si),817.9000000000001
+Sn,Mz,Sum Peak (2x),819.2
+Np,Mz,Escape Peak (Si),821.0
+Ne,Ka3,Emission Line,821.7
+Bi,Mb,Escape Peak (Si),825.6999999999998
+Ca,Lb4,Sum Peak (2x),826.0
+Ca,Lb3,Sum Peak (2x),826.0
+I,Mg,Emission Line,826.1
+Cu,Ln,Emission Line,829.8
+Tc,Lb1,Escape Peak (Si),835.4000000000001
+La,Ma,Emission Line,836.0
+Sm,Mz,Emission Line,845.3
+Ne,Ka2,Emission Line,848.5
+Ne,Ka1,Emission Line,848.6
+Ni,La1,Emission Line,848.7
+Ni,La2,Emission Line,848.7
+Cl,Ka3,Escape Peak (Si),852.0
+La,Mb,Emission Line,853.0
+Ru,La2,Escape Peak (Si),853.8000000000002
+Ru,La1,Escape Peak (Si),858.0
+Co,Lb3,Emission Line,865.2
+Ni,Lb1,Emission Line,866.0
+Co,Lb4,Emission Line,866.2
+Tl,Mg,Escape Peak (Si),872.0
+Xe,Mg,Emission Line,873.1
+Eu,Mz,Emission Line,874.6
+At,Ma,Escape Peak (Si),877.0
+Zn,Ll,Emission Line,882.0
+Ce,Ma,Emission Line,883.7
+Sb,Mz,Sum Peak (2x),883.8
+Pu,Mz,Escape Peak (Si),890.0
+V,Ll,Sum Peak (2x),891.6
+Tc,Lb4,Escape Peak (Si),895.4000000000001
+Ce,Mb,Emission Line,902.3
+Ti,La2,Sum Peak (2x),903.6
+Ti,La1,Sum Peak (2x),903.6
+Zn,Ln,Emission Line,905.1
+V,Ln,Sum Peak (2x),907.0
+Tc,Lb6,Escape Peak (Si),907.5
+Po,Mb,Escape Peak (Si),914.0
+Ti,Lb1,Sum Peak (2x),916.4
+Cl,Ka2,Escape Peak (Si),920.0
+Cl,Ka1,Escape Peak (Si),922.0
+Tc,Lb3,Escape Peak (Si),925.3000000000002
+Cs,Mg,Emission Line,925.5
+Pr,Ma,Emission Line,926.8
+Cu,La2,Emission Line,927.7
+Cu,La1,Emission Line,927.7
+Ag,Ll,Escape Peak (Si),932.0
+Gd,Mz,Emission Line,935.9
+Sc,Lb3,Sum Peak (2x),939.4
+Sc,Lb4,Sum Peak (2x),939.4
+Ni,Lb4,Emission Line,940.6
+Ni,Lb3,Emission Line,942.4
+Pr,Mb,Emission Line,946.3
+Cu,Lb1,Emission Line,947.3
+Pb,Mg,Escape Peak (Si),953.8000000000002
+Rn,Ma,Escape Peak (Si),954.0
+Tb,Mz,Emission Line,954.5
+Ga,Ll,Emission Line,956.89
+Am,Mz,Escape Peak (Si),958.0
+Pd,Ln,Escape Peak (Si),958.4000000000001
+Te,Mz,Sum Peak (2x),960.2
+Nb,Lg2,Escape Peak (Si),965.4000000000001
+Nb,Lg3,Escape Peak (Si),967.1999999999998
+Ba,Mg,Emission Line,973.1
+Nd,Ma,Emission Line,978.9
+Ru,Lb1,Escape Peak (Si),982.8000000000002
+Ga,Ln,Emission Line,983.69
+Rh,Mg,Sum Peak (2x),989.0
+Rh,La2,Escape Peak (Si),992.0999999999999
+Rh,La1,Escape Peak (Si),996.8000000000002
+At,Mb,Escape Peak (Si),999.0
+Dy,Mz,Emission Line,999.5
+Cr,Ll,Sum Peak (2x),1000.0
+Nd,Mb,Emission Line,1001.8
+O,Ka3,Sum Peak (2x),1003.0
+Na,Ka3,Emission Line,1007.3
+Zn,La2,Emission Line,1011.6
+Zn,La1,Emission Line,1011.7
+I,Mz,Sum Peak (2x),1015.6
+Cr,Ln,Sum Peak (2x),1019.4
+Cu,Lb4,Emission Line,1019.4
+V,La2,Sum Peak (2x),1020.2
+V,La1,Sum Peak (2x),1020.2
+Cu,Lb3,Emission Line,1021.6
+Pm,Ma,Emission Line,1023.0
+La,Mg,Emission Line,1025.5
+Cm,Mz,Escape Peak (Si),1026.0
+Fr,Ma,Escape Peak (Si),1032.0
+Zn,Lb1,Emission Line,1034.7
+V,Lb1,Sum Peak (2x),1035.6
+Ge,Ll,Emission Line,1036.9
+Bi,Mg,Escape Peak (Si),1036.9
+Na,Ka1,Emission Line,1040.3
+Na,Ka2,Emission Line,1040.4
+Ru,Lb4,Escape Peak (Si),1040.6999999999998
+Pm,Mb,Emission Line,1048.0
+Ho,Mz,Emission Line,1048.5
+O,Ka2,Sum Peak (2x),1049.8
+O,Ka1,Sum Peak (2x),1049.8
+Sb,Ma,Sum Peak (2x),1056.4
+Ti,Lb4,Sum Peak (2x),1056.6
+Ti,Lb3,Sum Peak (2x),1056.6
+Pd,Mg,Sum Peak (2x),1060.6
+Ru,Lb3,Escape Peak (Si),1062.5
+Ru,Lb6,Escape Peak (Si),1063.0
+Cd,Ll,Escape Peak (Si),1066.0
+Ge,Ln,Emission Line,1068.0
+Sb,Mb,Sum Peak (2x),1075.0
+Ce,Mg,Emission Line,1078.0
+Sm,Ma,Emission Line,1078.2
+Rn,Mb,Escape Peak (Si),1084.0
+Xe,Mz,Sum Peak (2x),1084.6
+Er,Mz,Emission Line,1086.8
+Bk,Mz,Escape Peak (Si),1095.0
+Ga,La2,Emission Line,1097.7
+Ga,La1,Emission Line,1097.7
+Zn,Lb4,Emission Line,1104.8
+Ag,Ln,Escape Peak (Si),1105.0
+Sm,Mb,Emission Line,1105.7
+Ra,Ma,Escape Peak (Si),1106.0
+Zn,Lb3,Emission Line,1107.6
+Cl,Kb3,Escape Peak (Si),1112.0
+Cl,Kb1,Escape Peak (Si),1112.0
+Mn,Ll,Sum Peak (2x),1112.8
+As,Ll,Emission Line,1118.9
+Eu,Ma,Emission Line,1121.5
+Ga,Lb1,Emission Line,1124.5
+Pr,Mg,Emission Line,1126.9
+Mo,Lg2,Escape Peak (Si),1128.4
+Po,Mg,Escape Peak (Si),1129.0
+Tm,Mz,Emission Line,1129.1
+Mo,Lg3,Escape Peak (Si),1130.5
+Pd,La2,Escape Peak (Si),1132.5
+Rh,Lb1,Escape Peak (Si),1134.1
+Mn,Ln,Sum Peak (2x),1135.2
+Cs,Mz,Sum Peak (2x),1136.2
+Pd,La1,Escape Peak (Si),1137.8000000000002
+Ag,Mg,Sum Peak (2x),1138.0
+Cr,La2,Sum Peak (2x),1144.2
+Cr,La1,Sum Peak (2x),1144.2
+Te,Ma,Sum Peak (2x),1146.0
+Eu,Mb,Emission Line,1152.6
+As,Ln,Emission Line,1154.4
+Cr,Lb1,Sum Peak (2x),1163.6
+Cf,Mz,Escape Peak (Si),1164.0
+Te,Mb,Sum Peak (2x),1166.8
+Fr,Mb,Escape Peak (Si),1168.0
+Nd,Mg,Emission Line,1176.5
+V,Lb3,Sum Peak (2x),1179.0
+V,Lb4,Sum Peak (2x),1179.0
+Ar,Ka3,Escape Peak (Si),1179.6
+Gd,Ma,Emission Line,1181.0
+Ge,La2,Emission Line,1187.2
+Yb,Mz,Emission Line,1187.3
+Ge,La1,Emission Line,1187.8
+Rh,Lb4,Escape Peak (Si),1190.6999999999998
+Zn,Lg2,Emission Line,1195.2
+Ga,Lb4,Emission Line,1195.5
+Ga,Lb3,Emission Line,1199.0
+Ac,Ma,Escape Peak (Si),1200.0
+In,Ll,Escape Peak (Si),1202.8000000000002
+Se,Ll,Emission Line,1204.3
+Ba,Mz,Sum Peak (2x),1207.4
+Ge,Lb6,Emission Line,1212.0
+Gd,Mb,Emission Line,1213.3
+Mg,Ka3,Emission Line,1214.4
+Cd,Mg,Sum Peak (2x),1215.4
+Rh,Lb3,Escape Peak (Si),1215.5
+Ge,Lb1,Emission Line,1218.3
+At,Mg,Escape Peak (Si),1219.0
+Rh,Lb6,Escape Peak (Si),1222.6
+Lu,Mz,Emission Line,1226.6
+Fe,Ll,Sum Peak (2x),1231.0
+Tb,Ma,Emission Line,1233.4
+Pm,Mg,Emission Line,1237.0
+I,Ma,Sum Peak (2x),1238.6
+Se,Ln,Emission Line,1244.7
+Ra,Mb,Escape Peak (Si),1249.0
+Mg,Ka2,Emission Line,1253.4
+Mg,Ka1,Emission Line,1253.79
+Cd,Ln,Escape Peak (Si),1255.0
+Ar,Ka2,Escape Peak (Si),1255.3000000000002
+Fe,Ln,Sum Peak (2x),1257.2
+Ar,Ka1,Escape Peak (Si),1257.5
+I,Mb,Sum Peak (2x),1261.6
+Tb,Mb,Emission Line,1269.2
+Mn,La1,Sum Peak (2x),1273.4
+Mn,La2,Sum Peak (2x),1273.4
+Ag,La2,Escape Peak (Si),1277.0
+Hf,Mz,Emission Line,1277.8
+As,La2,Emission Line,1281.9
+As,La1,Emission Line,1281.9
+Ag,La1,Escape Peak (Si),1282.6999999999998
+Dy,Ma,Emission Line,1284.0
+Pd,Lb1,Escape Peak (Si),1289.5
+Th,Ma,Escape Peak (Si),1289.6
+Ge,Lb4,Emission Line,1289.7
+Sm,Mg,Emission Line,1290.8
+Br,Ll,Emission Line,1293.0
+Ge,Lb3,Emission Line,1293.8
+La,Mz,Sum Peak (2x),1294.4
+Mn,Lb1,Sum Peak (2x),1295.8
+In,Mg,Sum Peak (2x),1296.8
+Ga,Lg2,Emission Line,1297.0
+Ga,Lg3,Emission Line,1297.0
+Rn,Mg,Escape Peak (Si),1297.0
+Tc,Lg2,Escape Peak (Si),1300.6999999999998
+Mg,Kb1,Emission Line,1302.0
+Rh,"Lb2,15",Escape Peak (Si),1302.0
+Mg,Kb3,Emission Line,1302.0
+Tc,Lg3,Escape Peak (Si),1303.1
+F,Ka3,Sum Peak (2x),1303.4
+Cr,Lb4,Sum Peak (2x),1307.6
+Cr,Lb3,Sum Peak (2x),1307.6
+As,Lb6,Emission Line,1315.6
+As,Lb1,Emission Line,1317.4
+Dy,Mb,Emission Line,1325.0
+Ta,Mz,Emission Line,1329.6
+Br,Ln,Emission Line,1339.0
+Ho,Ma,Emission Line,1342.4
+Pd,Lb4,Escape Peak (Si),1344.1
+Sn,Ll,Escape Peak (Si),1344.3000000000002
+Ac,Mb,Escape Peak (Si),1351.0
+Xe,Ma,Sum Peak (2x),1352.8
+Eu,Mg,Emission Line,1353.3
+F,Ka1,Sum Peak (2x),1353.6
+F,Ka2,Sum Peak (2x),1353.6
+Co,Ll,Sum Peak (2x),1354.2
+Ce,Mz,Sum Peak (2x),1358.4
+Pa,Ma,Escape Peak (Si),1371.0
+Pd,Lb3,Escape Peak (Si),1371.6999999999998
+Xe,Mb,Sum Peak (2x),1378.0
+Se,La2,Emission Line,1378.4
+Se,La1,Emission Line,1379.3
+As,Lb4,Emission Line,1380.8
+Sn,Mg,Sum Peak (2x),1381.4
+W,Mz,Emission Line,1381.6
+Ho,Mb,Emission Line,1383.4
+Co,Ln,Sum Peak (2x),1384.4
+Kr,Ll,Emission Line,1385.6
+As,Lb3,Emission Line,1385.8
+Pd,Lb6,Escape Peak (Si),1385.9
+Fr,Mg,Escape Peak (Si),1386.0
+Gd,Mg,Emission Line,1401.4
+Er,Ma,Emission Line,1404.3
+Fe,La2,Sum Peak (2x),1409.6
+Fe,La1,Sum Peak (2x),1409.6
+In,Ln,Escape Peak (Si),1410.8000000000002
+Ge,Lg2,Emission Line,1411.6
+Ge,Lg3,Emission Line,1411.6
+Se,Lb1,Emission Line,1418.8
+Se,Lb6,Emission Line,1421.9
+Pr,Mz,Sum Peak (2x),1424.0
+Cd,La2,Escape Peak (Si),1426.1
+Re,Mz,Emission Line,1430.3
+Cd,La1,Escape Peak (Si),1432.8000000000002
+Fe,Lb1,Sum Peak (2x),1435.8
+Kr,Ln,Emission Line,1438.1
+Al,Ka3,Emission Line,1441.2
+Mn,Lb4,Sum Peak (2x),1443.8
+Mn,Lb3,Sum Peak (2x),1443.8
+Rh,Lg1,Escape Peak (Si),1444.0
+Er,Mb,Emission Line,1448.3
+Th,Mb,Escape Peak (Si),1448.6
+Ag,Lb1,Escape Peak (Si),1450.0
+Cs,Ma,Sum Peak (2x),1453.2
+Tb,Mg,Emission Line,1460.5
+Tm,Ma,Emission Line,1463.4
+U,Ma,Escape Peak (Si),1463.8000000000002
+Sb,Mg,Sum Peak (2x),1468.6
+Pd,"Lb2,15",Escape Peak (Si),1471.0
+Rb,Ll,Emission Line,1477.3
+Ru,Lg2,Escape Peak (Si),1477.6999999999998
+Br,La2,Emission Line,1480.0
+Ru,Lg3,Escape Peak (Si),1480.8000000000002
+Cs,Mb,Sum Peak (2x),1481.0
+Br,La1,Emission Line,1481.0
+Os,Mz,Emission Line,1481.9
+Ni,Ll,Sum Peak (2x),1483.8
+Se,Lb4,Emission Line,1485.5
+Al,Ka2,Emission Line,1486.1
+Al,Ka1,Emission Line,1486.5
+Ra,Mg,Escape Peak (Si),1489.0
+Ar,Kb3,Escape Peak (Si),1490.0
+Ar,Kb1,Escape Peak (Si),1490.1999999999998
+Se,Lb3,Emission Line,1491.3
+Sb,Ll,Escape Peak (Si),1492.0
+Ag,Lb4,Escape Peak (Si),1502.1999999999998
+Tm,Mb,Emission Line,1510.4
+Ni,Ln,Sum Peak (2x),1518.4
+Nd,Mz,Sum Peak (2x),1520.0
+Dy,Mg,Emission Line,1522.4
+Br,Lb6,Emission Line,1523.0
+As,Lg3,Emission Line,1524.0
+As,Lg2,Emission Line,1524.0
+Yb,Ma,Emission Line,1525.5
+Br,Lb1,Emission Line,1526.0
+K,Ka3,Escape Peak (Si),1529.8000000000002
+Ag,Lb3,Escape Peak (Si),1533.0
+Rb,Ln,Emission Line,1537.3
+Ir,Mz,Emission Line,1538.2
+Pa,Mb,Escape Peak (Si),1540.0
+Np,Ma,Escape Peak (Si),1550.0
+Co,La2,Sum Peak (2x),1550.2
+Co,La1,Sum Peak (2x),1550.2
+Ag,Lb6,Escape Peak (Si),1554.0
+Al,Kb3,Emission Line,1557.0
+Al,Kb1,Emission Line,1557.0
+Te,Mg,Sum Peak (2x),1560.8
+Ba,Ma,Sum Peak (2x),1561.0
+Ac,Mg,Escape Peak (Si),1570.0
+Sn,Ln,Escape Peak (Si),1571.3000000000002
+Yb,Mb,Emission Line,1573.5
+In,La2,Escape Peak (Si),1578.6
+Lu,Ma,Emission Line,1580.1
+Co,Lb1,Sum Peak (2x),1580.4
+Ho,Mg,Emission Line,1581.0
+Sr,Ll,Emission Line,1581.3
+Kr,La2,Emission Line,1583.4
+Fe,Lb3,Sum Peak (2x),1583.8
+Fe,Lb4,Sum Peak (2x),1583.8
+Kr,La1,Emission Line,1584.6
+In,La1,Escape Peak (Si),1586.1
+Ba,Mb,Sum Peak (2x),1591.4
+Pt,Mz,Emission Line,1592.9
+Br,Lb4,Emission Line,1593.0
+Br,Lb3,Emission Line,1600.0
+K,Ka2,Escape Peak (Si),1611.1
+K,Ka1,Escape Peak (Si),1613.8000000000002
+Cd,Lb1,Escape Peak (Si),1615.1
+Pm,Mz,Sum Peak (2x),1620.0
+Cu,Ll,Sum Peak (2x),1620.4
+Pd,Lg1,Escape Peak (Si),1628.0
+Lu,Mb,Emission Line,1630.1
+Te,Ll,Escape Peak (Si),1635.0
+Kr,Lb1,Emission Line,1635.9
+Pu,Ma,Escape Peak (Si),1639.0
+U,Mb,Escape Peak (Si),1639.8000000000002
+Ne,Ka3,Sum Peak (2x),1643.4
+Er,Mg,Emission Line,1644.4
+Hf,Ma,Emission Line,1646.1
+Ag,"Lb2,15",Escape Peak (Si),1647.0
+Sr,Ln,Emission Line,1648.3
+Au,Mz,Emission Line,1648.3
+Se,Lg3,Emission Line,1649.0
+Se,Lg2,Emission Line,1649.0
+Kr,Lb6,Emission Line,1650.9
+I,Mg,Sum Peak (2x),1652.2
+Cu,Ln,Sum Peak (2x),1659.6
+Rh,Lg2,Escape Peak (Si),1661.5
+Rh,Lg3,Escape Peak (Si),1664.6999999999998
+Cd,Lb4,Escape Peak (Si),1665.4
+Th,Mg,Escape Peak (Si),1670.8000000000002
+La,Ma,Sum Peak (2x),1672.0
+Y,Ll,Emission Line,1688.0
+Si,Ka3,Emission Line,1689.3
+Sm,Mz,Sum Peak (2x),1690.6
+Rb,La2,Emission Line,1691.0
+Rb,La1,Emission Line,1692.0
+Ne,Ka2,Sum Peak (2x),1697.0
+Ne,Ka1,Sum Peak (2x),1697.2
+Ni,La2,Sum Peak (2x),1697.4
+Ni,La1,Sum Peak (2x),1697.4
+Kr,Lb4,Emission Line,1698.8
+Cd,Lb3,Escape Peak (Si),1699.6
+Hf,Mb,Emission Line,1700.1
+Hg,Mz,Emission Line,1704.8
+La,Mb,Sum Peak (2x),1706.0
+Kr,Lb3,Emission Line,1706.6
+Tm,Mg,Emission Line,1709.5
+Ta,Ma,Emission Line,1711.5
+Cd,Lb6,Escape Peak (Si),1728.1999999999998
+Am,Ma,Escape Peak (Si),1729.0
+Co,Lb3,Sum Peak (2x),1730.4
+Ni,Lb1,Sum Peak (2x),1732.0
+Co,Lb4,Sum Peak (2x),1732.4
+Np,Mb,Escape Peak (Si),1735.0
+Sn,La2,Escape Peak (Si),1735.8000000000002
+Si,Ka2,Emission Line,1739.2
+Si,Ka1,Emission Line,1739.8
+Sb,Ln,Escape Peak (Si),1740.0
+Sn,La1,Escape Peak (Si),1744.1
+Xe,Mg,Sum Peak (2x),1746.2
+Eu,Mz,Sum Peak (2x),1749.2
+Rb,Lb1,Emission Line,1751.0
+Y,Ln,Emission Line,1764.0
+Zn,Ll,Sum Peak (2x),1764.0
+Tl,Mz,Emission Line,1764.5
+Pa,Mg,Escape Peak (Si),1766.0
+Ce,Ma,Sum Peak (2x),1767.4
+Yb,Mg,Emission Line,1767.6
+Ta,Mb,Emission Line,1769.5
+Rb,Lb6,Emission Line,1773.5
+W,Ma,Emission Line,1775.4
+Br,Lg2,Emission Line,1779.0
+Br,Lg3,Emission Line,1779.0
+I,Ll,Escape Peak (Si),1785.0
+In,Lb1,Escape Peak (Si),1786.6
+Zr,Ll,Emission Line,1792.7
+Sr,La2,Emission Line,1804.0
+Ce,Mb,Sum Peak (2x),1804.6
+Sr,La1,Emission Line,1805.8
+Zn,Ln,Sum Peak (2x),1810.2
+Rb,Lb4,Emission Line,1816.3
+Ag,Lg1,Escape Peak (Si),1820.0
+Pb,Mz,Emission Line,1824.1
+Cm,Ma,Escape Peak (Si),1825.0
+Rb,Lb3,Emission Line,1825.9
+Cd,"Lb2,15",Escape Peak (Si),1826.3000000000002
+Lu,Mg,Emission Line,1827.7
+Pu,Mb,Escape Peak (Si),1834.0
+In,Lb4,Escape Peak (Si),1834.8000000000002
+Si,Kb3,Emission Line,1837.0
+Si,Kb1,Emission Line,1837.0
+W,Mb,Emission Line,1838.4
+Re,Ma,Emission Line,1840.1
+Pd,Lg2,Escape Peak (Si),1848.3000000000002
+Cs,Mg,Sum Peak (2x),1851.0
+Pd,Lg3,Escape Peak (Si),1853.1
+Pr,Ma,Sum Peak (2x),1853.6
+Cu,La2,Sum Peak (2x),1855.4
+Cu,La1,Sum Peak (2x),1855.4
+U,Mg,Escape Peak (Si),1866.8000000000002
+Sr,Lb1,Emission Line,1871.0
+Gd,Mz,Sum Peak (2x),1871.8
+In,Lb3,Escape Peak (Si),1872.6999999999998
+Zr,Ln,Emission Line,1876.7
+Ni,Lb4,Sum Peak (2x),1881.2
+Bi,Mz,Emission Line,1882.8
+Ni,Lb3,Sum Peak (2x),1884.8
+K,Kb1,Escape Peak (Si),1890.1
+K,Kb3,Escape Peak (Si),1890.1
+Pr,Mb,Sum Peak (2x),1892.6
+Sb,La2,Escape Peak (Si),1894.5
+Cu,Lb1,Sum Peak (2x),1894.6
+Hf,Mg,Emission Line,1895.5
+Ca,Ka3,Escape Peak (Si),1900.1
+Sr,Lb6,Emission Line,1901.1
+Sb,La1,Escape Peak (Si),1903.8000000000002
+Nb,Ll,Emission Line,1904.4
+Te,Ln,Escape Peak (Si),1906.0
+Re,Mb,Emission Line,1906.1
+Os,Ma,Emission Line,1906.6
+Kr,Lg2,Emission Line,1906.9
+Kr,Lg3,Emission Line,1906.9
+In,Lb6,Escape Peak (Si),1907.1
+Tb,Mz,Sum Peak (2x),1909.0
+Ga,Ll,Sum Peak (2x),1913.78
+Bk,Ma,Escape Peak (Si),1916.0
+Y,La2,Emission Line,1922.3
+Y,La1,Emission Line,1924.2
+Am,Mb,Escape Peak (Si),1935.0
+Sr,Lb4,Emission Line,1935.7
+Xe,Ll,Escape Peak (Si),1937.3000000000002
+Sr,Lb3,Emission Line,1946.0
+Ba,Mg,Sum Peak (2x),1946.2
+Po,Mz,Emission Line,1947.0
+P,Ka3,Emission Line,1956.5
+Nd,Ma,Sum Peak (2x),1957.8
+Sn,Lb1,Escape Peak (Si),1962.8000000000002
+Np,Mg,Escape Peak (Si),1964.0
+Ga,Ln,Sum Peak (2x),1967.38
+Ta,Mg,Emission Line,1967.6
+Ir,Ma,Emission Line,1976.2
+Os,Mb,Emission Line,1977.6
+Ca,Ka2,Escape Peak (Si),1988.8000000000002
+Ca,Ka1,Escape Peak (Si),1992.3000000000002
+Y,Lb1,Emission Line,1998.3
+Nb,Ln,Emission Line,1998.4
+Dy,Mz,Sum Peak (2x),1999.0
+Nd,Mb,Sum Peak (2x),2003.6
+Sn,Lb4,Escape Peak (Si),2008.5
+Cf,Ma,Escape Peak (Si),2009.0
+P,Ka2,Emission Line,2009.5
+P,Ka1,Emission Line,2010.5
+In,"Lb2,15",Escape Peak (Si),2012.3000000000002
+Mo,Ll,Emission Line,2013.7
+Na,Ka3,Sum Peak (2x),2014.6
+Cd,Lg1,Escape Peak (Si),2015.3000000000002
+At,Mz,Emission Line,2023.0
+Zn,La2,Sum Peak (2x),2023.2
+Zn,La1,Sum Peak (2x),2023.4
+Y,Lb6,Emission Line,2036.2
+W,Mg,Emission Line,2037.5
+Cu,Lb4,Sum Peak (2x),2038.8
+Cm,Mb,Escape Peak (Si),2040.0
+Zr,La2,Emission Line,2041.9
+Ag,Lg2,Escape Peak (Si),2042.3000000000002
+Cu,Lb3,Sum Peak (2x),2043.2
+Zr,La1,Emission Line,2044.2
+Pm,Ma,Sum Peak (2x),2046.0
+Pt,Ma,Emission Line,2047.5
+Ag,Lg3,Escape Peak (Si),2047.6999999999998
+Rb,Lg2,Emission Line,2048.7
+Rb,Lg3,Emission Line,2049.7
+Sn,Lb3,Escape Peak (Si),2050.4
+La,Mg,Sum Peak (2x),2051.0
+Ir,Mb,Emission Line,2052.2
+Te,La2,Escape Peak (Si),2057.6
+Y,Lb4,Emission Line,2062.4
+Pu,Mg,Escape Peak (Si),2065.0
+Te,La1,Escape Peak (Si),2068.0
+Zn,Lb1,Sum Peak (2x),2069.4
+Ge,Ll,Sum Peak (2x),2073.8
+Y,Lb3,Emission Line,2074.2
+I,Ln,Escape Peak (Si),2080.0
+Na,Ka1,Sum Peak (2x),2080.6
+Na,Ka2,Sum Peak (2x),2080.8
+Sn,Lb6,Escape Peak (Si),2091.9
+Rn,Mz,Emission Line,2093.0
+Pm,Mb,Sum Peak (2x),2096.0
+Ho,Mz,Sum Peak (2x),2097.0
+Cs,Ll,Escape Peak (Si),2101.0
+Re,Mg,Emission Line,2106.5
+Au,Ma,Emission Line,2118.4
+Mo,Ln,Emission Line,2118.7
+Zr,Lb1,Emission Line,2125.9
+Pt,Mb,Emission Line,2127.5
+Tc,Ll,Emission Line,2133.0
+Ge,Ln,Sum Peak (2x),2136.0
+P,Kb3,Emission Line,2138.5
+P,Kb1,Emission Line,2139.5
+Bk,Mb,Escape Peak (Si),2142.0
+Sb,Lb1,Escape Peak (Si),2142.5
+Ce,Mg,Sum Peak (2x),2156.0
+Fr,Mz,Emission Line,2156.0
+Sm,Ma,Sum Peak (2x),2156.4
+Nb,La2,Emission Line,2166.0
+Nb,La1,Emission Line,2168.7
+Am,Mg,Escape Peak (Si),2169.0
+Zr,Lb6,Emission Line,2172.4
+Er,Mz,Sum Peak (2x),2173.6
+Os,Mg,Emission Line,2178.5
+Sb,Lb4,Escape Peak (Si),2185.3
+Zr,Lb4,Emission Line,2188.5
+Ra,Mz,Emission Line,2190.0
+Hg,Ma,Emission Line,2191.0
+Sr,Lg2,Emission Line,2194.4
+Ga,La2,Sum Peak (2x),2195.4
+Ga,La1,Sum Peak (2x),2195.4
+Sr,Lg3,Emission Line,2195.9
+Zr,Lb3,Emission Line,2202.2
+Au,Mb,Emission Line,2203.4
+Sn,"Lb2,15",Escape Peak (Si),2204.1
+Zn,Lb4,Sum Peak (2x),2209.6
+Sm,Mb,Sum Peak (2x),2211.4
+Zn,Lb3,Sum Peak (2x),2215.2
+In,Lg1,Escape Peak (Si),2220.3
+I,La2,Escape Peak (Si),2226.2
+Sb,Lb3,Escape Peak (Si),2231.6
+I,La1,Escape Peak (Si),2237.7
+As,Ll,Sum Peak (2x),2237.8
+S,Ka3,Emission Line,2241.1
+Eu,Ma,Sum Peak (2x),2243.0
+Cf,Mb,Escape Peak (Si),2246.0
+Ga,Lb1,Sum Peak (2x),2249.0
+Tc,Ln,Emission Line,2249.0
+Ru,Ll,Emission Line,2251.9
+Pr,Mg,Sum Peak (2x),2253.8
+Ba,Ll,Escape Peak (Si),2254.0
+Cd,Lg2,Escape Peak (Si),2254.1
+Cd,Lg3,Escape Peak (Si),2254.1
+Ir,Mg,Emission Line,2254.7
+Tm,Mz,Sum Peak (2x),2258.2
+Xe,Ln,Escape Peak (Si),2258.3
+Nb,Lb1,Emission Line,2260.0
+Tl,Ma,Emission Line,2266.8
+Cm,Mg,Escape Peak (Si),2276.0
+Sb,Lb6,Escape Peak (Si),2278.8
+Hg,Mb,Emission Line,2281.0
+Mo,La2,Emission Line,2288.9
+Ac,Mz,Emission Line,2290.0
+Mo,La1,Emission Line,2292.1
+Sc,Ka3,Escape Peak (Si),2294.0
+Eu,Mb,Sum Peak (2x),2305.2
+S,Ka2,Emission Line,2308.4
+As,Ln,Sum Peak (2x),2308.8
+S,Ka1,Emission Line,2309.5
+Ca,Kb3,Escape Peak (Si),2313.1
+Ca,Kb1,Escape Peak (Si),2313.1
+Nb,Lb6,Emission Line,2314.6
+Nb,Lb4,Emission Line,2321.9
+Th,Mz,Emission Line,2323.0
+Te,Lb1,Escape Peak (Si),2328.6
+Pt,Mg,Emission Line,2330.4
+Nb,Lb3,Emission Line,2337.4
+Pb,Ma,Emission Line,2342.3
+Y,Lg2,Emission Line,2348.6
+Y,Lg3,Emission Line,2349.9
+Nd,Mg,Sum Peak (2x),2353.0
+Gd,Ma,Sum Peak (2x),2362.0
+Tl,Mb,Emission Line,2362.8
+Te,Lb4,Escape Peak (Si),2368.2
+Ge,La2,Sum Peak (2x),2374.4
+Yb,Mz,Sum Peak (2x),2374.6
+Ge,La1,Sum Peak (2x),2375.6
+Rh,Ll,Emission Line,2375.9
+Bk,Mg,Escape Peak (Si),2378.0
+Ru,Ln,Emission Line,2380.9
+Pa,Mz,Emission Line,2387.0
+Sc,Ka2,Escape Peak (Si),2388.4
+Zn,Lg2,Sum Peak (2x),2390.4
+Ga,Lb4,Sum Peak (2x),2391.0
+Sc,Ka1,Escape Peak (Si),2393.3
+Mo,Lb1,Emission Line,2393.9
+Xe,La2,Escape Peak (Si),2397.0
+Ga,Lb3,Sum Peak (2x),2398.0
+Sb,"Lb2,15",Escape Peak (Si),2398.7
+Au,Mg,Emission Line,2407.9
+Se,Ll,Sum Peak (2x),2408.6
+Xe,La1,Escape Peak (Si),2409.6000000000004
+Bi,Ma,Emission Line,2417.7
+Te,Lb3,Escape Peak (Si),2418.2
+Tc,La2,Emission Line,2419.4
+La,Ll,Escape Peak (Si),2421.0
+Tc,La1,Emission Line,2423.1
+Ge,Lb6,Sum Peak (2x),2424.0
+Gd,Mb,Sum Peak (2x),2426.6
+Mg,Ka3,Sum Peak (2x),2428.8
+Sn,Lg1,Escape Peak (Si),2431.1000000000004
+Ge,Lb1,Sum Peak (2x),2436.6
+Pb,Mb,Emission Line,2444.3
+Cs,Ln,Escape Peak (Si),2448.0
+Lu,Mz,Sum Peak (2x),2453.2
+Mo,Lb4,Emission Line,2454.4
+Mo,Lb6,Emission Line,2456.8
+U,Mz,Emission Line,2457.0
+S,Kb3,Emission Line,2464.0
+In,Lg2,Escape Peak (Si),2464.5
+In,Lg3,Escape Peak (Si),2464.5
+S,Kb1,Emission Line,2465.0
+Tb,Ma,Sum Peak (2x),2466.8
+Te,Lb6,Escape Peak (Si),2471.6000000000004
+Mo,Lb3,Emission Line,2472.0
+Pm,Mg,Sum Peak (2x),2474.0
+Cf,Mg,Escape Peak (Si),2486.0
+Hg,Mg,Emission Line,2488.2
+Se,Ln,Sum Peak (2x),2489.4
+Po,Ma,Emission Line,2499.0
+Pd,Ll,Emission Line,2501.4
+Zr,Lg2,Emission Line,2503.5
+Zr,Lg3,Emission Line,2504.9
+Mg,Ka2,Sum Peak (2x),2506.8
+Mg,Ka1,Sum Peak (2x),2507.58
+Rh,Ln,Emission Line,2517.9
+Np,Mz,Emission Line,2521.0
+I,Lb1,Escape Peak (Si),2521.2
+Bi,Mb,Emission Line,2525.7
+Tc,Lb1,Emission Line,2535.4
+Tb,Mb,Sum Peak (2x),2538.4
+Cl,Ka3,Emission Line,2552.0
+Ru,La2,Emission Line,2553.8
+Hf,Mz,Sum Peak (2x),2555.6
+I,Lb4,Escape Peak (Si),2557.0
+Ru,La1,Emission Line,2558.0
+As,La1,Sum Peak (2x),2563.8
+As,La2,Sum Peak (2x),2563.8
+Dy,Ma,Sum Peak (2x),2568.0
+Cs,La2,Escape Peak (Si),2571.5
+Tl,Mg,Emission Line,2572.0
+At,Ma,Emission Line,2577.0
+Ge,Lb4,Sum Peak (2x),2579.4
+Sm,Mg,Sum Peak (2x),2581.6
+Cs,La1,Escape Peak (Si),2585.3999999999996
+Br,Ll,Sum Peak (2x),2586.0
+Ce,Ll,Escape Peak (Si),2587.0
+Ge,Lb3,Sum Peak (2x),2587.6
+Pu,Mz,Emission Line,2590.0
+Ga,Lg3,Sum Peak (2x),2594.0
+Ga,Lg2,Sum Peak (2x),2594.0
+Tc,Lb4,Emission Line,2595.4
+Te,"Lb2,15",Escape Peak (Si),2599.1000000000004
+Mg,Kb3,Sum Peak (2x),2604.0
+Mg,Kb1,Sum Peak (2x),2604.0
+Tc,Lb6,Emission Line,2607.5
+I,Lb3,Escape Peak (Si),2613.0
+Po,Mb,Emission Line,2614.0
+Cl,Ka2,Emission Line,2620.0
+Cl,Ka1,Emission Line,2622.0
+Tc,Lb3,Emission Line,2625.3
+Ba,Ln,Escape Peak (Si),2631.0
+As,Lb6,Sum Peak (2x),2631.2
+Ag,Ll,Emission Line,2632.0
+As,Lb1,Sum Peak (2x),2634.8
+Sb,Lg1,Escape Peak (Si),2646.7
+Dy,Mb,Sum Peak (2x),2650.0
+Pb,Mg,Emission Line,2653.8
+Rn,Ma,Emission Line,2654.0
+Am,Mz,Emission Line,2658.0
+Pd,Ln,Emission Line,2658.4
+Ta,Mz,Sum Peak (2x),2659.2
+Nb,Lg2,Emission Line,2665.4
+Nb,Lg3,Emission Line,2667.2
+I,Lb6,Escape Peak (Si),2671.0
+Br,Ln,Sum Peak (2x),2678.0
+Sn,Lg3,Escape Peak (Si),2681.3999999999996
+Sn,Lg2,Escape Peak (Si),2681.3999999999996
+Ru,Lb1,Emission Line,2682.8
+Ho,Ma,Sum Peak (2x),2684.8
+Rh,La2,Emission Line,2692.1
+Rh,La1,Emission Line,2696.8
+At,Mb,Emission Line,2699.0
+Ti,Ka3,Escape Peak (Si),2705.1000000000004
+Eu,Mg,Sum Peak (2x),2706.6
+Xe,Lb1,Escape Peak (Si),2718.0
+Cm,Mz,Emission Line,2726.0
+Fr,Ma,Emission Line,2732.0
+Bi,Mg,Emission Line,2736.9
+Ru,Lb4,Emission Line,2740.7
+Xe,Lb4,Escape Peak (Si),2750.8999999999996
+Ba,La2,Escape Peak (Si),2751.3
+Pr,Ll,Escape Peak (Si),2753.0
+Se,La2,Sum Peak (2x),2756.8
+Se,La1,Sum Peak (2x),2758.6
+As,Lb4,Sum Peak (2x),2761.6
+Ru,Lb3,Emission Line,2762.5
+Ru,Lb6,Emission Line,2763.0
+W,Mz,Sum Peak (2x),2763.2
+Sc,Kb3,Escape Peak (Si),2763.7
+Sc,Kb1,Escape Peak (Si),2763.7
+Cd,Ll,Emission Line,2766.0
+Ba,La1,Escape Peak (Si),2766.5
+Ho,Mb,Sum Peak (2x),2766.8
+Kr,Ll,Sum Peak (2x),2771.2
+As,Lb3,Sum Peak (2x),2771.6
+Rn,Mb,Emission Line,2784.0
+Bk,Mz,Emission Line,2795.0
+Gd,Mg,Sum Peak (2x),2802.8
+Ag,Ln,Emission Line,2805.0
+Ti,Ka2,Escape Peak (Si),2805.8
+Ra,Ma,Emission Line,2806.0
+I,"Lb2,15",Escape Peak (Si),2806.3999999999996
+Er,Ma,Sum Peak (2x),2808.6
+Cl,Kb1,Emission Line,2812.0
+Cl,Kb3,Emission Line,2812.0
+Ti,Ka1,Escape Peak (Si),2812.2
+Xe,Lb3,Escape Peak (Si),2812.3999999999996
+Ge,Lg2,Sum Peak (2x),2823.2
+Ge,Lg3,Sum Peak (2x),2823.2
+Mo,Lg2,Emission Line,2828.4
+Po,Mg,Emission Line,2829.0
+La,Ln,Escape Peak (Si),2829.0
+Mo,Lg3,Emission Line,2830.5
+Pd,La2,Emission Line,2832.5
+Rh,Lb1,Emission Line,2834.1
+Se,Lb1,Sum Peak (2x),2837.6
+Pd,La1,Emission Line,2837.8
+Se,Lb6,Sum Peak (2x),2843.8
+Re,Mz,Sum Peak (2x),2860.6
+Cf,Mz,Emission Line,2864.0
+Fr,Mb,Emission Line,2868.0
+Te,Lg1,Escape Peak (Si),2870.1000000000004
+Xe,Lb6,Escape Peak (Si),2872.8
+Kr,Ln,Sum Peak (2x),2876.2
+Ar,Ka3,Emission Line,2879.6
+Al,Ka3,Sum Peak (2x),2882.4
+Rh,Lb4,Emission Line,2890.7
+Er,Mb,Sum Peak (2x),2896.6
+Ac,Ma,Emission Line,2900.0
+Sb,Lg2,Escape Peak (Si),2902.3999999999996
+Sb,Lg3,Escape Peak (Si),2902.3999999999996
+In,Ll,Emission Line,2902.8
+Rh,Lb3,Emission Line,2915.5
+Cs,Lb1,Escape Peak (Si),2918.5
+At,Mg,Emission Line,2919.0
+Tb,Mg,Sum Peak (2x),2921.0
+Rh,Lb6,Emission Line,2922.6
+Tm,Ma,Sum Peak (2x),2926.8
+La,La2,Escape Peak (Si),2930.0
+Nd,Ll,Escape Peak (Si),2933.0
+Cs,Lb4,Escape Peak (Si),2943.0
+La,La1,Escape Peak (Si),2947.0
+Ra,Mb,Emission Line,2949.0
+Rb,Ll,Sum Peak (2x),2954.6
+Cd,Ln,Emission Line,2955.0
+Ar,Ka2,Emission Line,2955.3
+Ar,Ka1,Emission Line,2957.5
+Br,La2,Sum Peak (2x),2960.0
+Br,La1,Sum Peak (2x),2962.0
+Os,Mz,Sum Peak (2x),2963.8
+Se,Lb4,Sum Peak (2x),2971.0
+Al,Ka2,Sum Peak (2x),2972.2
+Al,Ka1,Sum Peak (2x),2973.0
+Ag,La2,Emission Line,2977.0
+Se,Lb3,Sum Peak (2x),2982.6
+Ag,La1,Emission Line,2982.7
+Pd,Lb1,Emission Line,2989.5
+Th,Ma,Emission Line,2989.6
+Rn,Mg,Emission Line,2997.0
+Tc,Lg2,Emission Line,3000.7
+Rh,"Lb2,15",Emission Line,3002.0
+Tc,Lg3,Emission Line,3003.1
+Cs,Lb3,Escape Peak (Si),3011.0
+Xe,"Lb2,15",Escape Peak (Si),3016.5
+Tm,Mb,Sum Peak (2x),3020.8
+Ce,Ln,Escape Peak (Si),3028.0
+Pd,Lb4,Emission Line,3044.1
+Sn,Ll,Emission Line,3044.3
+Dy,Mg,Sum Peak (2x),3044.8
+Br,Lb6,Sum Peak (2x),3046.0
+As,Lg3,Sum Peak (2x),3048.0
+As,Lg2,Sum Peak (2x),3048.0
+Yb,Ma,Sum Peak (2x),3051.0
+Ac,Mb,Emission Line,3051.0
+Br,Lb1,Sum Peak (2x),3052.0
+Pa,Ma,Emission Line,3071.0
+Pd,Lb3,Emission Line,3071.7
+Rb,Ln,Sum Peak (2x),3074.6
+Ir,Mz,Sum Peak (2x),3076.4
+Cs,Lb6,Escape Peak (Si),3079.7
+Pd,Lb6,Emission Line,3085.9
+Fr,Mg,Emission Line,3086.0
+I,Lg1,Escape Peak (Si),3101.3999999999996
+Pm,Ll,Escape Peak (Si),3109.0
+In,Ln,Emission Line,3110.8
+Al,Kb1,Sum Peak (2x),3114.0
+Al,Kb3,Sum Peak (2x),3114.0
+Ce,La2,Escape Peak (Si),3120.6000000000004
+Cd,La2,Emission Line,3126.1
+Ba,Lb1,Escape Peak (Si),3128.3
+Cd,La1,Emission Line,3132.8
+Te,Lg3,Escape Peak (Si),3135.7
+Te,Lg2,Escape Peak (Si),3135.7
+V,Ka3,Escape Peak (Si),3138.3
+Ce,La1,Escape Peak (Si),3139.2
+Rh,Lg1,Emission Line,3144.0
+Yb,Mb,Sum Peak (2x),3147.0
+Th,Mb,Emission Line,3148.6
+Ag,Lb1,Emission Line,3150.0
+Ba,Lb4,Escape Peak (Si),3152.0
+Lu,Ma,Sum Peak (2x),3160.2
+Ho,Mg,Sum Peak (2x),3162.0
+Sr,Ll,Sum Peak (2x),3162.6
+U,Ma,Emission Line,3163.8
+Kr,La2,Sum Peak (2x),3166.8
+Kr,La1,Sum Peak (2x),3169.2
+Pd,"Lb2,15",Emission Line,3171.0
+Ru,Lg2,Emission Line,3177.7
+Ru,Lg3,Emission Line,3180.8
+Pt,Mz,Sum Peak (2x),3185.8
+Br,Lb4,Sum Peak (2x),3186.0
+Ra,Mg,Emission Line,3189.0
+Ar,Kb3,Emission Line,3190.0
+Ar,Kb1,Emission Line,3190.2
+Sb,Ll,Emission Line,3192.0
+Br,Lb3,Sum Peak (2x),3200.0
+Ag,Lb4,Emission Line,3202.2
+Ba,Lb3,Escape Peak (Si),3226.0
+Pr,Ln,Escape Peak (Si),3229.0
+K,Ka3,Emission Line,3229.8
+Cs,"Lb2,15",Escape Peak (Si),3232.2
+Ag,Lb3,Emission Line,3233.0
+Ti,Kb3,Escape Peak (Si),3233.3999999999996
+Ti,Kb1,Escape Peak (Si),3233.3999999999996
+Pa,Mb,Emission Line,3240.0
+V,Ka2,Escape Peak (Si),3245.2
+Np,Ma,Emission Line,3250.0
+V,Ka1,Escape Peak (Si),3252.8999999999996
+Ag,Lb6,Emission Line,3254.0
+Lu,Mb,Sum Peak (2x),3260.2
+Ti,Kb5,Escape Peak (Si),3264.0
+Ac,Mg,Emission Line,3270.0
+Sn,Ln,Emission Line,3271.3
+Kr,Lb1,Sum Peak (2x),3271.8
+In,La2,Emission Line,3278.6
+In,La1,Emission Line,3286.1
+Er,Mg,Sum Peak (2x),3288.8
+Hf,Ma,Sum Peak (2x),3292.2
+Sm,Ll,Escape Peak (Si),3293.0
+Ba,Lb6,Escape Peak (Si),3293.5
+Au,Mz,Sum Peak (2x),3296.6
+Sr,Ln,Sum Peak (2x),3296.6
+Se,Lg2,Sum Peak (2x),3298.0
+Se,Lg3,Sum Peak (2x),3298.0
+Kr,Lb6,Sum Peak (2x),3301.8
+K,Ka2,Emission Line,3311.1
+K,Ka1,Emission Line,3313.8
+Cd,Lb1,Emission Line,3315.1
+Pr,La2,Escape Peak (Si),3315.7
+Pd,Lg1,Emission Line,3328.0
+Te,Ll,Emission Line,3335.0
+Pr,La1,Escape Peak (Si),3335.2
+Xe,Lg1,Escape Peak (Si),3337.5
+La,Lb1,Escape Peak (Si),3338.0
+Pu,Ma,Emission Line,3339.0
+U,Mb,Emission Line,3339.8
+Ag,"Lb2,15",Emission Line,3347.0
+La,Lb4,Escape Peak (Si),3357.0
+Rh,Lg2,Emission Line,3361.5
+Rh,Lg3,Emission Line,3364.7
+I,Lg3,Escape Peak (Si),3365.0
+I,Lg2,Escape Peak (Si),3365.0
+Cd,Lb4,Emission Line,3365.4
+Th,Mg,Emission Line,3370.8
+Y,Ll,Sum Peak (2x),3376.0
+Si,Ka3,Sum Peak (2x),3378.6
+Rb,La2,Sum Peak (2x),3382.0
+Rb,La1,Sum Peak (2x),3384.0
+Kr,Lb4,Sum Peak (2x),3397.6
+Cd,Lb3,Emission Line,3399.6
+Hf,Mb,Sum Peak (2x),3400.2
+Hg,Mz,Sum Peak (2x),3409.6
+Kr,Lb3,Sum Peak (2x),3413.2
+Tm,Mg,Sum Peak (2x),3419.0
+Ta,Ma,Sum Peak (2x),3423.0
+Cd,Lb6,Emission Line,3428.2
+Am,Ma,Emission Line,3429.0
+Np,Mb,Emission Line,3435.0
+Sn,La2,Emission Line,3435.8
+La,Lb3,Escape Peak (Si),3438.0
+Sb,Ln,Emission Line,3440.0
+Sn,La1,Emission Line,3444.1
+Nd,Ln,Escape Peak (Si),3447.0
+Ba,"Lb2,15",Escape Peak (Si),3454.3999999999996
+Pa,Mg,Emission Line,3466.0
+Eu,Ll,Escape Peak (Si),3477.0
+Si,Ka2,Sum Peak (2x),3478.4
+Si,Ka1,Sum Peak (2x),3479.6
+I,Ll,Emission Line,3485.0
+In,Lb1,Emission Line,3486.6
+Rb,Lb1,Sum Peak (2x),3502.0
+Nd,La2,Escape Peak (Si),3504.7
+La,Lb6,Escape Peak (Si),3508.3
+Ag,Lg1,Emission Line,3520.0
+Cm,Ma,Emission Line,3525.0
+Cd,"Lb2,15",Emission Line,3526.3
+Nd,La1,Escape Peak (Si),3527.6000000000004
+Y,Ln,Sum Peak (2x),3528.0
+Tl,Mz,Sum Peak (2x),3529.0
+Pu,Mb,Emission Line,3534.0
+In,Lb4,Emission Line,3534.8
+Yb,Mg,Sum Peak (2x),3535.2
+Ta,Mb,Sum Peak (2x),3539.0
+Rb,Lb6,Sum Peak (2x),3547.0
+Pd,Lg2,Emission Line,3548.3
+W,Ma,Sum Peak (2x),3550.8
+Pd,Lg3,Emission Line,3553.1
+Br,Lg2,Sum Peak (2x),3558.0
+Br,Lg3,Sum Peak (2x),3558.0
+Ce,Lb1,Escape Peak (Si),3561.6000000000004
+U,Mg,Emission Line,3566.8
+In,Lb3,Emission Line,3572.7
+Ce,Lb4,Escape Peak (Si),3574.0
+Cs,Lg1,Escape Peak (Si),3579.2
+Zr,Ll,Sum Peak (2x),3585.4
+K,Kb3,Emission Line,3590.1
+K,Kb1,Emission Line,3590.1
+Cr,Ka3,Escape Peak (Si),3593.0
+Sb,La2,Emission Line,3594.5
+Ca,Ka3,Emission Line,3600.1
+Sb,La1,Emission Line,3603.8
+Te,Ln,Emission Line,3606.0
+Xe,Lg2,Escape Peak (Si),3606.3
+In,Lb6,Emission Line,3607.1
+Xe,Lg3,Escape Peak (Si),3607.5
+Sr,La2,Sum Peak (2x),3608.0
+Sr,La1,Sum Peak (2x),3611.6
+Bk,Ma,Emission Line,3616.0
+Rb,Lb4,Sum Peak (2x),3632.6
+Am,Mb,Emission Line,3635.0
+Xe,Ll,Emission Line,3637.3
+Pb,Mz,Sum Peak (2x),3648.2
+Rb,Lb3,Sum Peak (2x),3651.8
+Lu,Mg,Sum Peak (2x),3655.4
+Ce,Lb3,Escape Peak (Si),3661.0
+Gd,Ll,Escape Peak (Si),3662.0
+Sn,Lb1,Emission Line,3662.8
+Pm,Ln,Escape Peak (Si),3663.0
+Np,Mg,Emission Line,3664.0
+Si,Kb1,Sum Peak (2x),3674.0
+Si,Kb3,Sum Peak (2x),3674.0
+W,Mb,Sum Peak (2x),3676.8
+La,"Lb2,15",Escape Peak (Si),3677.7
+Re,Ma,Sum Peak (2x),3680.2
+Ca,Ka2,Emission Line,3688.8
+Ca,Ka1,Emission Line,3692.3
+Cr,Ka2,Escape Peak (Si),3705.2
+Pm,La2,Escape Peak (Si),3707.0
+Sn,Lb4,Emission Line,3708.5
+Cf,Ma,Emission Line,3709.0
+In,"Lb2,15",Emission Line,3712.3
+Cr,Ka1,Escape Peak (Si),3714.8999999999996
+Cd,Lg1,Emission Line,3715.3
+V,Kb1,Escape Peak (Si),3727.8
+V,Kb3,Escape Peak (Si),3727.8
+Pm,La1,Escape Peak (Si),3732.0
+Ce,Lb6,Escape Peak (Si),3732.0
+Cm,Mb,Emission Line,3740.0
+Sr,Lb1,Sum Peak (2x),3742.0
+Ag,Lg2,Emission Line,3742.3
+Ag,Lg3,Emission Line,3747.7
+Sn,Lb3,Emission Line,3750.4
+Zr,Ln,Sum Peak (2x),3753.4
+Te,La2,Emission Line,3757.6
+V,Kb5,Escape Peak (Si),3763.0
+Pu,Mg,Emission Line,3765.0
+Bi,Mz,Sum Peak (2x),3765.6
+Te,La1,Emission Line,3768.0
+I,Ln,Emission Line,3780.0
+Hf,Mg,Sum Peak (2x),3791.0
+Pr,Lb1,Escape Peak (Si),3791.7
+Sn,Lb6,Emission Line,3791.9
+Pr,Lb4,Escape Peak (Si),3798.0
+Cs,Ll,Emission Line,3801.0
+Sr,Lb6,Sum Peak (2x),3802.2
+Nb,Ll,Sum Peak (2x),3808.8
+Re,Mb,Sum Peak (2x),3812.2
+Os,Ma,Sum Peak (2x),3813.2
+Kr,Lg3,Sum Peak (2x),3813.8
+Kr,Lg2,Sum Peak (2x),3813.8
+Ba,Lg1,Escape Peak (Si),3831.3999999999996
+Cs,Lg2,Escape Peak (Si),3841.6000000000004
+Bk,Mb,Emission Line,3842.0
+Sb,Lb1,Emission Line,3842.5
+Y,La2,Sum Peak (2x),3844.6
+Tb,Ll,Escape Peak (Si),3846.0
+Y,La1,Sum Peak (2x),3848.4
+Cs,Lg3,Escape Peak (Si),3852.7
+Am,Mg,Emission Line,3869.0
+Sr,Lb4,Sum Peak (2x),3871.4
+Sb,Lb4,Emission Line,3885.3
+Sm,Ln,Escape Peak (Si),3889.0
+Sr,Lb3,Sum Peak (2x),3892.0
+Pr,Lb3,Escape Peak (Si),3893.0
+Po,Mz,Sum Peak (2x),3894.0
+Sn,"Lb2,15",Emission Line,3904.1
+Sm,La2,Escape Peak (Si),3905.1000000000004
+P,Ka3,Sum Peak (2x),3913.0
+Ce,"Lb2,15",Escape Peak (Si),3914.0
+In,Lg1,Emission Line,3920.3
+I,La2,Emission Line,3926.2
+Sb,Lb3,Emission Line,3931.6
+Sm,La1,Escape Peak (Si),3932.6000000000004
+Ta,Mg,Sum Peak (2x),3935.2
+I,La1,Emission Line,3937.7
+Cf,Mb,Emission Line,3946.0
+Ir,Ma,Sum Peak (2x),3952.4
+Ba,Ll,Emission Line,3954.0
+Cd,Lg2,Emission Line,3954.1
+Cd,Lg3,Emission Line,3954.1
+Os,Mb,Sum Peak (2x),3955.2
+Xe,Ln,Emission Line,3958.3
+Pr,Lb6,Escape Peak (Si),3959.5
+Cm,Mg,Emission Line,3976.0
+Sb,Lb6,Emission Line,3978.8
+Sc,Ka3,Emission Line,3994.0
+Y,Lb1,Sum Peak (2x),3996.6
+Nb,Ln,Sum Peak (2x),3996.8
+Ca,Kb1,Emission Line,4013.1
+Ca,Kb3,Emission Line,4013.1
+Nd,Lb1,Escape Peak (Si),4018.7
+P,Ka2,Sum Peak (2x),4019.0
+P,Ka1,Sum Peak (2x),4021.0
+Nd,Lb4,Escape Peak (Si),4023.0
+Mo,Ll,Sum Peak (2x),4027.4
+Te,Lb1,Emission Line,4028.6
+Dy,Ll,Escape Peak (Si),4043.0
+At,Mz,Sum Peak (2x),4046.0
+Te,Lb4,Emission Line,4068.2
+Mn,Ka3,Escape Peak (Si),4069.8999999999996
+Y,Lb6,Sum Peak (2x),4072.4
+W,Mg,Sum Peak (2x),4075.0
+Bk,Mg,Emission Line,4078.0
+Zr,La2,Sum Peak (2x),4083.8
+La,Lg1,Escape Peak (Si),4085.7
+Zr,La1,Sum Peak (2x),4088.4
+Sc,Ka2,Emission Line,4088.4
+Sc,Ka1,Emission Line,4093.3
+Pt,Ma,Sum Peak (2x),4095.0
+Ba,Lg2,Escape Peak (Si),4097.0
+Xe,La2,Emission Line,4097.0
+Rb,Lg2,Sum Peak (2x),4097.4
+Sb,"Lb2,15",Emission Line,4098.7
+Rb,Lg3,Sum Peak (2x),4099.4
+Ir,Mb,Sum Peak (2x),4104.4
+Xe,La1,Emission Line,4109.6
+Ba,Lg3,Escape Peak (Si),4110.4
+Eu,Ln,Escape Peak (Si),4117.0
+Te,Lb3,Emission Line,4118.2
+Eu,La2,Escape Peak (Si),4118.4
+La,Ll,Emission Line,4121.0
+Y,Lb4,Sum Peak (2x),4124.8
+Nd,Lb3,Escape Peak (Si),4129.0
+Sn,Lg1,Emission Line,4131.1
+Cs,Ln,Emission Line,4148.0
+Y,Lb3,Sum Peak (2x),4148.4
+Pr,"Lb2,15",Escape Peak (Si),4148.9
+Eu,La1,Escape Peak (Si),4149.5
+In,Lg2,Emission Line,4164.5
+In,Lg3,Emission Line,4164.5
+Te,Lb6,Emission Line,4171.6
+Rn,Mz,Sum Peak (2x),4186.0
+Cf,Mg,Emission Line,4186.0
+Nd,Lb6,Escape Peak (Si),4188.8
+Mn,Ka2,Escape Peak (Si),4189.1
+Mn,Ka1,Escape Peak (Si),4200.3
+Re,Mg,Sum Peak (2x),4213.0
+I,Lb1,Emission Line,4221.2
+Au,Ma,Sum Peak (2x),4236.8
+Mo,Ln,Sum Peak (2x),4237.4
+Ho,Ll,Escape Peak (Si),4243.0
+Cr,Kb3,Escape Peak (Si),4246.8
+Cr,Kb1,Escape Peak (Si),4246.8
+Zr,Lb1,Sum Peak (2x),4251.8
+Pt,Mb,Sum Peak (2x),4255.0
+Pm,Lb4,Escape Peak (Si),4256.6
+I,Lb4,Emission Line,4257.0
+Pm,Lb1,Escape Peak (Si),4261.0
+Tc,Ll,Sum Peak (2x),4266.0
+Cs,La2,Emission Line,4271.5
+P,Kb3,Sum Peak (2x),4277.0
+P,Kb1,Sum Peak (2x),4279.0
+Cs,La1,Emission Line,4285.4
+Cr,Kb5,Escape Peak (Si),4287.0
+Ce,Ll,Emission Line,4287.0
+Te,"Lb2,15",Emission Line,4299.1
+Fr,Mz,Sum Peak (2x),4312.0
+I,Lb3,Emission Line,4313.0
+Gd,La2,Escape Peak (Si),4321.1
+Ba,Ln,Emission Line,4331.0
+Nb,La2,Sum Peak (2x),4332.0
+Nb,La1,Sum Peak (2x),4337.4
+Zr,Lb6,Sum Peak (2x),4344.8
+Sb,Lg1,Emission Line,4346.7
+Gd,Ln,Escape Peak (Si),4349.0
+Gd,La1,Escape Peak (Si),4353.4
+Ce,Lg1,Escape Peak (Si),4355.0
+Os,Mg,Sum Peak (2x),4357.0
+La,Lg2,Escape Peak (Si),4360.2
+La,Lg3,Escape Peak (Si),4370.0
+Pm,Lb3,Escape Peak (Si),4371.0
+I,Lb6,Emission Line,4371.0
+Zr,Lb4,Sum Peak (2x),4377.0
+Ra,Mz,Sum Peak (2x),4380.0
+Sn,Lg2,Emission Line,4381.4
+Sn,Lg3,Emission Line,4381.4
+Hg,Ma,Sum Peak (2x),4382.0
+Nd,"Lb2,15",Escape Peak (Si),4387.5
+Sr,Lg2,Sum Peak (2x),4388.8
+Sr,Lg3,Sum Peak (2x),4391.8
+Zr,Lb3,Sum Peak (2x),4404.4
+Ti,Ka3,Emission Line,4405.1
+Au,Mb,Sum Peak (2x),4406.8
+Xe,Lb1,Emission Line,4418.0
+Pm,Lb6,Escape Peak (Si),4428.0
+Xe,Lb4,Emission Line,4450.9
+Ba,La2,Emission Line,4451.3
+Er,Ll,Escape Peak (Si),4452.0
+Pr,Ll,Emission Line,4453.0
+Sc,Kb3,Emission Line,4463.7
+Sc,Kb1,Emission Line,4463.7
+Ba,La1,Emission Line,4466.5
+S,Ka3,Sum Peak (2x),4482.2
+Sm,Lb4,Escape Peak (Si),4496.0
+Tc,Ln,Sum Peak (2x),4498.0
+Sm,Lb1,Escape Peak (Si),4501.1
+Ru,Ll,Sum Peak (2x),4503.8
+Ti,Ka2,Emission Line,4505.8
+I,"Lb2,15",Emission Line,4506.4
+Ir,Mg,Sum Peak (2x),4509.4
+Ti,Ka1,Emission Line,4512.2
+Xe,Lb3,Emission Line,4512.4
+Nb,Lb1,Sum Peak (2x),4520.0
+La,Ln,Emission Line,4529.0
+Tl,Ma,Sum Peak (2x),4533.6
+Tb,La2,Escape Peak (Si),4537.1
+Hg,Mb,Sum Peak (2x),4562.0
+Fe,Ka3,Escape Peak (Si),4567.4
+Te,Lg1,Emission Line,4570.1
+Xe,Lb6,Emission Line,4572.8
+Tb,La1,Escape Peak (Si),4572.9
+Mo,La2,Sum Peak (2x),4577.8
+Ac,Mz,Sum Peak (2x),4580.0
+Tb,Ln,Escape Peak (Si),4584.0
+Mo,La1,Sum Peak (2x),4584.2
+Sb,Lg2,Emission Line,4602.4
+Sb,Lg3,Emission Line,4602.4
+S,Ka2,Sum Peak (2x),4616.8
+Sm,Lb3,Escape Peak (Si),4617.2
+Cs,Lb1,Emission Line,4618.5
+S,Ka1,Sum Peak (2x),4619.0
+Ce,Lg2,Escape Peak (Si),4624.8
+Pr,Lg1,Escape Peak (Si),4624.9
+Nb,Lb6,Sum Peak (2x),4629.2
+La,La2,Emission Line,4630.0
+Nd,Ll,Emission Line,4633.0
+Pm,"Lb2,15",Escape Peak (Si),4639.0
+Tm,Ll,Escape Peak (Si),4641.0
+Ce,Lg3,Escape Peak (Si),4641.5
+Cs,Lb4,Emission Line,4643.0
+Nb,Lb4,Sum Peak (2x),4643.8
+Th,Mz,Sum Peak (2x),4646.0
+La,La1,Emission Line,4647.0
+Pt,Mg,Sum Peak (2x),4660.8
+Sm,Lb6,Escape Peak (Si),4668.8
+Nb,Lb3,Sum Peak (2x),4674.8
+Pb,Ma,Sum Peak (2x),4684.6
+Fe,Ka2,Escape Peak (Si),4692.1
+Y,Lg2,Sum Peak (2x),4697.2
+Y,Lg3,Sum Peak (2x),4699.8
+Fe,Ka1,Escape Peak (Si),4705.2
+Cs,Lb3,Emission Line,4711.0
+Xe,"Lb2,15",Emission Line,4716.5
+Tl,Mb,Sum Peak (2x),4725.6
+Ce,Ln,Emission Line,4728.0
+Eu,Lb4,Escape Peak (Si),4738.0
+Rh,Ll,Sum Peak (2x),4751.8
+Dy,La2,Escape Peak (Si),4757.0
+Eu,Lb1,Escape Peak (Si),4758.4
+Ru,Ln,Sum Peak (2x),4761.8
+Pa,Mz,Sum Peak (2x),4774.0
+Cs,Lb6,Emission Line,4779.7
+Mo,Lb1,Sum Peak (2x),4787.8
+Mn,Kb1,Escape Peak (Si),4791.8
+Mn,Kb3,Escape Peak (Si),4791.8
+Dy,La1,Escape Peak (Si),4798.0
+I,Lg1,Emission Line,4801.4
+Pm,Ll,Emission Line,4809.0
+Au,Mg,Sum Peak (2x),4815.8
+Ce,La2,Emission Line,4820.6
+Ba,Lb1,Emission Line,4828.3
+Dy,Ln,Escape Peak (Si),4834.0
+Bi,Ma,Sum Peak (2x),4835.4
+Te,Lg2,Emission Line,4835.7
+Te,Lg3,Emission Line,4835.7
+Mn,Kb5,Escape Peak (Si),4837.0
+V,Ka3,Emission Line,4838.3
+Tc,La2,Sum Peak (2x),4838.8
+Ce,La1,Emission Line,4839.2
+Yb,Ll,Escape Peak (Si),4846.0
+Tc,La1,Sum Peak (2x),4846.2
+Ba,Lb4,Emission Line,4852.0
+Eu,Lb3,Escape Peak (Si),4871.0
+Sm,"Lb2,15",Escape Peak (Si),4887.0
+Pb,Mb,Sum Peak (2x),4888.6
+Pr,Lg2,Escape Peak (Si),4898.7
+Nd,Lg1,Escape Peak (Si),4901.5
+Mo,Lb4,Sum Peak (2x),4908.8
+Mo,Lb6,Sum Peak (2x),4913.6
+U,Mz,Sum Peak (2x),4914.0
+Eu,Lb6,Escape Peak (Si),4917.0
+Pr,Lg3,Escape Peak (Si),4917.4
+Ba,Lb3,Emission Line,4926.0
+S,Kb3,Sum Peak (2x),4928.0
+Pr,Ln,Emission Line,4929.0
+S,Kb1,Sum Peak (2x),4930.0
+Cs,"Lb2,15",Emission Line,4932.2
+Ti,Kb3,Emission Line,4933.4
+Ti,Kb1,Emission Line,4933.4
+Mo,Lb3,Sum Peak (2x),4944.0
+V,Ka2,Emission Line,4945.2
+V,Ka1,Emission Line,4952.9
+Ti,Kb5,Emission Line,4964.0
+Hg,Mg,Sum Peak (2x),4976.4
+Ho,La2,Escape Peak (Si),4979.0
+Gd,Lb4,Escape Peak (Si),4988.0
+Sm,Ll,Emission Line,4993.0
+Ba,Lb6,Emission Line,4993.5
+Po,Ma,Sum Peak (2x),4998.0
+Pd,Ll,Sum Peak (2x),5002.8
+Zr,Lg2,Sum Peak (2x),5007.0
+Gd,Lb1,Escape Peak (Si),5008.1
+Zr,Lg3,Sum Peak (2x),5009.8
+Pr,La2,Emission Line,5015.7
+Ho,La1,Escape Peak (Si),5020.0
+Pr,La1,Emission Line,5035.2
+Rh,Ln,Sum Peak (2x),5035.8
+Xe,Lg1,Emission Line,5037.5
+La,Lb1,Emission Line,5038.0
+Np,Mz,Sum Peak (2x),5042.0
+Bi,Mb,Sum Peak (2x),5051.4
+Lu,Ll,Escape Peak (Si),5053.0
+La,Lb4,Emission Line,5057.0
+I,Lg2,Emission Line,5065.0
+I,Lg3,Emission Line,5065.0
+Tc,Lb1,Sum Peak (2x),5070.8
+Co,Ka3,Escape Peak (Si),5083.9
+Ho,Ln,Escape Peak (Si),5090.0
+Cl,Ka3,Sum Peak (2x),5104.0
+Ru,La2,Sum Peak (2x),5107.6
+Ru,La1,Sum Peak (2x),5116.0
+Gd,Lb3,Escape Peak (Si),5132.0
+La,Lb3,Emission Line,5138.0
+Tl,Mg,Sum Peak (2x),5144.0
+Eu,"Lb2,15",Escape Peak (Si),5144.0
+Nd,Ln,Emission Line,5147.0
+At,Ma,Sum Peak (2x),5154.0
+Ba,"Lb2,15",Emission Line,5154.4
+Gd,Lb6,Escape Peak (Si),5164.4
+Eu,Ll,Emission Line,5177.0
+Pu,Mz,Sum Peak (2x),5180.0
+Nd,Lg2,Escape Peak (Si),5182.7
+Tc,Lb4,Sum Peak (2x),5190.8
+Pm,Lg1,Escape Peak (Si),5193.0
+Nd,Lg3,Escape Peak (Si),5201.4
+Nd,La2,Emission Line,5204.7
+Er,La2,Escape Peak (Si),5205.0
+La,Lb6,Emission Line,5208.3
+Tc,Lb6,Sum Peak (2x),5215.0
+Co,Ka2,Escape Peak (Si),5215.8
+Nd,La1,Emission Line,5227.6
+Po,Mb,Sum Peak (2x),5228.0
+Co,Ka1,Escape Peak (Si),5230.9
+Cl,Ka2,Sum Peak (2x),5240.0
+Tb,Lb4,Escape Peak (Si),5240.0
+Cl,Ka1,Sum Peak (2x),5244.0
+Er,La1,Escape Peak (Si),5249.0
+Tc,Lb3,Sum Peak (2x),5250.6
+Hf,Ll,Escape Peak (Si),5260.0
+Ce,Lb1,Emission Line,5261.6
+Ag,Ll,Sum Peak (2x),5264.0
+Ce,Lb4,Emission Line,5274.0
+Tb,Lb1,Escape Peak (Si),5275.1
+Cs,Lg1,Emission Line,5279.2
+Cr,Ka3,Emission Line,5293.0
+Xe,Lg2,Emission Line,5306.3
+Xe,Lg3,Emission Line,5307.5
+Pb,Mg,Sum Peak (2x),5307.6
+Rn,Ma,Sum Peak (2x),5308.0
+Am,Mz,Sum Peak (2x),5316.0
+Pd,Ln,Sum Peak (2x),5316.8
+Nb,Lg2,Sum Peak (2x),5330.8
+Nb,Lg3,Sum Peak (2x),5334.4
+Er,Ln,Escape Peak (Si),5358.0
+Fe,Kb1,Escape Peak (Si),5359.3
+Fe,Kb3,Escape Peak (Si),5359.3
+Ce,Lb3,Emission Line,5361.0
+Gd,Ll,Emission Line,5362.0
+Pm,Ln,Emission Line,5363.0
+Ru,Lb1,Sum Peak (2x),5365.6
+La,"Lb2,15",Emission Line,5377.7
+Rh,La2,Sum Peak (2x),5384.2
+Rh,La1,Sum Peak (2x),5393.6
+Tb,Lb3,Escape Peak (Si),5397.0
+At,Mb,Sum Peak (2x),5398.0
+Gd,"Lb2,15",Escape Peak (Si),5400.4
+Cr,Ka2,Emission Line,5405.2
+Pm,La2,Emission Line,5407.0
+Fe,Kb5,Escape Peak (Si),5410.0
+Cr,Ka1,Emission Line,5414.9
+Tb,Lb6,Escape Peak (Si),5418.0
+V,Kb1,Emission Line,5427.8
+V,Kb3,Emission Line,5427.8
+Ce,Lb6,Emission Line,5432.0
+Pm,La1,Emission Line,5432.0
+Tm,La2,Escape Peak (Si),5433.0
+Cm,Mz,Sum Peak (2x),5452.0
+V,Kb5,Emission Line,5463.0
+Fr,Ma,Sum Peak (2x),5464.0
+Ta,Ll,Escape Peak (Si),5473.0
+Bi,Mg,Sum Peak (2x),5473.8
+Tm,La1,Escape Peak (Si),5480.0
+Ru,Lb4,Sum Peak (2x),5481.4
+Sm,Lg1,Escape Peak (Si),5483.0
+Pm,Lg3,Escape Peak (Si),5486.0
+Pm,Lg2,Escape Peak (Si),5486.0
+Pr,Lb1,Emission Line,5491.7
+Pr,Lb4,Emission Line,5498.0
+Dy,Lb4,Escape Peak (Si),5504.0
+Ru,Lb3,Sum Peak (2x),5525.0
+Ru,Lb6,Sum Peak (2x),5526.0
+Ba,Lg1,Emission Line,5531.4
+Cd,Ll,Sum Peak (2x),5532.0
+Cs,Lg2,Emission Line,5541.6
+Tb,Ll,Emission Line,5546.0
+Dy,Lb1,Escape Peak (Si),5548.0
+Cs,Lg3,Emission Line,5552.7
+Rn,Mb,Sum Peak (2x),5568.0
+Sm,Ln,Emission Line,5589.0
+Bk,Mz,Sum Peak (2x),5590.0
+Pr,Lb3,Emission Line,5593.0
+Sm,La2,Emission Line,5605.1
+Tm,Ln,Escape Peak (Si),5610.0
+Ag,Ln,Sum Peak (2x),5610.0
+Ra,Ma,Sum Peak (2x),5612.0
+Ce,"Lb2,15",Emission Line,5614.0
+Cl,Kb1,Sum Peak (2x),5624.0
+Cl,Kb3,Sum Peak (2x),5624.0
+Ni,Ka3,Escape Peak (Si),5624.4
+Sm,La1,Emission Line,5632.6
+Mo,Lg2,Sum Peak (2x),5656.8
+Po,Mg,Sum Peak (2x),5658.0
+Pr,Lb6,Emission Line,5659.5
+Mo,Lg3,Sum Peak (2x),5661.0
+Tb,"Lb2,15",Escape Peak (Si),5663.5
+Pd,La2,Sum Peak (2x),5665.0
+Yb,La2,Escape Peak (Si),5668.0
+Rh,Lb1,Sum Peak (2x),5668.2
+Dy,Lb3,Escape Peak (Si),5670.0
+Pd,La1,Sum Peak (2x),5675.6
+Dy,Lb6,Escape Peak (Si),5675.8
+W,Ll,Escape Peak (Si),5687.0
+Yb,La1,Escape Peak (Si),5716.0
+Nd,Lb1,Emission Line,5718.7
+Nd,Lb4,Emission Line,5723.0
+Cf,Mz,Sum Peak (2x),5728.0
+Fr,Mb,Sum Peak (2x),5736.0
+Dy,Ll,Emission Line,5743.0
+Ar,Ka3,Sum Peak (2x),5759.2
+Ni,Ka2,Escape Peak (Si),5763.0
+Mn,Ka3,Emission Line,5769.9
+Ho,Lb4,Escape Peak (Si),5771.0
+Sm,Lg2,Escape Peak (Si),5771.4
+Ni,Ka1,Escape Peak (Si),5780.3
+Rh,Lb4,Sum Peak (2x),5781.4
+Eu,Lg1,Escape Peak (Si),5784.0
+La,Lg1,Emission Line,5785.7
+Sm,Lg3,Escape Peak (Si),5789.6
+Ba,Lg2,Emission Line,5797.0
+Ac,Ma,Sum Peak (2x),5800.0
+In,Ll,Sum Peak (2x),5805.6
+Ba,Lg3,Emission Line,5810.4
+Eu,Ln,Emission Line,5817.0
+Eu,La2,Emission Line,5818.4
+Ho,Lb1,Escape Peak (Si),5826.0
+Nd,Lb3,Emission Line,5829.0
+Rh,Lb3,Sum Peak (2x),5831.0
+At,Mg,Sum Peak (2x),5838.0
+Rh,Lb6,Sum Peak (2x),5845.2
+Pr,"Lb2,15",Emission Line,5848.9
+Eu,La1,Emission Line,5849.5
+Yb,Ln,Escape Peak (Si),5880.0
+Nd,Lb6,Emission Line,5888.8
+Mn,Ka2,Emission Line,5889.1
+Ra,Mb,Sum Peak (2x),5898.0
+Mn,Ka1,Emission Line,5900.3
+Re,Ll,Escape Peak (Si),5903.0
+Lu,La2,Escape Peak (Si),5905.0
+Cd,Ln,Sum Peak (2x),5910.0
+Ar,Ka2,Sum Peak (2x),5910.6
+Ar,Ka1,Sum Peak (2x),5915.0
+Dy,"Lb2,15",Escape Peak (Si),5936.4
+Ho,Lb6,Escape Peak (Si),5938.6
+Ho,Ll,Emission Line,5943.0
+Cr,Kb3,Emission Line,5946.8
+Cr,Kb1,Emission Line,5946.8
+Co,Kb1,Escape Peak (Si),5949.1
+Co,Kb3,Escape Peak (Si),5950.1
+Ho,Lb3,Escape Peak (Si),5953.0
+Ag,La2,Sum Peak (2x),5954.0
+Lu,La1,Escape Peak (Si),5955.0
+Pm,Lb4,Emission Line,5956.6
+Pm,Lb1,Emission Line,5961.0
+Ag,La1,Sum Peak (2x),5965.4
+Pd,Lb1,Sum Peak (2x),5979.0
+Th,Ma,Sum Peak (2x),5979.2
+Cr,Kb5,Emission Line,5987.0
+Rn,Mg,Sum Peak (2x),5994.0
+Tc,Lg2,Sum Peak (2x),6001.4
+Rh,"Lb2,15",Sum Peak (2x),6004.0
+Co,Kb5,Escape Peak (Si),6006.0
+Tc,Lg3,Sum Peak (2x),6006.2
+Gd,La2,Emission Line,6021.1
+Er,Lb4,Escape Peak (Si),6045.0
+Gd,Ln,Emission Line,6049.0
+Gd,La1,Emission Line,6053.4
+Ce,Lg1,Emission Line,6055.0
+La,Lg2,Emission Line,6060.2
+Eu,Lg2,Escape Peak (Si),6068.0
+La,Lg3,Emission Line,6070.0
+Pm,Lb3,Emission Line,6071.0
+Gd,Lg1,Escape Peak (Si),6087.4
+Nd,"Lb2,15",Emission Line,6087.5
+Pd,Lb4,Sum Peak (2x),6088.2
+Sn,Ll,Sum Peak (2x),6088.6
+Eu,Lg3,Escape Peak (Si),6095.0
+Ac,Mb,Sum Peak (2x),6102.0
+Er,Lb1,Escape Peak (Si),6111.0
+Os,Ll,Escape Peak (Si),6122.0
+Pm,Lb6,Emission Line,6128.0
+Pa,Ma,Sum Peak (2x),6142.0
+Pd,Lb3,Sum Peak (2x),6143.4
+Hf,La2,Escape Peak (Si),6145.0
+Er,Ll,Emission Line,6152.0
+Lu,Ln,Escape Peak (Si),6158.0
+Pd,Lb6,Sum Peak (2x),6171.8
+Fr,Mg,Sum Peak (2x),6172.0
+Cu,Ka3,Escape Peak (Si),6182.3
+Sm,Lb4,Emission Line,6196.0
+Hf,La1,Escape Peak (Si),6199.0
+Sm,Lb1,Emission Line,6201.1
+Er,Lb6,Escape Peak (Si),6208.2
+Ho,"Lb2,15",Escape Peak (Si),6211.0
+In,Ln,Sum Peak (2x),6221.6
+Tb,La2,Emission Line,6237.1
+Er,Lb3,Escape Peak (Si),6239.0
+Cd,La2,Sum Peak (2x),6252.2
+Cd,La1,Sum Peak (2x),6265.6
+Fe,Ka3,Emission Line,6267.4
+Tb,La1,Emission Line,6272.9
+Tb,Ln,Emission Line,6284.0
+Rh,Lg1,Sum Peak (2x),6288.0
+Th,Mb,Sum Peak (2x),6297.2
+Ag,Lb1,Sum Peak (2x),6300.0
+Sm,Lb3,Emission Line,6317.2
+Ce,Lg2,Emission Line,6324.8
+Pr,Lg1,Emission Line,6324.9
+Tm,Lb4,Escape Peak (Si),6326.0
+Cu,Ka2,Escape Peak (Si),6326.7
+U,Ma,Sum Peak (2x),6327.6
+Pm,"Lb2,15",Emission Line,6339.0
+Ir,Ll,Escape Peak (Si),6341.0
+Tm,Ll,Emission Line,6341.0
+Ce,Lg3,Emission Line,6341.5
+Pd,"Lb2,15",Sum Peak (2x),6342.0
+Cu,Ka1,Escape Peak (Si),6346.3
+Ru,Lg2,Sum Peak (2x),6355.4
+Ru,Lg3,Sum Peak (2x),6361.6
+Sm,Lb6,Emission Line,6368.8
+Ra,Mg,Sum Peak (2x),6378.0
+Ar,Kb3,Sum Peak (2x),6380.0
+Ar,Kb1,Sum Peak (2x),6380.4
+Sb,Ll,Sum Peak (2x),6384.0
+Ta,La2,Escape Peak (Si),6388.0
+Gd,Lg2,Escape Peak (Si),6390.0
+Fe,Ka2,Emission Line,6392.1
+Tb,Lg1,Escape Peak (Si),6401.5
+Tm,Lb1,Escape Peak (Si),6402.0
+Ag,Lb4,Sum Peak (2x),6404.4
+Gd,Lg3,Escape Peak (Si),6405.0
+Fe,Ka1,Emission Line,6405.2
+Hf,Ln,Escape Peak (Si),6438.0
+Eu,Lb4,Emission Line,6438.0
+Ta,La1,Escape Peak (Si),6446.0
+Dy,La2,Emission Line,6457.0
+Eu,Lb1,Emission Line,6458.4
+K,Ka3,Sum Peak (2x),6459.6
+Ag,Lb3,Sum Peak (2x),6466.0
+Tm,Lb6,Escape Peak (Si),6477.1
+Pa,Mb,Sum Peak (2x),6480.0
+Er,"Lb2,15",Escape Peak (Si),6490.4
+Mn,Kb1,Emission Line,6491.8
+Mn,Kb3,Emission Line,6491.8
+Dy,La1,Emission Line,6498.0
+Np,Ma,Sum Peak (2x),6500.0
+Ag,Lb6,Sum Peak (2x),6508.0
+Tm,Lb3,Escape Peak (Si),6531.0
+Dy,Ln,Emission Line,6534.0
+Mn,Kb5,Emission Line,6537.0
+Ac,Mg,Sum Peak (2x),6540.0
+Sn,Ln,Sum Peak (2x),6542.6
+Yb,Ll,Emission Line,6546.0
+In,La2,Sum Peak (2x),6557.2
+Ni,Kb3,Escape Peak (Si),6565.0
+Ni,Kb1,Escape Peak (Si),6566.799999999999
+Pt,Ll,Escape Peak (Si),6568.0
+Eu,Lb3,Emission Line,6571.0
+In,La1,Sum Peak (2x),6572.2
+Sm,"Lb2,15",Emission Line,6587.0
+Pr,Lg2,Emission Line,6598.7
+Nd,Lg1,Emission Line,6601.5
+Yb,Lb4,Escape Peak (Si),6613.0
+Eu,Lb6,Emission Line,6617.0
+Pr,Lg3,Emission Line,6617.4
+K,Ka2,Sum Peak (2x),6622.2
+K,Ka1,Sum Peak (2x),6627.6
+Ni,Kb5,Escape Peak (Si),6629.0
+Cd,Lb1,Sum Peak (2x),6630.2
+W,La2,Escape Peak (Si),6635.0
+Pd,Lg1,Sum Peak (2x),6656.0
+Te,Ll,Sum Peak (2x),6670.0
+Pu,Ma,Sum Peak (2x),6678.0
+Ho,La2,Emission Line,6679.0
+U,Mb,Sum Peak (2x),6679.6
+Tb,Lg2,Escape Peak (Si),6685.6
+Gd,Lb4,Emission Line,6688.0
+Ag,"Lb2,15",Sum Peak (2x),6694.0
+W,La1,Escape Peak (Si),6698.0
+Yb,Lb1,Escape Peak (Si),6702.0
+Gd,Lb1,Emission Line,6708.1
+Ho,La1,Emission Line,6720.0
+Rh,Lg2,Sum Peak (2x),6723.0
+Tb,Lg3,Escape Peak (Si),6723.9
+Dy,Lg1,Escape Peak (Si),6727.4
+Ta,Ln,Escape Peak (Si),6728.0
+Rh,Lg3,Sum Peak (2x),6729.4
+Cd,Lb4,Sum Peak (2x),6730.8
+Th,Mg,Sum Peak (2x),6741.6
+Lu,Ll,Emission Line,6753.0
+Zn,Ka3,Escape Peak (Si),6762.799999999999
+Yb,Lb6,Escape Peak (Si),6763.5
+Tm,"Lb2,15",Escape Peak (Si),6772.5
+Co,Ka3,Emission Line,6783.9
+Ho,Ln,Emission Line,6790.0
+Au,Ll,Escape Peak (Si),6794.0
+Cd,Lb3,Sum Peak (2x),6799.2
+Gd,Lb3,Emission Line,6832.0
+Yb,Lb3,Escape Peak (Si),6836.0
+Eu,"Lb2,15",Emission Line,6844.0
+Cd,Lb6,Sum Peak (2x),6856.4
+Am,Ma,Sum Peak (2x),6858.0
+Gd,Lb6,Emission Line,6864.4
+Np,Mb,Sum Peak (2x),6870.0
+Sn,La2,Sum Peak (2x),6871.6
+Sb,Ln,Sum Peak (2x),6880.0
+Nd,Lg2,Emission Line,6882.7
+Re,La2,Escape Peak (Si),6886.0
+Sn,La1,Sum Peak (2x),6888.2
+Pm,Lg1,Emission Line,6893.0
+Nd,Lg3,Emission Line,6901.4
+Er,La2,Emission Line,6905.0
+Lu,Lb4,Escape Peak (Si),6906.0
+Zn,Ka2,Escape Peak (Si),6914.1
+Co,Ka2,Emission Line,6915.8
+Co,Ka1,Emission Line,6930.9
+Pa,Mg,Sum Peak (2x),6932.0
+Zn,Ka1,Escape Peak (Si),6937.200000000001
+Tb,Lb4,Emission Line,6940.0
+Er,La1,Emission Line,6949.0
+Re,La1,Escape Peak (Si),6952.0
+Hf,Ll,Emission Line,6960.0
+I,Ll,Sum Peak (2x),6970.0
+In,Lb1,Sum Peak (2x),6973.2
+Tb,Lb1,Emission Line,6975.1
+Lu,Lb1,Escape Peak (Si),7010.0
+Dy,Lg2,Escape Peak (Si),7012.5
+Hg,Ll,Escape Peak (Si),7022.0
+W,Ln,Escape Peak (Si),7024.0
+Lu,Lb6,Escape Peak (Si),7037.200000000001
+Ag,Lg1,Sum Peak (2x),7040.0
+Cm,Ma,Sum Peak (2x),7050.0
+Cd,"Lb2,15",Sum Peak (2x),7052.6
+Dy,Lg3,Escape Peak (Si),7052.799999999999
+Yb,"Lb2,15",Escape Peak (Si),7052.799999999999
+Ho,Lg1,Escape Peak (Si),7058.0
+Er,Ln,Emission Line,7058.0
+Fe,Kb3,Emission Line,7059.3
+Fe,Kb1,Emission Line,7059.3
+Pu,Mb,Sum Peak (2x),7068.0
+In,Lb4,Sum Peak (2x),7069.6
+Pd,Lg2,Sum Peak (2x),7096.6
+Tb,Lb3,Emission Line,7097.0
+Gd,"Lb2,15",Emission Line,7100.4
+Pd,Lg3,Sum Peak (2x),7106.2
+Fe,Kb5,Emission Line,7110.0
+Tb,Lb6,Emission Line,7118.0
+Tm,La2,Emission Line,7133.0
+U,Mg,Sum Peak (2x),7133.6
+Os,La2,Escape Peak (Si),7140.0
+In,Lb3,Sum Peak (2x),7145.4
+Lu,Lb3,Escape Peak (Si),7146.0
+Ta,Ll,Emission Line,7173.0
+Tm,La1,Emission Line,7180.0
+K,Kb3,Sum Peak (2x),7180.2
+K,Kb1,Sum Peak (2x),7180.2
+Sm,Lg1,Emission Line,7183.0
+Pm,Lg2,Emission Line,7186.0
+Pm,Lg3,Emission Line,7186.0
+Sb,La2,Sum Peak (2x),7189.0
+Ca,Ka3,Sum Peak (2x),7200.2
+Cu,Kb3,Escape Peak (Si),7201.700000000001
+Cu,Kb1,Escape Peak (Si),7203.9
+Dy,Lb4,Emission Line,7204.0
+Hf,Lb4,Escape Peak (Si),7206.0
+Sb,La1,Sum Peak (2x),7207.6
+Os,La1,Escape Peak (Si),7211.0
+Te,Ln,Sum Peak (2x),7212.0
+In,Lb6,Sum Peak (2x),7214.2
+Bk,Ma,Sum Peak (2x),7232.0
+Dy,Lb1,Emission Line,7248.0
+Tl,Ll,Escape Peak (Si),7254.0
+Am,Mb,Sum Peak (2x),7270.0
+Cu,Kb5,Escape Peak (Si),7274.0
+Xe,Ll,Sum Peak (2x),7274.6
+Tm,Ln,Emission Line,7310.0
+Hf,Lb1,Escape Peak (Si),7323.0
+Hf,Lb6,Escape Peak (Si),7323.0
+Ni,Ka3,Emission Line,7324.4
+Sn,Lb1,Sum Peak (2x),7325.6
+Re,Ln,Escape Peak (Si),7327.0
+Np,Mg,Sum Peak (2x),7328.0
+Lu,"Lb2,15",Escape Peak (Si),7337.9
+Ho,Lg2,Escape Peak (Si),7350.5
+Tb,"Lb2,15",Emission Line,7363.5
+Ga,Ka3,Escape Peak (Si),7368.0
+Yb,La2,Emission Line,7368.0
+Dy,Lb3,Emission Line,7370.0
+Dy,Lb6,Emission Line,7375.8
+Ca,Ka2,Sum Peak (2x),7377.6
+Ca,Ka1,Sum Peak (2x),7384.6
+Ho,Lg3,Escape Peak (Si),7385.799999999999
+W,Ll,Emission Line,7387.0
+Er,Lg1,Escape Peak (Si),7396.4
+Ir,La2,Escape Peak (Si),7399.0
+Yb,La1,Emission Line,7416.0
+Sn,Lb4,Sum Peak (2x),7417.0
+Cf,Ma,Sum Peak (2x),7418.0
+In,"Lb2,15",Sum Peak (2x),7424.6
+Cd,Lg1,Sum Peak (2x),7430.6
+Ni,Ka2,Emission Line,7463.0
+Hf,Lb3,Escape Peak (Si),7464.0
+Ho,Lb4,Emission Line,7471.0
+Sm,Lg2,Emission Line,7471.4
+Ir,La1,Escape Peak (Si),7475.0
+Cm,Mb,Sum Peak (2x),7480.0
+Ni,Ka1,Emission Line,7480.3
+Pb,Ll,Escape Peak (Si),7484.0
+Eu,Lg1,Emission Line,7484.0
+Ag,Lg2,Sum Peak (2x),7484.6
+Sm,Lg3,Emission Line,7489.6
+Ag,Lg3,Sum Peak (2x),7495.4
+Sn,Lb3,Sum Peak (2x),7500.8
+Ta,Lb4,Escape Peak (Si),7513.0
+Te,La2,Sum Peak (2x),7515.2
+Ga,Ka2,Escape Peak (Si),7523.799999999999
+Ho,Lb1,Emission Line,7526.0
+Pu,Mg,Sum Peak (2x),7530.0
+Te,La1,Sum Peak (2x),7536.0
+Ga,Ka1,Escape Peak (Si),7550.6
+I,Ln,Sum Peak (2x),7560.0
+Yb,Ln,Emission Line,7580.0
+Sn,Lb6,Sum Peak (2x),7583.8
+Cs,Ll,Sum Peak (2x),7602.0
+Re,Ll,Emission Line,7603.0
+Lu,La2,Emission Line,7605.0
+Ta,Lb6,Escape Peak (Si),7617.6
+Os,Ln,Escape Peak (Si),7636.0
+Dy,"Lb2,15",Emission Line,7636.4
+Ho,Lb6,Emission Line,7638.6
+Hf,"Lb2,15",Escape Peak (Si),7641.0
+Ta,Lb1,Escape Peak (Si),7643.0
+Co,Kb1,Emission Line,7649.1
+Co,Kb3,Emission Line,7650.1
+Ho,Lb3,Emission Line,7653.0
+Lu,La1,Emission Line,7655.0
+Pt,La2,Escape Peak (Si),7662.0
+Bk,Mb,Sum Peak (2x),7684.0
+Er,Lg2,Escape Peak (Si),7684.799999999999
+Sb,Lb1,Sum Peak (2x),7685.0
+Co,Kb5,Emission Line,7706.0
+Bi,Ll,Escape Peak (Si),7720.0
+Er,Lg3,Escape Peak (Si),7730.799999999999
+Am,Mg,Sum Peak (2x),7738.0
+Tm,Lg1,Escape Peak (Si),7741.5
+Pt,La1,Escape Peak (Si),7742.0
+Er,Lb4,Emission Line,7745.0
+Eu,Lg2,Emission Line,7768.0
+Sb,Lb4,Sum Peak (2x),7770.6
+Gd,Lg1,Emission Line,7787.4
+Ta,Lb3,Escape Peak (Si),7788.0
+Eu,Lg3,Emission Line,7795.0
+Sn,"Lb2,15",Sum Peak (2x),7808.2
+Er,Lb1,Emission Line,7811.0
+Os,Ll,Emission Line,7822.0
+W,Lb4,Escape Peak (Si),7825.0
+In,Lg1,Sum Peak (2x),7840.6
+Hf,La2,Emission Line,7845.0
+I,La2,Sum Peak (2x),7852.4
+Lu,Ln,Emission Line,7858.0
+Sb,Lb3,Sum Peak (2x),7863.2
+Zn,Kb3,Escape Peak (Si),7867.6
+Zn,Kb1,Escape Peak (Si),7870.4
+I,La1,Sum Peak (2x),7875.4
+Cu,Ka3,Emission Line,7882.3
+Cf,Mb,Sum Peak (2x),7892.0
+Hf,La1,Emission Line,7899.0
+Ba,Ll,Sum Peak (2x),7908.0
+Er,Lb6,Emission Line,7908.2
+Cd,Lg3,Sum Peak (2x),7908.2
+Cd,Lg2,Sum Peak (2x),7908.2
+Ho,"Lb2,15",Emission Line,7911.0
+W,Lb6,Escape Peak (Si),7912.9
+Xe,Ln,Sum Peak (2x),7916.6
+Au,La2,Escape Peak (Si),7928.0
+Er,Lb3,Emission Line,7939.0
+Ta,"Lb2,15",Escape Peak (Si),7943.1
+Zn,Kb5,Escape Peak (Si),7948.799999999999
+Ir,Ln,Escape Peak (Si),7950.0
+Cm,Mg,Sum Peak (2x),7952.0
+Sb,Lb6,Sum Peak (2x),7957.6
+Po,Ll,Escape Peak (Si),7965.0
+W,Lb1,Escape Peak (Si),7972.0
+Sc,Ka3,Sum Peak (2x),7988.0
+Ge,Ka3,Escape Peak (Si),7988.4
+Au,La1,Escape Peak (Si),8013.0
+Tm,Lb4,Emission Line,8026.0
+Ca,Kb1,Sum Peak (2x),8026.2
+Ca,Kb3,Sum Peak (2x),8026.2
+Cu,Ka2,Emission Line,8026.7
+Tm,Lg2,Escape Peak (Si),8030.1
+Ir,Ll,Emission Line,8041.0
+Cu,Ka1,Emission Line,8046.3
+Te,Lb1,Sum Peak (2x),8057.2
+Tm,Lg3,Escape Peak (Si),8083.4
+Yb,Lg1,Escape Peak (Si),8086.799999999999
+Ta,La2,Emission Line,8088.0
+Gd,Lg2,Emission Line,8090.0
+Tb,Lg1,Emission Line,8101.5
+Tm,Lb1,Emission Line,8102.0
+Gd,Lg3,Emission Line,8105.0
+W,Lb3,Escape Peak (Si),8119.0
+Te,Lb4,Sum Peak (2x),8136.4
+Hf,Ln,Emission Line,8138.0
+Re,Lb4,Escape Peak (Si),8145.0
+Ta,La1,Emission Line,8146.0
+Ge,Ka2,Escape Peak (Si),8154.9
+Bk,Mg,Sum Peak (2x),8156.0
+Sc,Ka2,Sum Peak (2x),8176.8
+Tm,Lb6,Emission Line,8177.1
+Ge,Ka1,Escape Peak (Si),8186.0
+Sc,Ka1,Sum Peak (2x),8186.6
+Er,"Lb2,15",Emission Line,8190.4
+Xe,La2,Sum Peak (2x),8194.0
+At,Ll,Escape Peak (Si),8197.0
+Sb,"Lb2,15",Sum Peak (2x),8197.4
+Hg,La2,Escape Peak (Si),8199.0
+Re,Lb6,Escape Peak (Si),8209.6
+Xe,La1,Sum Peak (2x),8219.2
+Tm,Lb3,Emission Line,8231.0
+Te,Lb3,Sum Peak (2x),8236.4
+La,Ll,Sum Peak (2x),8242.0
+W,"Lb2,15",Escape Peak (Si),8251.1
+Sn,Lg1,Sum Peak (2x),8262.2
+Ni,Kb3,Emission Line,8265.0
+Ni,Kb1,Emission Line,8266.8
+Pt,Ll,Emission Line,8268.0
+Pt,Ln,Escape Peak (Si),8277.0
+Hg,La1,Escape Peak (Si),8289.0
+Cs,Ln,Sum Peak (2x),8296.0
+Re,Lb1,Escape Peak (Si),8310.0
+Yb,Lb4,Emission Line,8313.0
+In,Lg3,Sum Peak (2x),8329.0
+Ni,Kb5,Emission Line,8329.0
+In,Lg2,Sum Peak (2x),8329.0
+W,La2,Emission Line,8335.0
+Te,Lb6,Sum Peak (2x),8343.2
+Cf,Mg,Sum Peak (2x),8372.0
+Tb,Lg2,Emission Line,8385.6
+Yb,Lg2,Escape Peak (Si),8397.3
+W,La1,Emission Line,8398.0
+Yb,Lb1,Emission Line,8402.0
+Tb,Lg3,Emission Line,8423.9
+Dy,Lg1,Emission Line,8427.4
+Ta,Ln,Emission Line,8428.0
+Rn,Ll,Escape Peak (Si),8437.0
+I,Lb1,Sum Peak (2x),8442.4
+Lu,Lg1,Escape Peak (Si),8442.9
+Yb,Lg3,Escape Peak (Si),8446.3
+Re,Lb3,Escape Peak (Si),8460.0
+Zn,Ka3,Emission Line,8462.8
+Yb,Lb6,Emission Line,8463.5
+Tm,"Lb2,15",Emission Line,8472.5
+Tl,La2,Escape Peak (Si),8473.0
+Os,Lb4,Escape Peak (Si),8476.0
+Au,Ll,Emission Line,8494.0
+Os,Lb6,Escape Peak (Si),8512.8
+I,Lb4,Sum Peak (2x),8514.0
+Yb,Lb3,Emission Line,8536.0
+Cs,La2,Sum Peak (2x),8543.0
+Re,"Lb2,15",Escape Peak (Si),8561.1
+Ga,Kb3,Escape Peak (Si),8563.5
+Ga,Kb1,Escape Peak (Si),8567.0
+Tl,La1,Escape Peak (Si),8569.0
+Cs,La1,Sum Peak (2x),8570.8
+Ce,Ll,Sum Peak (2x),8574.0
+Re,La2,Emission Line,8586.0
+Te,"Lb2,15",Sum Peak (2x),8598.2
+Lu,Lb4,Emission Line,8606.0
+Au,Ln,Escape Peak (Si),8609.0
+Zn,Ka2,Emission Line,8614.1
+I,Lb3,Sum Peak (2x),8626.0
+Zn,Ka1,Emission Line,8637.2
+As,Ka3,Escape Peak (Si),8640.0
+Ga,Kb5,Escape Peak (Si),8648.3
+Re,La1,Emission Line,8652.0
+Os,Lb1,Escape Peak (Si),8654.0
+Ba,Ln,Sum Peak (2x),8662.0
+Fr,Ll,Escape Peak (Si),8679.0
+Sb,Lg1,Sum Peak (2x),8693.4
+Lu,Lb1,Emission Line,8710.0
+Dy,Lg2,Emission Line,8712.5
+Hg,Ll,Emission Line,8722.0
+W,Ln,Emission Line,8724.0
+Lu,Lb6,Emission Line,8737.2
+I,Lb6,Sum Peak (2x),8742.0
+Pb,La2,Escape Peak (Si),8749.0
+Dy,Lg3,Emission Line,8752.8
+Yb,"Lb2,15",Emission Line,8752.8
+Lu,Lg2,Escape Peak (Si),8757.6
+Ho,Lg1,Emission Line,8758.0
+Sn,Lg2,Sum Peak (2x),8762.8
+Sn,Lg3,Sum Peak (2x),8762.8
+As,Ka2,Escape Peak (Si),8807.9
+Ir,Lb4,Escape Peak (Si),8810.0
+Ti,Ka3,Sum Peak (2x),8810.2
+Lu,Lg3,Escape Peak (Si),8810.8
+Os,Lb3,Escape Peak (Si),8811.0
+Hf,Lg1,Escape Peak (Si),8819.0
+Ir,Lb6,Escape Peak (Si),8823.9
+Xe,Lb1,Sum Peak (2x),8836.0
+Os,La2,Emission Line,8840.0
+As,Ka1,Escape Peak (Si),8843.4
+Lu,Lb3,Emission Line,8846.0
+Pb,La1,Escape Peak (Si),8851.0
+Os,"Lb2,15",Escape Peak (Si),8877.9
+Cu,Kb3,Emission Line,8901.7
+Xe,Lb4,Sum Peak (2x),8901.8
+Ba,La2,Sum Peak (2x),8902.6
+Cu,Kb1,Emission Line,8903.9
+Hf,Lb4,Emission Line,8906.0
+Pr,Ll,Sum Peak (2x),8906.0
+Os,La1,Emission Line,8911.0
+Ra,Ll,Escape Peak (Si),8922.0
+Sc,Kb1,Sum Peak (2x),8927.4
+Sc,Kb3,Sum Peak (2x),8927.4
+Ba,La1,Sum Peak (2x),8933.0
+Hg,Ln,Escape Peak (Si),8947.0
+Tl,Ll,Emission Line,8954.0
+Cu,Kb5,Emission Line,8974.0
+Ir,Lb1,Escape Peak (Si),9008.0
+Ti,Ka2,Sum Peak (2x),9011.6
+I,"Lb2,15",Sum Peak (2x),9012.8
+Hf,Lb6,Emission Line,9023.0
+Hf,Lb1,Emission Line,9023.0
+Ti,Ka1,Sum Peak (2x),9024.4
+Xe,Lb3,Sum Peak (2x),9024.8
+Re,Ln,Emission Line,9027.0
+Bi,La2,Escape Peak (Si),9031.0
+Lu,"Lb2,15",Emission Line,9037.9
+Ho,Lg2,Emission Line,9050.5
+La,Ln,Sum Peak (2x),9058.0
+Ga,Ka3,Emission Line,9068.0
+Ho,Lg3,Emission Line,9085.8
+Er,Lg1,Emission Line,9096.4
+Ir,La2,Emission Line,9099.0
+Hf,Lg2,Escape Peak (Si),9132.8
+Pt,Lb6,Escape Peak (Si),9138.6
+Bi,La1,Escape Peak (Si),9139.0
+Te,Lg1,Sum Peak (2x),9140.2
+Xe,Lb6,Sum Peak (2x),9145.6
+Pt,Lb4,Escape Peak (Si),9153.0
+Hf,Lb3,Emission Line,9164.0
+Ir,Lb3,Escape Peak (Si),9168.0
+Ac,Ll,Escape Peak (Si),9169.0
+Ir,La1,Emission Line,9175.0
+Pb,Ll,Emission Line,9184.0
+Hf,Lg3,Escape Peak (Si),9190.3
+Ta,Lg1,Escape Peak (Si),9198.1
+Ir,"Lb2,15",Escape Peak (Si),9203.1
+Sb,Lg2,Sum Peak (2x),9204.8
+Sb,Lg3,Sum Peak (2x),9204.8
+Ta,Lb4,Emission Line,9213.0
+Ga,Ka2,Emission Line,9223.8
+Cs,Lb1,Sum Peak (2x),9237.0
+Ga,Ka1,Emission Line,9250.6
+La,La2,Sum Peak (2x),9260.0
+Nd,Ll,Sum Peak (2x),9266.0
+Ge,Kb3,Escape Peak (Si),9278.1
+Ge,Kb1,Escape Peak (Si),9282.2
+Cs,Lb4,Sum Peak (2x),9286.0
+La,La1,Sum Peak (2x),9294.0
+Tl,Ln,Escape Peak (Si),9294.0
+Se,Ka3,Escape Peak (Si),9306.0
+Po,La2,Escape Peak (Si),9316.0
+Ta,Lb6,Emission Line,9317.6
+Os,Ln,Emission Line,9336.0
+Hf,"Lb2,15",Emission Line,9341.0
+Ta,Lb1,Emission Line,9343.0
+Pt,La2,Emission Line,9362.0
+Pt,Lb1,Escape Peak (Si),9371.0
+Ge,Kb5,Escape Peak (Si),9373.2
+Er,Lg2,Emission Line,9384.8
+Th,Ll,Escape Peak (Si),9418.0
+Bi,Ll,Emission Line,9420.0
+Cs,Lb3,Sum Peak (2x),9422.0
+Er,Lg3,Emission Line,9430.8
+Po,La1,Escape Peak (Si),9431.0
+Xe,"Lb2,15",Sum Peak (2x),9433.0
+Tm,Lg1,Emission Line,9441.5
+Pt,La1,Emission Line,9442.0
+Ce,Ln,Sum Peak (2x),9456.0
+Au,Lb6,Escape Peak (Si),9456.9
+Se,Ka2,Escape Peak (Si),9483.7
+Ta,Lb3,Emission Line,9488.0
+Au,Lb4,Escape Peak (Si),9505.0
+Ta,Lg2,Escape Peak (Si),9518.6
+Se,Ka1,Escape Peak (Si),9524.1
+W,Lb4,Emission Line,9525.0
+Pt,"Lb2,15",Escape Peak (Si),9532.4
+Pt,Lb3,Escape Peak (Si),9535.0
+Cs,Lb6,Sum Peak (2x),9559.4
+Zn,Kb3,Emission Line,9567.6
+Zn,Kb1,Emission Line,9570.4
+Ta,Lg3,Escape Peak (Si),9581.1
+W,Lg1,Escape Peak (Si),9588.1
+I,Lg1,Sum Peak (2x),9602.8
+At,La2,Escape Peak (Si),9605.0
+W,Lb6,Emission Line,9612.9
+Pm,Ll,Sum Peak (2x),9618.0
+Au,La2,Emission Line,9628.0
+Ce,La2,Sum Peak (2x),9641.2
+Ta,"Lb2,15",Emission Line,9643.1
+Zn,Kb5,Emission Line,9648.8
+Pb,Ln,Escape Peak (Si),9649.0
+Ir,Ln,Emission Line,9650.0
+Ba,Lb1,Sum Peak (2x),9656.6
+Po,Ll,Emission Line,9665.0
+Pa,Ll,Escape Peak (Si),9666.0
+Te,Lg2,Sum Peak (2x),9671.4
+Te,Lg3,Sum Peak (2x),9671.4
+W,Lb1,Emission Line,9672.0
+V,Ka3,Sum Peak (2x),9676.6
+Ce,La1,Sum Peak (2x),9678.4
+Ge,Ka3,Emission Line,9688.4
+Ba,Lb4,Sum Peak (2x),9704.0
+Au,La1,Emission Line,9713.0
+At,La1,Escape Peak (Si),9727.0
+Tm,Lg2,Emission Line,9730.1
+Au,Lb1,Escape Peak (Si),9743.0
+Hg,Lb6,Escape Peak (Si),9781.8
+Tm,Lg3,Emission Line,9783.4
+Yb,Lg1,Emission Line,9786.8
+W,Lb3,Emission Line,9819.0
+Re,Lb4,Emission Line,9845.0
+Ba,Lb3,Sum Peak (2x),9852.0
+Ge,Ka2,Emission Line,9854.9
+Pr,Ln,Sum Peak (2x),9858.0
+Hg,Lb4,Escape Peak (Si),9860.0
+Cs,"Lb2,15",Sum Peak (2x),9864.4
+Au,"Lb2,15",Escape Peak (Si),9865.8
+Ti,Kb1,Sum Peak (2x),9866.8
+Ti,Kb3,Sum Peak (2x),9866.8
+Ge,Ka1,Emission Line,9886.0
+V,Ka2,Sum Peak (2x),9890.4
+At,Ll,Emission Line,9897.0
+Rn,La2,Escape Peak (Si),9897.0
+Hg,La2,Emission Line,9899.0
+V,Ka1,Sum Peak (2x),9905.8
+Re,Lb6,Emission Line,9909.6
+W,Lg2,Escape Peak (Si),9909.6
+Au,Lb3,Escape Peak (Si),9910.0
+U,Ll,Escape Peak (Si),9918.0
+Ti,Kb5,Sum Peak (2x),9928.0
+W,"Lb2,15",Emission Line,9951.1
+W,Lg3,Escape Peak (Si),9976.4
+Pt,Ln,Emission Line,9977.0
+Re,Lg1,Escape Peak (Si),9985.1
+Sm,Ll,Sum Peak (2x),9986.0
+Ba,Lb6,Sum Peak (2x),9987.0
+Hg,La1,Emission Line,9989.0
+Br,Ka3,Escape Peak (Si),9992.0
+Re,Lb1,Emission Line,10010.0
+Bi,Ln,Escape Peak (Si),10012.0
+As,Kb3,Escape Peak (Si),10020.8
+As,Kb1,Escape Peak (Si),10025.8
+Rn,La1,Escape Peak (Si),10027.0
+Pr,La2,Sum Peak (2x),10031.4
+Pr,La1,Sum Peak (2x),10070.4
+Xe,Lg1,Sum Peak (2x),10075.0
+La,Lb1,Sum Peak (2x),10076.0
+Yb,Lg2,Emission Line,10097.3
+Tl,Lb6,Escape Peak (Si),10111.8
+La,Lb4,Sum Peak (2x),10114.0
+Hg,Lb1,Escape Peak (Si),10124.0
+As,Kb5,Escape Peak (Si),10125.3
+I,Lg3,Sum Peak (2x),10130.0
+I,Lg2,Sum Peak (2x),10130.0
+Rn,Ll,Emission Line,10137.0
+Lu,Lg1,Emission Line,10142.9
+Yb,Lg3,Emission Line,10146.3
+Re,Lb3,Emission Line,10160.0
+As,Kb2,Escape Peak (Si),10164.0
+Np,Ll,Escape Peak (Si),10171.0
+Tl,La2,Emission Line,10173.0
+Os,Lb4,Emission Line,10176.0
+Br,Ka2,Escape Peak (Si),10178.0
+Fr,La2,Escape Peak (Si),10195.0
+Hg,"Lb2,15",Escape Peak (Si),10205.8
+Os,Lb6,Emission Line,10212.8
+Au,Lb5,Escape Peak (Si),10214.0
+Br,Ka1,Escape Peak (Si),10224.0
+Tl,Lb4,Escape Peak (Si),10231.0
+Re,"Lb2,15",Emission Line,10261.1
+Ga,Kb3,Emission Line,10263.5
+Ga,Kb1,Emission Line,10267.0
+Tl,La1,Emission Line,10269.0
+La,Lb3,Sum Peak (2x),10276.0
+Hg,Lb3,Escape Peak (Si),10292.0
+Nd,Ln,Sum Peak (2x),10294.0
+Re,Lg2,Escape Peak (Si),10308.3
+Ba,"Lb2,15",Sum Peak (2x),10308.8
+Au,Ln,Emission Line,10309.0
+Fr,La1,Escape Peak (Si),10331.0
+As,Ka3,Emission Line,10340.0
+Ga,Kb5,Emission Line,10348.3
+Os,Lb1,Emission Line,10354.0
+Eu,Ll,Sum Peak (2x),10354.0
+Fr,Ll,Emission Line,10379.0
+Re,Lg3,Escape Peak (Si),10380.2
+Os,Lg1,Escape Peak (Si),10391.9
+Po,Ln,Escape Peak (Si),10395.0
+Nd,La2,Sum Peak (2x),10409.4
+La,Lb6,Sum Peak (2x),10416.6
+Pu,Ll,Escape Peak (Si),10424.0
+Pb,Lb6,Escape Peak (Si),10443.2
+Pb,La2,Emission Line,10449.0
+Nd,La1,Sum Peak (2x),10455.2
+Lu,Lg2,Emission Line,10457.6
+Ra,La2,Escape Peak (Si),10496.0
+As,Ka2,Emission Line,10507.9
+Ir,Lb4,Emission Line,10510.0
+Lu,Lg3,Emission Line,10510.8
+Os,Lb3,Emission Line,10511.0
+Tl,Lb1,Escape Peak (Si),10513.0
+Hf,Lg1,Emission Line,10519.0
+Ce,Lb1,Sum Peak (2x),10523.2
+Ir,Lb6,Emission Line,10523.9
+As,Ka1,Emission Line,10543.4
+Ce,Lb4,Sum Peak (2x),10548.0
+Pb,La1,Emission Line,10551.0
+Tl,"Lb2,15",Escape Peak (Si),10552.3
+Cs,Lg1,Sum Peak (2x),10558.4
+Hg,Lb5,Escape Peak (Si),10574.4
+Os,"Lb2,15",Emission Line,10577.9
+Cr,Ka3,Sum Peak (2x),10586.0
+Pb,Lb4,Escape Peak (Si),10607.0
+Xe,Lg2,Sum Peak (2x),10612.6
+Xe,Lg3,Sum Peak (2x),10615.0
+Ra,Ll,Emission Line,10622.0
+Ra,La1,Escape Peak (Si),10639.0
+Hg,Ln,Emission Line,10647.0
+Am,Ll,Escape Peak (Si),10677.0
+Tl,Lb3,Escape Peak (Si),10690.0
+Kr,Ka3,Escape Peak (Si),10705.0
+Ir,Lb1,Emission Line,10708.0
+Os,Lg2,Escape Peak (Si),10718.9
+Ce,Lb3,Sum Peak (2x),10722.0
+Gd,Ll,Sum Peak (2x),10724.0
+Pm,Ln,Sum Peak (2x),10726.0
+Bi,La2,Emission Line,10731.0
+La,"Lb2,15",Sum Peak (2x),10755.4
+At,Ln,Escape Peak (Si),10768.0
+Bi,Lb6,Escape Peak (Si),10780.0
+Se,Kb3,Escape Peak (Si),10791.5
+Os,Lg3,Escape Peak (Si),10797.3
+Se,Kb1,Escape Peak (Si),10797.3
+Ac,La2,Escape Peak (Si),10801.0
+Cr,Ka2,Sum Peak (2x),10810.4
+Ir,Lg1,Escape Peak (Si),10812.1
+Pm,La2,Sum Peak (2x),10814.0
+Cr,Ka1,Sum Peak (2x),10829.8
+Hf,Lg2,Emission Line,10832.8
+Pt,Lb6,Emission Line,10838.6
+Bi,La1,Emission Line,10839.0
+Pt,Lb4,Emission Line,10853.0
+V,Kb1,Sum Peak (2x),10855.6
+V,Kb3,Sum Peak (2x),10855.6
+Pm,La1,Sum Peak (2x),10864.0
+Ce,Lb6,Sum Peak (2x),10864.0
+Ir,Lb3,Emission Line,10868.0
+Ac,Ll,Emission Line,10869.0
+Hf,Lg3,Emission Line,10890.3
+Kr,Ka2,Escape Peak (Si),10895.1
+Ta,Lg1,Emission Line,10898.1
+Pb,"Lb2,15",Escape Peak (Si),10900.7
+Se,Kb5,Escape Peak (Si),10902.5
+Ir,"Lb2,15",Emission Line,10903.1
+Pb,Lb1,Escape Peak (Si),10914.0
+V,Kb5,Sum Peak (2x),10926.0
+Cm,Ll,Escape Peak (Si),10933.0
+Tl,Lb5,Escape Peak (Si),10943.3
+Kr,Ka1,Escape Peak (Si),10947.6
+Ac,La1,Escape Peak (Si),10952.0
+Se,Kb2,Escape Peak (Si),10955.0
+Ge,Kb3,Emission Line,10978.1
+Ge,Kb1,Emission Line,10982.2
+Pr,Lb1,Sum Peak (2x),10983.4
+Bi,Lb4,Escape Peak (Si),10992.0
+Tl,Ln,Emission Line,10994.0
+Pr,Lb4,Sum Peak (2x),10996.0
+Se,Ka3,Emission Line,11006.0
+Po,La2,Emission Line,11016.0
+Ba,Lg1,Sum Peak (2x),11062.8
+Pt,Lb1,Emission Line,11071.0
+Ge,Kb5,Emission Line,11073.2
+Cs,Lg2,Sum Peak (2x),11083.2
+Tb,Ll,Sum Peak (2x),11092.0
+Pb,Lb3,Escape Peak (Si),11095.0
+Cs,Lg3,Sum Peak (2x),11105.4
+Th,La2,Escape Peak (Si),11109.0
+Th,Ll,Emission Line,11118.0
+Po,Lb6,Escape Peak (Si),11119.0
+Po,La1,Emission Line,11131.0
+Ir,Lg2,Escape Peak (Si),11141.2
+Rn,Ln,Escape Peak (Si),11155.0
+Au,Lb6,Emission Line,11156.9
+Sm,Ln,Sum Peak (2x),11178.0
+Se,Ka2,Emission Line,11183.7
+Pr,Lb3,Sum Peak (2x),11186.0
+Bk,Ll,Escape Peak (Si),11190.0
+Au,Lb4,Emission Line,11205.0
+Sm,La2,Sum Peak (2x),11210.2
+Ta,Lg2,Emission Line,11218.6
+Ir,Lg3,Escape Peak (Si),11223.2
+Se,Ka1,Emission Line,11224.1
+Ce,"Lb2,15",Sum Peak (2x),11228.0
+Pt,"Lb2,15",Emission Line,11232.4
+Pt,Lb3,Emission Line,11235.0
+Pt,Lg1,Escape Peak (Si),11241.4
+Bi,"Lb2,15",Escape Peak (Si),11255.0
+Sm,La1,Sum Peak (2x),11265.2
+Th,La1,Escape Peak (Si),11268.0
+Ta,Lg3,Emission Line,11281.1
+W,Lg1,Emission Line,11288.1
+At,La2,Emission Line,11305.0
+Pb,Lb5,Escape Peak (Si),11314.3
+Pr,Lb6,Sum Peak (2x),11319.0
+Bi,Lb1,Escape Peak (Si),11323.0
+Pb,Ln,Emission Line,11349.0
+Pa,Ll,Emission Line,11366.0
+Po,Lb4,Escape Peak (Si),11385.0
+Pa,La2,Escape Peak (Si),11422.0
+At,La1,Emission Line,11427.0
+Rb,Ka3,Escape Peak (Si),11435.0
+Nd,Lb1,Sum Peak (2x),11437.4
+Au,Lb1,Emission Line,11443.0
+Nd,Lb4,Sum Peak (2x),11446.0
+Cf,Ll,Escape Peak (Si),11446.0
+At,Lb6,Escape Peak (Si),11472.0
+Hg,Lb6,Emission Line,11481.8
+Dy,Ll,Sum Peak (2x),11486.0
+Bi,Lb3,Escape Peak (Si),11511.0
+Mn,Ka3,Sum Peak (2x),11539.8
+Fr,Ln,Escape Peak (Si),11555.0
+Hg,Lb4,Emission Line,11560.0
+Au,"Lb2,15",Emission Line,11565.8
+Pt,Lg2,Escape Peak (Si),11570.9
+La,Lg1,Sum Peak (2x),11571.4
+Br,Kb3,Escape Peak (Si),11585.0
+Pa,La1,Escape Peak (Si),11591.0
+Br,Kb1,Escape Peak (Si),11592.0
+Ba,Lg2,Sum Peak (2x),11594.0
+Rn,La2,Emission Line,11597.0
+W,Lg2,Emission Line,11609.6
+Au,Lb3,Emission Line,11610.0
+Po,"Lb2,15",Escape Peak (Si),11614.0
+U,Ll,Emission Line,11618.0
+Ba,Lg3,Sum Peak (2x),11620.8
+Eu,Ln,Sum Peak (2x),11634.0
+Rb,Ka2,Escape Peak (Si),11636.0
+Eu,La2,Sum Peak (2x),11636.8
+Nd,Lb3,Sum Peak (2x),11658.0
+Pt,Lg3,Escape Peak (Si),11660.6
+W,Lg3,Emission Line,11676.4
+Au,Lg1,Escape Peak (Si),11680.8
+Re,Lg1,Emission Line,11685.1
+Br,Ka3,Emission Line,11692.0
+Bi,Lb5,Escape Peak (Si),11692.1
+Rb,Ka1,Escape Peak (Si),11696.0
+Pr,"Lb2,15",Sum Peak (2x),11697.8
+Eu,La1,Sum Peak (2x),11699.0
+Br,Kb5,Escape Peak (Si),11704.0
+Bi,Ln,Emission Line,11712.0
+As,Kb3,Emission Line,11720.8
+As,Kb1,Emission Line,11725.8
+Rn,La1,Emission Line,11727.0
+U,La2,Escape Peak (Si),11738.0
+Po,Lb1,Escape Peak (Si),11746.0
+Br,Kb2,Escape Peak (Si),11771.0
+Nd,Lb6,Sum Peak (2x),11777.6
+Mn,Ka2,Sum Peak (2x),11778.2
+At,Lb4,Escape Peak (Si),11785.0
+Mn,Ka1,Sum Peak (2x),11800.6
+Tl,Lb6,Emission Line,11811.8
+Rn,Lb6,Escape Peak (Si),11822.0
+Hg,Lb1,Emission Line,11824.0
+As,Kb5,Emission Line,11825.3
+As,Kb2,Emission Line,11864.0
+Np,Ll,Emission Line,11871.0
+Br,Ka2,Emission Line,11878.0
+Ho,Ll,Sum Peak (2x),11886.0
+Cr,Kb1,Sum Peak (2x),11893.6
+Cr,Kb3,Sum Peak (2x),11893.6
+Fr,La2,Emission Line,11895.0
+Hg,"Lb2,15",Emission Line,11905.8
+Pm,Lb4,Sum Peak (2x),11913.2
+Au,Lb5,Emission Line,11914.0
+U,La1,Escape Peak (Si),11914.0
+Pm,Lb1,Sum Peak (2x),11922.0
+Br,Ka1,Emission Line,11924.0
+Tl,Lb4,Emission Line,11931.0
+Po,Lb3,Escape Peak (Si),11937.0
+Ra,Ln,Escape Peak (Si),11962.0
+Cr,Kb5,Sum Peak (2x),11974.0
+At,"Lb2,15",Escape Peak (Si),11981.0
+Hg,Lb3,Emission Line,11992.0
+Re,Lg2,Emission Line,12008.3
+Au,Lg2,Escape Peak (Si),12010.3
+Au,Lg6,Escape Peak (Si),12029.0
+Fr,La1,Emission Line,12031.0
+Gd,La2,Sum Peak (2x),12042.2
+Np,La2,Escape Peak (Si),12061.0
+Re,Lg3,Emission Line,12080.2
+Po,Lb5,Escape Peak (Si),12083.0
+Os,Lg1,Emission Line,12091.9
+Po,Ln,Emission Line,12095.0
+Gd,Ln,Sum Peak (2x),12098.0
+Au,Lg3,Escape Peak (Si),12106.7
+Gd,La1,Sum Peak (2x),12106.8
+Ce,Lg1,Sum Peak (2x),12110.0
+La,Lg2,Sum Peak (2x),12120.4
+Pu,Ll,Emission Line,12124.0
+Hg,Lg1,Escape Peak (Si),12130.8
+La,Lg3,Sum Peak (2x),12140.0
+Pm,Lb3,Sum Peak (2x),12142.0
+Pb,Lb6,Emission Line,12143.2
+Nd,"Lb2,15",Sum Peak (2x),12175.0
+At,Lb1,Escape Peak (Si),12176.0
+Fr,Lb6,Escape Peak (Si),12178.0
+Sr,Ka3,Escape Peak (Si),12189.0
+Rn,Lb4,Escape Peak (Si),12190.0
+Ra,La2,Emission Line,12196.0
+Tl,Lb1,Emission Line,12213.0
+Np,La1,Escape Peak (Si),12246.0
+Tl,"Lb2,15",Emission Line,12252.3
+Pm,Lb6,Sum Peak (2x),12256.0
+Hg,Lb5,Emission Line,12274.4
+Er,Ll,Sum Peak (2x),12304.0
+Pb,Lb4,Emission Line,12307.0
+Ra,La1,Emission Line,12339.0
+Rn,"Lb2,15",Escape Peak (Si),12352.0
+At,Lb3,Escape Peak (Si),12367.0
+Am,Ll,Emission Line,12377.0
+Ac,Ln,Escape Peak (Si),12381.0
+Pu,La2,Escape Peak (Si),12387.0
+Tl,Lb3,Emission Line,12390.0
+Sm,Lb4,Sum Peak (2x),12392.0
+Sr,Ka2,Escape Peak (Si),12398.0
+Sm,Lb1,Sum Peak (2x),12402.2
+Kr,Kb3,Escape Peak (Si),12403.8
+Kr,Ka3,Emission Line,12405.0
+Kr,Kb1,Escape Peak (Si),12411.6
+Os,Lg2,Emission Line,12418.9
+Hg,Lg2,Escape Peak (Si),12458.8
+Sr,Ka1,Escape Peak (Si),12465.0
+At,Ln,Emission Line,12468.0
+At,Lb5,Escape Peak (Si),12474.0
+Tb,La2,Sum Peak (2x),12474.2
+Bi,Lb6,Emission Line,12480.0
+Se,Kb3,Emission Line,12491.5
+Os,Lg3,Emission Line,12497.3
+Se,Kb1,Emission Line,12497.3
+Hg,Lg6,Escape Peak (Si),12499.4
+Ac,La2,Emission Line,12501.0
+Ir,Lg1,Emission Line,12512.1
+Kr,Kb5,Escape Peak (Si),12531.0
+Fe,Ka3,Sum Peak (2x),12534.8
+Ra,Lb6,Escape Peak (Si),12536.0
+Tb,La1,Sum Peak (2x),12545.8
+Hg,Lg3,Escape Peak (Si),12562.4
+Tb,Ln,Sum Peak (2x),12568.0
+Pu,La1,Escape Peak (Si),12582.0
+Tl,Lg1,Escape Peak (Si),12592.3
+Kr,Ka2,Emission Line,12595.1
+Pb,"Lb2,15",Emission Line,12600.7
+Se,Kb5,Emission Line,12602.5
+Kr,Kb2,Escape Peak (Si),12611.9
+Fr,Lb4,Escape Peak (Si),12612.0
+Pb,Lb1,Emission Line,12614.0
+Rn,Lb1,Escape Peak (Si),12615.0
+Cm,Ll,Emission Line,12633.0
+Sm,Lb3,Sum Peak (2x),12634.4
+Tl,Lb5,Emission Line,12643.3
+Kr,Ka1,Emission Line,12647.6
+Ce,Lg2,Sum Peak (2x),12649.6
+Pr,Lg1,Sum Peak (2x),12649.8
+Ac,La1,Emission Line,12652.0
+Se,Kb2,Emission Line,12655.0
+Pm,"Lb2,15",Sum Peak (2x),12678.0
+Tm,Ll,Sum Peak (2x),12682.0
+Ce,Lg3,Sum Peak (2x),12683.0
+Bi,Lb4,Emission Line,12692.0
+Am,La2,Escape Peak (Si),12714.0
+Fr,"Lb2,15",Escape Peak (Si),12728.0
+Sm,Lb6,Sum Peak (2x),12737.6
+Fe,Ka2,Sum Peak (2x),12784.2
+Pb,Lb3,Emission Line,12795.0
+Th,La2,Emission Line,12809.0
+Fe,Ka1,Sum Peak (2x),12810.4
+Th,Ln,Escape Peak (Si),12811.0
+Rn,Lb3,Escape Peak (Si),12811.0
+Po,Lb6,Emission Line,12819.0
+Ir,Lg2,Emission Line,12841.2
+Rn,Ln,Emission Line,12855.0
+Rn,Lb5,Escape Peak (Si),12871.0
+Eu,Lb4,Sum Peak (2x),12876.0
+Bk,Ll,Emission Line,12890.0
+Ac,Lb6,Escape Peak (Si),12902.0
+Dy,La2,Sum Peak (2x),12914.0
+Eu,Lb1,Sum Peak (2x),12916.8
+Am,La1,Escape Peak (Si),12920.0
+Ir,Lg3,Emission Line,12923.2
+Tl,Lg2,Escape Peak (Si),12926.5
+Pt,Lg1,Emission Line,12941.4
+Bi,"Lb2,15",Emission Line,12955.0
+Y,Ka3,Escape Peak (Si),12965.0
+Th,La1,Emission Line,12968.0
+Tl,Lg6,Escape Peak (Si),12983.3
+Mn,Kb3,Sum Peak (2x),12983.6
+Mn,Kb1,Sum Peak (2x),12983.6
+Dy,La1,Sum Peak (2x),12996.0
+Pb,Lb5,Emission Line,13014.3
+Bi,Lb1,Emission Line,13023.0
+Tl,Lg3,Escape Peak (Si),13037.5
+Cm,La2,Escape Peak (Si),13046.0
+Ra,Lb4,Escape Peak (Si),13047.0
+Pb,Lg1,Escape Peak (Si),13065.7
+Dy,Ln,Sum Peak (2x),13068.0
+Fr,Lb1,Escape Peak (Si),13071.0
+Mn,Kb5,Sum Peak (2x),13074.0
+Po,Lb4,Emission Line,13085.0
+Yb,Ll,Sum Peak (2x),13092.0
+Ra,"Lb2,15",Escape Peak (Si),13108.0
+Pa,La2,Emission Line,13122.0
+Rb,Ka3,Emission Line,13135.0
+Eu,Lb3,Sum Peak (2x),13142.0
+Cf,Ll,Emission Line,13146.0
+At,Lb6,Emission Line,13172.0
+Sm,"Lb2,15",Sum Peak (2x),13174.0
+Y,Ka2,Escape Peak (Si),13182.0
+Pr,Lg2,Sum Peak (2x),13197.4
+Nd,Lg1,Sum Peak (2x),13203.0
+Bi,Lb3,Emission Line,13211.0
+Eu,Lb6,Sum Peak (2x),13234.0
+Pr,Lg3,Sum Peak (2x),13234.8
+Pa,Ln,Escape Peak (Si),13247.0
+Rb,Kb3,Escape Peak (Si),13251.3
+Fr,Ln,Emission Line,13255.0
+Y,Ka1,Escape Peak (Si),13258.0
+Rb,Kb1,Escape Peak (Si),13260.9
+Cm,La1,Escape Peak (Si),13261.0
+Th,Lb6,Escape Peak (Si),13270.0
+Pt,Lg2,Emission Line,13270.9
+Fr,Lb5,Escape Peak (Si),13273.0
+Fr,Lb3,Escape Peak (Si),13276.0
+Br,Kb3,Emission Line,13285.0
+Pa,La1,Emission Line,13291.0
+Br,Kb1,Emission Line,13292.0
+Po,"Lb2,15",Emission Line,13314.0
+Rb,Ka2,Emission Line,13336.0
+Ho,La2,Sum Peak (2x),13358.0
+Pt,Lg3,Emission Line,13360.6
+Gd,Lb4,Sum Peak (2x),13376.0
+Au,Lg1,Emission Line,13380.8
+Bk,La2,Escape Peak (Si),13382.0
+Rb,Kb5,Escape Peak (Si),13387.0
+Bi,Lb5,Emission Line,13392.1
+Rb,Ka1,Emission Line,13396.0
+Pb,Lg2,Escape Peak (Si),13399.1
+Br,Kb5,Emission Line,13404.0
+Gd,Lb1,Sum Peak (2x),13416.2
+U,La2,Emission Line,13438.0
+Ho,La1,Sum Peak (2x),13440.0
+Po,Lb1,Emission Line,13446.0
+Br,Kb2,Emission Line,13471.0
+Pb,Lg6,Escape Peak (Si),13479.3
+Rb,Kb2,Escape Peak (Si),13483.7
+Ac,Lb4,Escape Peak (Si),13484.0
+At,Lb4,Emission Line,13485.0
+Ac,"Lb2,15",Escape Peak (Si),13496.0
+Lu,Ll,Sum Peak (2x),13506.0
+Pb,Lg3,Escape Peak (Si),13517.5
+Rn,Lb6,Emission Line,13522.0
+Ra,Lb1,Escape Peak (Si),13536.0
+Bi,Lg1,Escape Peak (Si),13547.0
+Co,Ka3,Sum Peak (2x),13567.8
+Ho,Ln,Sum Peak (2x),13580.0
+Bk,La1,Escape Peak (Si),13608.0
+U,La1,Emission Line,13614.0
+Po,Lb3,Emission Line,13637.0
+Pa,Lb6,Escape Peak (Si),13646.0
+Ra,Ln,Emission Line,13662.0
+Gd,Lb3,Sum Peak (2x),13664.0
+Ra,Lb5,Escape Peak (Si),13676.0
+At,"Lb2,15",Emission Line,13681.0
+Eu,"Lb2,15",Sum Peak (2x),13688.0
+U,Ln,Escape Peak (Si),13700.0
+Au,Lg2,Emission Line,13710.3
+Cf,La2,Escape Peak (Si),13723.0
+Gd,Lb6,Sum Peak (2x),13728.8
+Au,Lg6,Emission Line,13729.0
+Ra,Lb3,Escape Peak (Si),13745.0
+Np,La2,Emission Line,13761.0
+Nd,Lg2,Sum Peak (2x),13765.4
+Zr,Ka3,Escape Peak (Si),13766.0
+Po,Lb5,Emission Line,13783.0
+Pm,Lg1,Sum Peak (2x),13786.0
+Nd,Lg3,Sum Peak (2x),13802.8
+Au,Lg3,Emission Line,13806.7
+Er,La2,Sum Peak (2x),13810.0
+Hg,Lg1,Emission Line,13830.8
+Co,Ka2,Sum Peak (2x),13831.6
+Co,Ka1,Sum Peak (2x),13861.8
+At,Lb1,Emission Line,13876.0
+Fr,Lb6,Emission Line,13878.0
+Tb,Lb4,Sum Peak (2x),13880.0
+Bi,Lg2,Escape Peak (Si),13882.8
+Th,"Lb2,15",Escape Peak (Si),13887.9
+Sr,Ka3,Emission Line,13889.0
+Rn,Lb4,Emission Line,13890.0
+Er,La1,Sum Peak (2x),13898.0
+Hf,Ll,Sum Peak (2x),13920.0
+Th,Lb4,Escape Peak (Si),13942.0
+Np,La1,Emission Line,13946.0
+Tb,Lb1,Sum Peak (2x),13950.2
+Cf,La1,Escape Peak (Si),13960.0
+Bi,Lg6,Escape Peak (Si),13984.1
+Zr,Ka2,Escape Peak (Si),13991.0
+Bi,Lg3,Escape Peak (Si),14009.2
+Ac,Lb1,Escape Peak (Si),14013.0
+U,Lb6,Escape Peak (Si),14027.0
+Po,Lg1,Escape Peak (Si),14044.0
+Rn,"Lb2,15",Emission Line,14052.0
+At,Lb3,Emission Line,14067.0
+Zr,Ka1,Escape Peak (Si),14075.0
+Ac,Ln,Emission Line,14081.0
+Pu,La2,Emission Line,14087.0
+Ac,Lb5,Escape Peak (Si),14091.0
+Sr,Ka2,Emission Line,14098.0
+Kr,Kb3,Emission Line,14103.8
+Kr,Kb1,Emission Line,14111.6
+Er,Ln,Sum Peak (2x),14116.0
+Fe,Kb3,Sum Peak (2x),14118.6
+Fe,Kb1,Sum Peak (2x),14118.6
+Sr,Kb3,Escape Peak (Si),14124.7
+Sr,Kb1,Escape Peak (Si),14135.0
+Hg,Lg2,Emission Line,14158.8
+Np,Ln,Escape Peak (Si),14161.0
+Sr,Ka1,Emission Line,14165.0
+At,Lb5,Emission Line,14174.0
+Tb,Lb3,Sum Peak (2x),14194.0
+Hg,Lg6,Emission Line,14199.4
+Gd,"Lb2,15",Sum Peak (2x),14200.8
+Fe,Kb5,Sum Peak (2x),14220.0
+Kr,Kb5,Emission Line,14231.0
+Ac,Lb3,Escape Peak (Si),14231.0
+Ra,Lb6,Emission Line,14236.0
+Tb,Lb6,Sum Peak (2x),14236.0
+Hg,Lg3,Emission Line,14262.4
+Tm,La2,Sum Peak (2x),14266.0
+Sr,Kb5,Escape Peak (Si),14269.0
+Pu,La1,Emission Line,14282.0
+Pa,"Lb2,15",Escape Peak (Si),14290.0
+Tl,Lg1,Emission Line,14292.3
+Kr,Kb2,Emission Line,14311.9
+Fr,Lb4,Emission Line,14312.0
+Rn,Lb1,Emission Line,14315.0
+Ta,Ll,Sum Peak (2x),14346.0
+Tm,La1,Sum Peak (2x),14360.0
+Sm,Lg1,Sum Peak (2x),14366.0
+Pm,Lg3,Sum Peak (2x),14372.0
+Pm,Lg2,Sum Peak (2x),14372.0
+Sr,Kb2,Escape Peak (Si),14383.4
+Po,Lg2,Escape Peak (Si),14388.0
+Pa,Lb4,Escape Peak (Si),14404.0
+Dy,Lb4,Sum Peak (2x),14408.0
+Np,Lb6,Escape Peak (Si),14409.0
+Am,La2,Emission Line,14414.0
+Fr,"Lb2,15",Emission Line,14428.0
+Dy,Lb1,Sum Peak (2x),14496.0
+Th,Lb1,Escape Peak (Si),14502.0
+Th,Lb5,Escape Peak (Si),14507.5
+Rn,Lb3,Emission Line,14511.0
+Th,Ln,Emission Line,14511.0
+Po,Lg6,Escape Peak (Si),14513.0
+Po,Lg3,Escape Peak (Si),14534.0
+At,Lg1,Escape Peak (Si),14552.0
+Rn,Lb5,Emission Line,14571.0
+Nb,Ka3,Escape Peak (Si),14588.0
+Ac,Lb6,Emission Line,14602.0
+Tm,Ln,Sum Peak (2x),14620.0
+Am,La1,Emission Line,14620.0
+Tl,Lg2,Emission Line,14626.5
+Pu,Ln,Escape Peak (Si),14633.0
+Ni,Ka3,Sum Peak (2x),14648.8
+Y,Ka3,Emission Line,14665.0
+Tl,Lg6,Emission Line,14683.3
+U,"Lb2,15",Escape Peak (Si),14687.7
+Th,Lb3,Escape Peak (Si),14726.0
+Tb,"Lb2,15",Sum Peak (2x),14727.0
+Yb,La2,Sum Peak (2x),14736.0
+Tl,Lg3,Emission Line,14737.5
+Dy,Lb3,Sum Peak (2x),14740.0
+Cm,La2,Emission Line,14746.0
+Ra,Lb4,Emission Line,14747.0
+Dy,Lb6,Sum Peak (2x),14751.6
+Pb,Lg1,Emission Line,14765.7
+Fr,Lb1,Emission Line,14771.0
+W,Ll,Sum Peak (2x),14774.0
+Pu,Lb6,Escape Peak (Si),14798.0
+Ra,"Lb2,15",Emission Line,14808.0
+Nb,Ka2,Escape Peak (Si),14821.0
+Yb,La1,Sum Peak (2x),14832.0
+U,Lb4,Escape Peak (Si),14875.0
+Y,Ka2,Emission Line,14882.0
+At,Lg2,Escape Peak (Si),14907.0
+Nb,Ka1,Escape Peak (Si),14915.0
+Ni,Ka2,Sum Peak (2x),14926.0
+Pa,Lb5,Escape Peak (Si),14939.0
+Ho,Lb4,Sum Peak (2x),14942.0
+Sm,Lg2,Sum Peak (2x),14942.8
+Pa,Ln,Emission Line,14947.0
+Rb,Kb3,Emission Line,14951.3
+Y,Ka1,Emission Line,14958.0
+Ni,Ka1,Sum Peak (2x),14960.6
+Rb,Kb1,Emission Line,14960.9
+Cm,La1,Emission Line,14961.0
+Eu,Lg1,Sum Peak (2x),14968.0
+Th,Lb6,Emission Line,14970.0
+Fr,Lb5,Emission Line,14973.0
+Fr,Lb3,Emission Line,14976.0
+Sm,Lg3,Sum Peak (2x),14979.2
+Pa,Lb1,Escape Peak (Si),15003.0
+Y,Kb3,Escape Peak (Si),15027.400000000001
+Y,Kb1,Escape Peak (Si),15039.2
+At,Lg6,Escape Peak (Si),15045.0
+Ho,Lb1,Sum Peak (2x),15052.0
+At,Lg3,Escape Peak (Si),15053.0
+Rn,Lg1,Escape Peak (Si),15070.0
+Bk,La2,Emission Line,15082.0
+Rb,Kb5,Emission Line,15087.0
+Np,"Lb2,15",Escape Peak (Si),15094.0
+Pb,Lg2,Emission Line,15099.1
+Am,Ln,Escape Peak (Si),15119.0
+Yb,Ln,Sum Peak (2x),15160.0
+Pb,Lg6,Emission Line,15179.3
+Y,Kb5,Escape Peak (Si),15180.3
+Rb,Kb2,Emission Line,15183.7
+Ac,Lb4,Emission Line,15184.0
+Am,Lb6,Escape Peak (Si),15190.0
+Ac,"Lb2,15",Emission Line,15196.0
+Re,Ll,Sum Peak (2x),15206.0
+Lu,La2,Sum Peak (2x),15210.0
+Pb,Lg3,Emission Line,15217.5
+Pa,Lb3,Escape Peak (Si),15231.0
+Ra,Lb1,Emission Line,15236.0
+Bi,Lg1,Emission Line,15247.0
+Dy,"Lb2,15",Sum Peak (2x),15272.8
+Ho,Lb6,Sum Peak (2x),15277.2
+Co,Kb1,Sum Peak (2x),15298.2
+Co,Kb3,Sum Peak (2x),15300.2
+Ho,Lb3,Sum Peak (2x),15306.0
+Bk,La1,Emission Line,15308.0
+Lu,La1,Sum Peak (2x),15310.0
+Y,Kb2,Escape Peak (Si),15313.599999999999
+Pa,Lb6,Emission Line,15346.0
+Np,Lb4,Escape Peak (Si),15361.0
+U,Lb5,Escape Peak (Si),15363.2
+Ra,Lb5,Emission Line,15376.0
+U,Ln,Emission Line,15400.0
+Co,Kb5,Sum Peak (2x),15412.0
+Rn,Lg2,Escape Peak (Si),15420.0
+Cf,La2,Emission Line,15423.0
+Mo,Ka3,Escape Peak (Si),15434.0
+Ra,Lb3,Emission Line,15445.0
+Zr,Ka3,Emission Line,15466.0
+Er,Lb4,Sum Peak (2x),15490.0
+Pu,"Lb2,15",Escape Peak (Si),15511.0
+U,Lb1,Escape Peak (Si),15520.0
+Eu,Lg2,Sum Peak (2x),15536.0
+Gd,Lg1,Sum Peak (2x),15574.8
+Rn,Lg3,Escape Peak (Si),15581.0
+Bi,Lg2,Emission Line,15582.8
+Cm,Lb6,Escape Peak (Si),15586.0
+Th,"Lb2,15",Emission Line,15587.9
+Rn,Lg6,Escape Peak (Si),15589.0
+Eu,Lg3,Sum Peak (2x),15590.0
+Fr,Lg1,Escape Peak (Si),15604.0
+Cm,Ln,Escape Peak (Si),15614.0
+Er,Lb1,Sum Peak (2x),15622.0
+Th,Lb4,Emission Line,15642.0
+Os,Ll,Sum Peak (2x),15644.0
+Cf,La1,Emission Line,15660.0
+Mo,Ka2,Escape Peak (Si),15675.0
+Bi,Lg6,Emission Line,15684.1
+Hf,La2,Sum Peak (2x),15690.0
+Zr,Ka2,Emission Line,15691.0
+Bi,Lg3,Emission Line,15709.2
+Ac,Lb1,Emission Line,15713.0
+Lu,Ln,Sum Peak (2x),15716.0
+U,Lb6,Emission Line,15727.0
+Po,Lg1,Emission Line,15744.0
+U,Lb3,Escape Peak (Si),15754.0
+Cu,Ka3,Sum Peak (2x),15764.6
+Zr,Ka1,Emission Line,15775.0
+Mo,Ka1,Escape Peak (Si),15780.0
+Ac,Lb5,Emission Line,15791.0
+Hf,La1,Sum Peak (2x),15798.0
+Np,Lb5,Escape Peak (Si),15801.0
+Er,Lb6,Sum Peak (2x),15816.4
+Ho,"Lb2,15",Sum Peak (2x),15822.0
+Sr,Kb3,Emission Line,15824.7
+Sr,Kb1,Emission Line,15835.0
+Pu,Lb4,Escape Peak (Si),15857.0
+Np,Ln,Emission Line,15861.0
+Er,Lb3,Sum Peak (2x),15878.0
+Am,"Lb2,15",Escape Peak (Si),15930.0
+Ac,Lb3,Emission Line,15931.0
+Zr,Kb3,Escape Peak (Si),15954.5
+Fr,Lg2,Escape Peak (Si),15959.0
+Zr,Kb1,Escape Peak (Si),15968.2
+Sr,Kb5,Emission Line,15969.0
+Bk,Lb6,Escape Peak (Si),15987.0
+Pa,"Lb2,15",Emission Line,15990.0
+Np,Lb1,Escape Peak (Si),16051.0
+Tm,Lb4,Sum Peak (2x),16052.0
+Cu,Ka2,Sum Peak (2x),16053.4
+Ir,Ll,Sum Peak (2x),16082.0
+Sr,Kb2,Emission Line,16083.4
+Po,Lg2,Emission Line,16088.0
+Cu,Ka1,Sum Peak (2x),16092.6
+Pa,Lb4,Emission Line,16104.0
+Np,Lb6,Emission Line,16109.0
+Zr,Kb5,Escape Peak (Si),16116.900000000001
+Bk,Ln,Escape Peak (Si),16126.0
+Fr,Lg3,Escape Peak (Si),16129.0
+Ra,Lg1,Escape Peak (Si),16148.0
+Fr,Lg6,Escape Peak (Si),16149.0
+Ta,La2,Sum Peak (2x),16176.0
+Gd,Lg2,Sum Peak (2x),16180.0
+Th,Lb1,Emission Line,16202.0
+Tb,Lg1,Sum Peak (2x),16203.0
+Tm,Lb1,Sum Peak (2x),16204.0
+Th,Lb5,Emission Line,16207.5
+Gd,Lg3,Sum Peak (2x),16210.0
+Po,Lg6,Emission Line,16213.0
+Po,Lg3,Emission Line,16234.0
+Pu,Lb5,Escape Peak (Si),16244.0
+At,Lg1,Emission Line,16252.0
+Zr,Kb2,Escape Peak (Si),16269.5
+Hf,Ln,Sum Peak (2x),16276.0
+Nb,Ka3,Emission Line,16288.0
+Ta,La1,Sum Peak (2x),16292.0
+Np,Lb3,Escape Peak (Si),16292.0
+Tc,Ka3,Escape Peak (Si),16301.0
+Pu,Ln,Emission Line,16333.0
+Cm,"Lb2,15",Escape Peak (Si),16354.0
+Tm,Lb6,Sum Peak (2x),16354.2
+Am,Lb4,Escape Peak (Si),16369.0
+Er,"Lb2,15",Sum Peak (2x),16380.8
+U,"Lb2,15",Emission Line,16387.7
+Cf,Lb6,Escape Peak (Si),16394.0
+Th,Lb3,Emission Line,16426.0
+Tm,Lb3,Sum Peak (2x),16462.0
+Ra,Lg2,Escape Peak (Si),16479.0
+Pu,Lb6,Emission Line,16498.0
+Nb,Ka2,Emission Line,16521.0
+Ni,Kb3,Sum Peak (2x),16530.0
+Ni,Kb1,Sum Peak (2x),16533.6
+Pt,Ll,Sum Peak (2x),16536.0
+Tc,Ka2,Escape Peak (Si),16551.0
+U,Lb4,Emission Line,16575.0
+Pu,Lb1,Escape Peak (Si),16596.0
+At,Lg2,Emission Line,16607.0
+Nb,Ka1,Emission Line,16615.0
+Yb,Lb4,Sum Peak (2x),16626.0
+Pa,Lb5,Emission Line,16639.0
+Cf,Ln,Escape Peak (Si),16647.0
+Ni,Kb5,Sum Peak (2x),16658.0
+Ra,Lg3,Escape Peak (Si),16658.0
+Tc,Ka1,Escape Peak (Si),16667.0
+W,La2,Sum Peak (2x),16670.0
+Am,Lb5,Escape Peak (Si),16694.0
+Pa,Lb1,Emission Line,16703.0
+Ac,Lg1,Escape Peak (Si),16708.0
+Ra,Lg6,Escape Peak (Si),16716.0
+Y,Kb3,Emission Line,16727.4
+Y,Kb1,Emission Line,16739.2
+At,Lg6,Emission Line,16745.0
+At,Lg3,Emission Line,16753.0
+Rn,Lg1,Emission Line,16770.0
+Tb,Lg2,Sum Peak (2x),16771.2
+Bk,"Lb2,15",Escape Peak (Si),16780.0
+Np,"Lb2,15",Emission Line,16794.0
+W,La1,Sum Peak (2x),16796.0
+Yb,Lb1,Sum Peak (2x),16804.0
+Am,Ln,Emission Line,16819.0
+Pu,Lb3,Escape Peak (Si),16841.0
+Tb,Lg3,Sum Peak (2x),16847.8
+Dy,Lg1,Sum Peak (2x),16854.8
+Ta,Ln,Sum Peak (2x),16856.0
+Y,Kb5,Emission Line,16880.3
+Cm,Lb4,Escape Peak (Si),16889.0
+Am,Lb6,Emission Line,16890.0
+Nb,Kb3,Escape Peak (Si),16909.9
+Nb,Kb1,Escape Peak (Si),16925.4
+Zn,Ka3,Sum Peak (2x),16925.6
+Yb,Lb6,Sum Peak (2x),16927.0
+Pa,Lb3,Emission Line,16931.0
+Tm,"Lb2,15",Sum Peak (2x),16945.0
+Au,Ll,Sum Peak (2x),16988.0
+Y,Kb2,Emission Line,17013.6
+Ac,Lg2,Escape Peak (Si),17060.0
+Np,Lb4,Emission Line,17061.0
+U,Lb5,Emission Line,17063.2
+Yb,Lb3,Sum Peak (2x),17072.0
+Nb,Kb5,Escape Peak (Si),17081.0
+Rn,Lg2,Emission Line,17120.0
+Mo,Ka3,Emission Line,17134.0
+Cm,Lb5,Escape Peak (Si),17146.0
+Am,Lb1,Escape Peak (Si),17156.0
+Re,La2,Sum Peak (2x),17172.0
+Ru,Ka3,Escape Peak (Si),17193.0
+Pu,"Lb2,15",Emission Line,17211.0
+Lu,Lb4,Sum Peak (2x),17212.0
+Cf,"Lb2,15",Escape Peak (Si),17216.0
+U,Lb1,Emission Line,17220.0
+Zn,Ka2,Sum Peak (2x),17228.2
+Ac,Lg3,Escape Peak (Si),17250.0
+Nb,Kb2,Escape Peak (Si),17253.4
+Zn,Ka1,Sum Peak (2x),17274.4
+Th,Lg1,Escape Peak (Si),17280.9
+Rn,Lg3,Emission Line,17281.0
+Cm,Lb6,Emission Line,17286.0
+Rn,Lg6,Emission Line,17289.0
+Ac,Lg6,Escape Peak (Si),17303.0
+Re,La1,Sum Peak (2x),17304.0
+Fr,Lg1,Emission Line,17304.0
+Cm,Ln,Emission Line,17314.0
+Mo,Ka2,Emission Line,17375.0
+Am,Lb3,Escape Peak (Si),17410.0
+Bk,Lb4,Escape Peak (Si),17418.0
+Lu,Lb1,Sum Peak (2x),17420.0
+Dy,Lg2,Sum Peak (2x),17425.0
+Hg,Ll,Sum Peak (2x),17444.0
+W,Ln,Sum Peak (2x),17448.0
+Ru,Ka2,Escape Peak (Si),17450.0
+U,Lb3,Emission Line,17454.0
+Lu,Lb6,Sum Peak (2x),17474.4
+Mo,Ka1,Emission Line,17480.0
+Np,Lb5,Emission Line,17501.0
+Yb,"Lb2,15",Sum Peak (2x),17505.6
+Dy,Lg3,Sum Peak (2x),17505.6
+Ho,Lg1,Sum Peak (2x),17516.0
+Pu,Lb4,Emission Line,17557.0
+Ru,Ka1,Escape Peak (Si),17579.0
+Th,Lg2,Escape Peak (Si),17604.0
+Bk,Lb5,Escape Peak (Si),17605.0
+Am,"Lb2,15",Emission Line,17630.0
+Zr,Kb3,Emission Line,17654.5
+Fr,Lg2,Emission Line,17659.0
+Zr,Kb1,Emission Line,17668.2
+Os,La2,Sum Peak (2x),17680.0
+Bk,Lb6,Emission Line,17687.0
+Lu,Lb3,Sum Peak (2x),17692.0
+Cm,Lb1,Escape Peak (Si),17727.0
+Np,Lb1,Emission Line,17751.0
+Cu,Kb3,Sum Peak (2x),17803.4
+Th,Lg3,Escape Peak (Si),17805.6
+Cu,Kb1,Sum Peak (2x),17807.8
+Hf,Lb4,Sum Peak (2x),17812.0
+Zr,Kb5,Emission Line,17816.9
+Os,La1,Sum Peak (2x),17822.0
+Bk,Ln,Emission Line,17826.0
+Fr,Lg3,Emission Line,17829.0
+Ra,Lg1,Emission Line,17848.0
+Fr,Lg6,Emission Line,17849.0
+Pa,Lg1,Escape Peak (Si),17871.0
+Mo,Kb3,Escape Peak (Si),17888.4
+Th,Lg6,Escape Peak (Si),17900.5
+Mo,Kb1,Escape Peak (Si),17906.0
+Tl,Ll,Sum Peak (2x),17908.0
+Pu,Lb5,Emission Line,17944.0
+Cu,Kb5,Sum Peak (2x),17948.0
+Cf,Lb4,Escape Peak (Si),17965.0
+Zr,Kb2,Emission Line,17969.5
+Cm,Lb3,Escape Peak (Si),17988.0
+Np,Lb3,Emission Line,17992.0
+Tc,Ka3,Emission Line,18001.0
+Hf,Lb6,Sum Peak (2x),18046.0
+Hf,Lb1,Sum Peak (2x),18046.0
+Re,Ln,Sum Peak (2x),18054.0
+Cm,"Lb2,15",Emission Line,18054.0
+Mo,Kb5,Escape Peak (Si),18068.9
+Am,Lb4,Emission Line,18069.0
+Cf,Lb5,Escape Peak (Si),18070.0
+Lu,"Lb2,15",Sum Peak (2x),18075.8
+Cf,Lb6,Emission Line,18094.0
+Ho,Lg2,Sum Peak (2x),18101.0
+Rh,Ka3,Escape Peak (Si),18108.0
+Ga,Ka3,Sum Peak (2x),18136.0
+Ho,Lg3,Sum Peak (2x),18171.6
+Ra,Lg2,Emission Line,18179.0
+Pa,Lg2,Escape Peak (Si),18181.0
+Er,Lg1,Sum Peak (2x),18192.8
+Ir,La2,Sum Peak (2x),18198.0
+Tc,Ka2,Emission Line,18251.0
+Mo,Kb2,Escape Peak (Si),18262.4
+Pu,Lb1,Emission Line,18296.0
+Bk,Lb1,Escape Peak (Si),18318.0
+Hf,Lb3,Sum Peak (2x),18328.0
+Cf,Ln,Emission Line,18347.0
+Ir,La1,Sum Peak (2x),18350.0
+Ra,Lg3,Emission Line,18358.0
+Tc,Ka1,Emission Line,18367.0
+Pb,Ll,Sum Peak (2x),18368.0
+Rh,Ka2,Escape Peak (Si),18374.0
+Am,Lb5,Emission Line,18394.0
+Pa,Lg3,Escape Peak (Si),18398.0
+Ac,Lg1,Emission Line,18408.0
+Ra,Lg6,Emission Line,18416.0
+Ta,Lb4,Sum Peak (2x),18426.0
+Ga,Ka2,Sum Peak (2x),18447.6
+U,Lg1,Escape Peak (Si),18469.7
+Bk,"Lb2,15",Emission Line,18480.0
+Ga,Ka1,Sum Peak (2x),18501.2
+Rh,Ka1,Escape Peak (Si),18516.0
+Pa,Lg6,Escape Peak (Si),18520.0
+Pu,Lb3,Emission Line,18541.0
+Bk,Lb3,Escape Peak (Si),18580.0
+Cm,Lb4,Emission Line,18589.0
+Nb,Kb3,Emission Line,18609.9
+Nb,Kb1,Emission Line,18625.4
+Ta,Lb6,Sum Peak (2x),18635.2
+Os,Ln,Sum Peak (2x),18672.0
+Hf,"Lb2,15",Sum Peak (2x),18682.0
+Ta,Lb1,Sum Peak (2x),18686.0
+Pt,La2,Sum Peak (2x),18724.0
+Ac,Lg2,Emission Line,18760.0
+Er,Lg2,Sum Peak (2x),18769.6
+Nb,Kb5,Emission Line,18781.0
+U,Lg2,Escape Peak (Si),18786.0
+Bi,Ll,Sum Peak (2x),18840.0
+Cm,Lb5,Emission Line,18846.0
+Am,Lb1,Emission Line,18856.0
+Er,Lg3,Sum Peak (2x),18861.6
+Tm,Lg1,Sum Peak (2x),18883.0
+Pt,La1,Sum Peak (2x),18884.0
+Ru,Ka3,Emission Line,18893.0
+Tc,Kb3,Escape Peak (Si),18896.4
+Cf,"Lb2,15",Emission Line,18916.0
+Cf,Lb1,Escape Peak (Si),18924.0
+Tc,Kb1,Escape Peak (Si),18926.3
+Ac,Lg3,Emission Line,18950.0
+Nb,Kb2,Emission Line,18953.4
+Ta,Lb3,Sum Peak (2x),18976.0
+Th,Lg1,Emission Line,18980.9
+Ac,Lg6,Emission Line,19003.0
+U,Lg3,Escape Peak (Si),19014.0
+Pd,Ka3,Escape Peak (Si),19046.0
+W,Lb4,Sum Peak (2x),19050.0
+Np,Lg1,Escape Peak (Si),19084.0
+Tc,Kb5,Escape Peak (Si),19086.4
+Am,Lb3,Emission Line,19110.0
+Bk,Lb4,Emission Line,19118.0
+Zn,Kb3,Sum Peak (2x),19135.2
+Zn,Kb1,Sum Peak (2x),19140.8
+U,Lg6,Escape Peak (Si),19145.2
+Ru,Ka2,Emission Line,19150.0
+Cf,Lb3,Escape Peak (Si),19194.0
+W,Lb6,Sum Peak (2x),19225.8
+Au,La2,Sum Peak (2x),19256.0
+Ru,Ka1,Emission Line,19279.0
+Ta,"Lb2,15",Sum Peak (2x),19286.2
+Zn,Kb5,Sum Peak (2x),19297.6
+Ir,Ln,Sum Peak (2x),19300.0
+Tc,Kb2,Escape Peak (Si),19301.7
+Th,Lg2,Emission Line,19304.0
+Bk,Lb5,Emission Line,19305.0
+Pd,Ka2,Escape Peak (Si),19320.0
+Po,Ll,Sum Peak (2x),19330.0
+W,Lb1,Sum Peak (2x),19344.0
+Ge,Ka3,Sum Peak (2x),19376.8
+Np,Lg2,Escape Peak (Si),19399.0
+Au,La1,Sum Peak (2x),19426.0
+Cm,Lb1,Emission Line,19427.0
+Tm,Lg2,Sum Peak (2x),19460.2
+Pd,Ka1,Escape Peak (Si),19477.0
+Th,Lg3,Emission Line,19505.6
+Tm,Lg3,Sum Peak (2x),19566.8
+Pa,Lg1,Emission Line,19571.0
+Yb,Lg1,Sum Peak (2x),19573.6
+Mo,Kb3,Emission Line,19588.4
+Th,Lg6,Emission Line,19600.5
+Mo,Kb1,Emission Line,19606.0
+W,Lb3,Sum Peak (2x),19638.0
+Np,Lg3,Escape Peak (Si),19642.0
+Cf,Lb4,Emission Line,19665.0
+Cm,Lb3,Emission Line,19688.0
+Re,Lb4,Sum Peak (2x),19690.0
+Ge,Ka2,Sum Peak (2x),19709.8
+Pu,Lg1,Escape Peak (Si),19720.0
+Mo,Kb5,Emission Line,19768.9
+Cf,Lb5,Emission Line,19770.0
+Ge,Ka1,Sum Peak (2x),19772.0
+Np,Lg6,Escape Peak (Si),19791.0
+At,Ll,Sum Peak (2x),19794.0
+Hg,La2,Sum Peak (2x),19798.0
+Rh,Ka3,Emission Line,19808.0
+Re,Lb6,Sum Peak (2x),19819.2
+Pa,Lg2,Emission Line,19881.0
+W,"Lb2,15",Sum Peak (2x),19902.2
+Ru,Kb3,Escape Peak (Si),19933.7
+Pt,Ln,Sum Peak (2x),19954.0
+Ru,Kb1,Escape Peak (Si),19955.5
+Mo,Kb2,Emission Line,19962.4
+Hg,La1,Sum Peak (2x),19978.0
+Ag,Ka3,Escape Peak (Si),20008.0
+Bk,Lb1,Emission Line,20018.0
+Re,Lb1,Sum Peak (2x),20020.0
+Pu,Lg2,Escape Peak (Si),20024.0
+Rh,Ka2,Emission Line,20074.0
+Pa,Lg3,Emission Line,20098.0
+Ru,Kb5,Escape Peak (Si),20132.8
+U,Lg1,Emission Line,20169.7
+Yb,Lg2,Sum Peak (2x),20194.6
+Rh,Ka1,Emission Line,20216.0
+Pa,Lg6,Emission Line,20220.0
+Rn,Ll,Sum Peak (2x),20274.0
+Bk,Lb3,Emission Line,20280.0
+Pu,Lg3,Escape Peak (Si),20281.0
+Lu,Lg1,Sum Peak (2x),20285.8
+Ag,Ka2,Escape Peak (Si),20290.0
+Yb,Lg3,Sum Peak (2x),20292.6
+Re,Lb3,Sum Peak (2x),20320.0
+Tl,La2,Sum Peak (2x),20346.0
+Os,Lb4,Sum Peak (2x),20352.0
+Ru,Kb2,Escape Peak (Si),20370.7
+Am,Lg1,Escape Peak (Si),20372.0
+Os,Lb6,Sum Peak (2x),20425.6
+Pu,Lg6,Escape Peak (Si),20453.0
+Ag,Ka1,Escape Peak (Si),20463.0
+U,Lg2,Emission Line,20486.0
+Re,"Lb2,15",Sum Peak (2x),20522.2
+Ga,Kb3,Sum Peak (2x),20527.0
+Ga,Kb1,Sum Peak (2x),20534.0
+Tl,La1,Sum Peak (2x),20538.0
+Tc,Kb3,Emission Line,20596.4
+Au,Ln,Sum Peak (2x),20618.0
+Cf,Lb1,Emission Line,20624.0
+Tc,Kb1,Emission Line,20626.3
+Am,Lg2,Escape Peak (Si),20670.0
+As,Ka3,Sum Peak (2x),20680.0
+Ga,Kb5,Sum Peak (2x),20696.6
+Os,Lb1,Sum Peak (2x),20708.0
+U,Lg3,Emission Line,20714.0
+Pd,Ka3,Emission Line,20746.0
+Fr,Ll,Sum Peak (2x),20758.0
+Np,Lg1,Emission Line,20784.0
+Tc,Kb5,Emission Line,20786.4
+U,Lg6,Emission Line,20845.2
+Cf,Lb3,Emission Line,20894.0
+Pb,La2,Sum Peak (2x),20898.0
+Lu,Lg2,Sum Peak (2x),20915.2
+Am,Lg3,Escape Peak (Si),20943.0
+Cd,Ka3,Escape Peak (Si),20993.0
+Rh,Kb3,Escape Peak (Si),20998.7
+Tc,Kb2,Emission Line,21001.7
+As,Ka2,Sum Peak (2x),21015.8
+Pd,Ka2,Emission Line,21020.0
+Ir,Lb4,Sum Peak (2x),21020.0
+Lu,Lg3,Sum Peak (2x),21021.6
+Os,Lb3,Sum Peak (2x),21022.0
+Rh,Kb1,Escape Peak (Si),21023.5
+Cm,Lg1,Escape Peak (Si),21035.0
+Hf,Lg1,Sum Peak (2x),21038.0
+Ir,Lb6,Sum Peak (2x),21047.8
+As,Ka1,Sum Peak (2x),21086.8
+Np,Lg2,Emission Line,21099.0
+Pb,La1,Sum Peak (2x),21102.0
+Am,Lg6,Escape Peak (Si),21136.0
+Os,"Lb2,15",Sum Peak (2x),21155.8
+Pd,Ka1,Emission Line,21177.0
+Rh,Kb5,Escape Peak (Si),21208.1
+Ra,Ll,Sum Peak (2x),21244.0
+Cd,Ka2,Escape Peak (Si),21284.0
+Hg,Ln,Sum Peak (2x),21294.0
+Cm,Lg2,Escape Peak (Si),21328.0
+Np,Lg3,Emission Line,21342.0
+Ir,Lb1,Sum Peak (2x),21416.0
+Pu,Lg1,Emission Line,21420.0
+Bi,La2,Sum Peak (2x),21462.0
+Rh,Kb2,Escape Peak (Si),21469.5
+Cd,Ka1,Escape Peak (Si),21473.0
+Np,Lg6,Emission Line,21491.0
+Rh,Kb4,Escape Peak (Si),21518.0
+Cm,Lg3,Escape Peak (Si),21619.0
+Ru,Kb3,Emission Line,21633.7
+Ru,Kb1,Emission Line,21655.5
+Hf,Lg2,Sum Peak (2x),21665.6
+Pt,Lb6,Sum Peak (2x),21677.2
+Bi,La1,Sum Peak (2x),21678.0
+Pt,Lb4,Sum Peak (2x),21706.0
+Ag,Ka3,Emission Line,21708.0
+Bk,Lg1,Escape Peak (Si),21716.0
+Pu,Lg2,Emission Line,21724.0
+Ir,Lb3,Sum Peak (2x),21736.0
+Ac,Ll,Sum Peak (2x),21738.0
+Hf,Lg3,Sum Peak (2x),21780.6
+Ta,Lg1,Sum Peak (2x),21796.2
+Ir,"Lb2,15",Sum Peak (2x),21806.2
+Cm,Lg6,Escape Peak (Si),21827.0
+Ru,Kb5,Emission Line,21832.8
+Ge,Kb3,Sum Peak (2x),21956.2
+Ge,Kb1,Sum Peak (2x),21964.4
+Pu,Lg3,Emission Line,21981.0
+Tl,Ln,Sum Peak (2x),21988.0
+Ag,Ka2,Emission Line,21990.0
+Bk,Lg2,Escape Peak (Si),21998.0
+In,Ka3,Escape Peak (Si),22002.0
+Se,Ka3,Sum Peak (2x),22012.0
+Po,La2,Sum Peak (2x),22032.0
+Ru,Kb2,Emission Line,22070.7
+Am,Lg1,Emission Line,22072.0
+Pd,Kb3,Escape Peak (Si),22090.1
+Pd,Kb1,Escape Peak (Si),22117.7
+Pt,Lb1,Sum Peak (2x),22142.0
+Ge,Kb5,Sum Peak (2x),22146.4
+Pu,Lg6,Emission Line,22153.0
+Ag,Ka1,Emission Line,22163.0
+Th,Ll,Sum Peak (2x),22236.0
+Po,La1,Sum Peak (2x),22262.0
+In,Ka2,Escape Peak (Si),22302.0
+Bk,Lg3,Escape Peak (Si),22307.0
+Pd,Kb5,Escape Peak (Si),22309.5
+Au,Lb6,Sum Peak (2x),22313.8
+Se,Ka2,Sum Peak (2x),22367.4
+Am,Lg2,Emission Line,22370.0
+Au,Lb4,Sum Peak (2x),22410.0
+Cf,Lg1,Escape Peak (Si),22417.0
+Ta,Lg2,Sum Peak (2x),22437.2
+Se,Ka1,Sum Peak (2x),22448.2
+Pt,"Lb2,15",Sum Peak (2x),22464.8
+Pt,Lb3,Sum Peak (2x),22470.0
+In,Ka1,Escape Peak (Si),22510.0
+Bk,Lg6,Escape Peak (Si),22541.0
+Ta,Lg3,Sum Peak (2x),22562.2
+W,Lg1,Sum Peak (2x),22576.2
+Pd,Kb2,Escape Peak (Si),22594.3
+At,La2,Sum Peak (2x),22610.0
+Am,Lg3,Emission Line,22643.0
+Pd,Kb4,Escape Peak (Si),22648.0
+Cf,Lg2,Escape Peak (Si),22690.0
+Cd,Ka3,Emission Line,22693.0
+Pb,Ln,Sum Peak (2x),22698.0
+Rh,Kb3,Emission Line,22698.7
+Rh,Kb1,Emission Line,22723.5
+Pa,Ll,Sum Peak (2x),22732.0
+Cm,Lg1,Emission Line,22735.0
+Am,Lg6,Emission Line,22836.0
+At,La1,Sum Peak (2x),22854.0
+Au,Lb1,Sum Peak (2x),22886.0
+Rh,Kb5,Emission Line,22908.1
+Hg,Lb6,Sum Peak (2x),22963.6
+Cd,Ka2,Emission Line,22984.0
+Cf,Lg3,Escape Peak (Si),23018.0
+Cm,Lg2,Emission Line,23028.0
+Sn,Ka3,Escape Peak (Si),23035.0
+Hg,Lb4,Sum Peak (2x),23120.0
+Au,"Lb2,15",Sum Peak (2x),23131.6
+Rh,Kb2,Emission Line,23169.5
+Cd,Ka1,Emission Line,23173.0
+Rn,La2,Sum Peak (2x),23194.0
+Ag,Kb3,Escape Peak (Si),23210.2
+Rh,Kb4,Emission Line,23218.0
+W,Lg2,Sum Peak (2x),23219.2
+Au,Lb3,Sum Peak (2x),23220.0
+U,Ll,Sum Peak (2x),23236.0
+Ag,Kb1,Escape Peak (Si),23241.0
+Cf,Lg6,Escape Peak (Si),23271.0
+Cm,Lg3,Emission Line,23319.0
+Sn,Ka2,Escape Peak (Si),23344.0
+W,Lg3,Sum Peak (2x),23352.8
+Re,Lg1,Sum Peak (2x),23370.2
+Br,Ka3,Sum Peak (2x),23384.0
+Bk,Lg1,Emission Line,23416.0
+Bi,Ln,Sum Peak (2x),23424.0
+Ag,Kb5,Escape Peak (Si),23440.0
+As,Kb3,Sum Peak (2x),23441.6
+As,Kb1,Sum Peak (2x),23451.6
+Rn,La1,Sum Peak (2x),23454.0
+Cm,Lg6,Emission Line,23527.0
+Sn,Ka1,Escape Peak (Si),23571.0
+Tl,Lb6,Sum Peak (2x),23623.6
+Hg,Lb1,Sum Peak (2x),23648.0
+As,Kb5,Sum Peak (2x),23650.6
+Bk,Lg2,Emission Line,23698.0
+In,Ka3,Emission Line,23702.0
+As,Kb2,Sum Peak (2x),23728.0
+Np,Ll,Sum Peak (2x),23742.0
+Ag,Kb2,Escape Peak (Si),23750.3
+Br,Ka2,Sum Peak (2x),23756.0
+Fr,La2,Sum Peak (2x),23790.0
+Pd,Kb3,Emission Line,23790.1
+Ag,Kb4,Escape Peak (Si),23810.0
+Hg,"Lb2,15",Sum Peak (2x),23811.6
+Pd,Kb1,Emission Line,23817.7
+Au,Lb5,Sum Peak (2x),23828.0
+Br,Ka1,Sum Peak (2x),23848.0
+Tl,Lb4,Sum Peak (2x),23862.0
+Hg,Lb3,Sum Peak (2x),23984.0
+In,Ka2,Emission Line,24002.0
+Bk,Lg3,Emission Line,24007.0
+Pd,Kb5,Emission Line,24009.5
+Re,Lg2,Sum Peak (2x),24016.6
+Fr,La1,Sum Peak (2x),24062.0
+Sb,Ka3,Escape Peak (Si),24093.0
+Cf,Lg1,Emission Line,24117.0
+Re,Lg3,Sum Peak (2x),24160.4
+Os,Lg1,Sum Peak (2x),24183.8
+Po,Ln,Sum Peak (2x),24190.0
+In,Ka1,Emission Line,24210.0
+Bk,Lg6,Emission Line,24241.0
+Pu,Ll,Sum Peak (2x),24248.0
+Pb,Lb6,Sum Peak (2x),24286.4
+Pd,Kb2,Emission Line,24294.3
+Pd,Kb4,Emission Line,24348.0
+Cd,Kb3,Escape Peak (Si),24358.4
+Cf,Lg2,Emission Line,24390.0
+Ra,La2,Sum Peak (2x),24392.0
+Cd,Kb1,Escape Peak (Si),24392.6
+Sb,Ka2,Escape Peak (Si),24411.0
+Tl,Lb1,Sum Peak (2x),24426.0
+Tl,"Lb2,15",Sum Peak (2x),24504.6
+Hg,Lb5,Sum Peak (2x),24548.8
+Cd,Kb5,Escape Peak (Si),24599.1
+Pb,Lb4,Sum Peak (2x),24614.0
+Sb,Ka1,Escape Peak (Si),24659.0
+Ra,La1,Sum Peak (2x),24678.0
+Cf,Lg3,Emission Line,24718.0
+Sn,Ka3,Emission Line,24735.0
+Am,Ll,Sum Peak (2x),24754.0
+Tl,Lb3,Sum Peak (2x),24780.0
+Kr,Ka3,Sum Peak (2x),24810.0
+Os,Lg2,Sum Peak (2x),24837.8
+Ag,Kb3,Emission Line,24910.2
+At,Ln,Sum Peak (2x),24936.0
+Ag,Kb1,Emission Line,24941.0
+Cd,Kb2,Escape Peak (Si),24947.1
+Bi,Lb6,Sum Peak (2x),24960.0
+Cf,Lg6,Emission Line,24971.0
+Se,Kb3,Sum Peak (2x),24983.0
+Se,Kb1,Sum Peak (2x),24994.6
+Os,Lg3,Sum Peak (2x),24994.6
+Cd,Kb4,Escape Peak (Si),24999.3
+Ac,La2,Sum Peak (2x),25002.0
+Ir,Lg1,Sum Peak (2x),25024.2
+Sn,Ka2,Emission Line,25044.0
+Ag,Kb5,Emission Line,25140.0
+Te,Ka3,Escape Peak (Si),25175.0
+Kr,Ka2,Sum Peak (2x),25190.2
+Pb,"Lb2,15",Sum Peak (2x),25201.4
+Se,Kb5,Sum Peak (2x),25205.0
+Pb,Lb1,Sum Peak (2x),25228.0
+Cm,Ll,Sum Peak (2x),25266.0
+Sn,Ka1,Emission Line,25271.0
+Tl,Lb5,Sum Peak (2x),25286.6
+Kr,Ka1,Sum Peak (2x),25295.2
+Ac,La1,Sum Peak (2x),25304.0
+Se,Kb2,Sum Peak (2x),25310.0
+Bi,Lb4,Sum Peak (2x),25384.0
+Ag,Kb2,Emission Line,25450.3
+Te,Ka2,Escape Peak (Si),25502.0
+Ag,Kb4,Emission Line,25510.0
+In,Kb3,Escape Peak (Si),25536.8
+In,Kb1,Escape Peak (Si),25574.7
+Pb,Lb3,Sum Peak (2x),25590.0
+Th,La2,Sum Peak (2x),25618.0
+Po,Lb6,Sum Peak (2x),25638.0
+Ir,Lg2,Sum Peak (2x),25682.4
+Rn,Ln,Sum Peak (2x),25710.0
+Te,Ka1,Escape Peak (Si),25773.0
+Bk,Ll,Sum Peak (2x),25780.0
+In,Kb5,Escape Peak (Si),25788.6
+Sb,Ka3,Emission Line,25793.0
+Ir,Lg3,Sum Peak (2x),25846.4
+Pt,Lg1,Sum Peak (2x),25882.8
+Bi,"Lb2,15",Sum Peak (2x),25910.0
+Th,La1,Sum Peak (2x),25936.0
+Pb,Lb5,Sum Peak (2x),26028.6
+Bi,Lb1,Sum Peak (2x),26046.0
+Cd,Kb3,Emission Line,26058.4
+Cd,Kb1,Emission Line,26092.6
+Sb,Ka2,Emission Line,26111.0
+In,Kb2,Escape Peak (Si),26166.5
+Po,Lb4,Sum Peak (2x),26170.0
+In,Kb4,Escape Peak (Si),26222.3
+Pa,La2,Sum Peak (2x),26244.0
+Rb,Ka3,Sum Peak (2x),26270.0
+I,Ka3,Escape Peak (Si),26281.0
+Cf,Ll,Sum Peak (2x),26292.0
+Cd,Kb5,Emission Line,26299.1
+At,Lb6,Sum Peak (2x),26344.0
+Sb,Ka1,Emission Line,26359.0
+Bi,Lb3,Sum Peak (2x),26422.0
+Fr,Ln,Sum Peak (2x),26510.0
+Pt,Lg2,Sum Peak (2x),26541.8
+Br,Kb3,Sum Peak (2x),26570.0
+Pa,La1,Sum Peak (2x),26582.0
+Br,Kb1,Sum Peak (2x),26584.0
+I,Ka2,Escape Peak (Si),26617.0
+Po,"Lb2,15",Sum Peak (2x),26628.0
+Cd,Kb2,Emission Line,26647.1
+Rb,Ka2,Sum Peak (2x),26672.0
+Cd,Kb4,Emission Line,26699.3
+Pt,Lg3,Sum Peak (2x),26721.2
+Sn,Kb3,Escape Peak (Si),26743.5
+Au,Lg1,Sum Peak (2x),26761.6
+Bi,Lb5,Sum Peak (2x),26784.2
+Sn,Kb1,Escape Peak (Si),26785.4
+Rb,Ka1,Sum Peak (2x),26792.0
+Br,Kb5,Sum Peak (2x),26808.0
+Te,Ka3,Emission Line,26875.0
+U,La2,Sum Peak (2x),26876.0
+Po,Lb1,Sum Peak (2x),26892.0
+I,Ka1,Escape Peak (Si),26912.0
+Br,Kb2,Sum Peak (2x),26942.0
+At,Lb4,Sum Peak (2x),26970.0
+Sn,Kb5,Escape Peak (Si),27006.8
+Rn,Lb6,Sum Peak (2x),27044.0
+Te,Ka2,Emission Line,27202.0
+U,La1,Sum Peak (2x),27228.0
+In,Kb3,Emission Line,27236.8
+Po,Lb3,Sum Peak (2x),27274.0
+In,Kb1,Emission Line,27274.7
+Ra,Ln,Sum Peak (2x),27324.0
+At,"Lb2,15",Sum Peak (2x),27362.0
+Xe,Ka3,Escape Peak (Si),27408.0
+Sn,Kb2,Escape Peak (Si),27416.4
+Au,Lg2,Sum Peak (2x),27420.6
+Au,Lg6,Sum Peak (2x),27458.0
+Te,Ka1,Emission Line,27473.0
+Sn,Kb4,Escape Peak (Si),27475.1
+In,Kb5,Emission Line,27488.6
+Np,La2,Sum Peak (2x),27522.0
+Po,Lb5,Sum Peak (2x),27566.0
+Au,Lg3,Sum Peak (2x),27613.4
+Hg,Lg1,Sum Peak (2x),27661.6
+At,Lb1,Sum Peak (2x),27752.0
+Xe,Ka2,Escape Peak (Si),27754.0
+Fr,Lb6,Sum Peak (2x),27756.0
+Sr,Ka3,Sum Peak (2x),27778.0
+Rn,Lb4,Sum Peak (2x),27780.0
+In,Kb2,Emission Line,27866.5
+Np,La1,Sum Peak (2x),27892.0
+In,Kb4,Emission Line,27922.3
+Sb,Kb3,Escape Peak (Si),27978.3
+I,Ka3,Emission Line,27981.0
+Sb,Kb1,Escape Peak (Si),28024.6
+Xe,Ka1,Escape Peak (Si),28075.0
+Rn,"Lb2,15",Sum Peak (2x),28104.0
+At,Lb3,Sum Peak (2x),28134.0
+Ac,Ln,Sum Peak (2x),28162.0
+Pu,La2,Sum Peak (2x),28174.0
+Sr,Ka2,Sum Peak (2x),28196.0
+Kr,Kb3,Sum Peak (2x),28207.6
+Kr,Kb1,Sum Peak (2x),28223.2
+Sb,Kb5,Escape Peak (Si),28253.5
+I,Ka2,Emission Line,28317.0
+Hg,Lg2,Sum Peak (2x),28317.6
+Sr,Ka1,Sum Peak (2x),28330.0
+At,Lb5,Sum Peak (2x),28348.0
+Hg,Lg6,Sum Peak (2x),28398.8
+Sn,Kb3,Emission Line,28443.5
+Kr,Kb5,Sum Peak (2x),28462.0
+Ra,Lb6,Sum Peak (2x),28472.0
+Sn,Kb1,Emission Line,28485.4
+Hg,Lg3,Sum Peak (2x),28524.8
+Pu,La1,Sum Peak (2x),28564.0
+Cs,Ka3,Escape Peak (Si),28571.0
+Tl,Lg1,Sum Peak (2x),28584.6
+I,Ka1,Emission Line,28612.0
+Kr,Kb2,Sum Peak (2x),28623.8
+Fr,Lb4,Sum Peak (2x),28624.0
+Rn,Lb1,Sum Peak (2x),28630.0
+Sb,Kb2,Escape Peak (Si),28695.4
+Sn,Kb5,Emission Line,28706.8
+Sb,Kb4,Escape Peak (Si),28757.7
+Am,La2,Sum Peak (2x),28828.0
+Fr,"Lb2,15",Sum Peak (2x),28856.0
+Cs,Ka2,Escape Peak (Si),28926.0
+Rn,Lb3,Sum Peak (2x),29022.0
+Th,Ln,Sum Peak (2x),29022.0
+Xe,Ka3,Emission Line,29108.0
+Sn,Kb2,Emission Line,29116.4
+Rn,Lb5,Sum Peak (2x),29142.0
+Sn,Kb4,Emission Line,29175.1
+Ac,Lb6,Sum Peak (2x),29204.0
+Am,La1,Sum Peak (2x),29240.0
+Te,Kb3,Escape Peak (Si),29243.2
+Tl,Lg2,Sum Peak (2x),29253.0
+Cs,Ka1,Escape Peak (Si),29273.0
+Te,Kb1,Escape Peak (Si),29293.2
+Y,Ka3,Sum Peak (2x),29330.0
+Tl,Lg6,Sum Peak (2x),29366.6
+Xe,Ka2,Emission Line,29454.0
+Tl,Lg3,Sum Peak (2x),29475.0
+Cm,La2,Sum Peak (2x),29492.0
+Ra,Lb4,Sum Peak (2x),29494.0
+Te,Kb5,Escape Peak (Si),29530.6
+Pb,Lg1,Sum Peak (2x),29531.4
+Fr,Lb1,Sum Peak (2x),29542.0
+Ra,"Lb2,15",Sum Peak (2x),29616.0
+Sb,Kb3,Emission Line,29678.3
+Sb,Kb1,Emission Line,29724.6
+Ba,Ka3,Escape Peak (Si),29752.0
+Y,Ka2,Sum Peak (2x),29764.0
+Xe,Ka1,Emission Line,29775.0
+Pa,Ln,Sum Peak (2x),29894.0
+Rb,Kb3,Sum Peak (2x),29902.6
+Y,Ka1,Sum Peak (2x),29916.0
+Rb,Kb1,Sum Peak (2x),29921.8
+Cm,La1,Sum Peak (2x),29922.0
+Th,Lb6,Sum Peak (2x),29940.0
+Fr,Lb5,Sum Peak (2x),29946.0
+Fr,Lb3,Sum Peak (2x),29952.0
+Sb,Kb5,Emission Line,29953.5
+Te,Kb2,Escape Peak (Si),30010.7
+Te,Kb4,Escape Peak (Si),30072.1
+Ba,Ka2,Escape Peak (Si),30117.0
+Bk,La2,Sum Peak (2x),30164.0
+Rb,Kb5,Sum Peak (2x),30174.0
+Pb,Lg2,Sum Peak (2x),30198.2
+Cs,Ka3,Emission Line,30271.0
+Pb,Lg6,Sum Peak (2x),30358.6
+Rb,Kb2,Sum Peak (2x),30367.4
+Ac,Lb4,Sum Peak (2x),30368.0
+Ac,"Lb2,15",Sum Peak (2x),30392.0
+Sb,Kb2,Emission Line,30395.4
+Pb,Lg3,Sum Peak (2x),30435.0
+Sb,Kb4,Emission Line,30457.7
+Ra,Lb1,Sum Peak (2x),30472.0
+Ba,Ka1,Escape Peak (Si),30494.0
+Bi,Lg1,Sum Peak (2x),30494.0
+I,Kb3,Escape Peak (Si),30538.0
+I,Kb1,Escape Peak (Si),30594.0
+Bk,La1,Sum Peak (2x),30616.0
+Cs,Ka2,Emission Line,30626.0
+Pa,Lb6,Sum Peak (2x),30692.0
+Ra,Lb5,Sum Peak (2x),30752.0
+U,Ln,Sum Peak (2x),30800.0
+I,Kb5,Escape Peak (Si),30838.2
+Cf,La2,Sum Peak (2x),30846.0
+Ra,Lb3,Sum Peak (2x),30890.0
+Zr,Ka3,Sum Peak (2x),30932.0
+Te,Kb3,Emission Line,30943.2
+La,Ka3,Escape Peak (Si),30959.0
+Cs,Ka1,Emission Line,30973.0
+Te,Kb1,Emission Line,30993.2
+Bi,Lg2,Sum Peak (2x),31165.6
+Th,"Lb2,15",Sum Peak (2x),31175.8
+Te,Kb5,Emission Line,31230.6
+Th,Lb4,Sum Peak (2x),31284.0
+Cf,La1,Sum Peak (2x),31320.0
+La,Ka2,Escape Peak (Si),31334.0
+I,Kb2,Escape Peak (Si),31346.0
+Bi,Lg6,Sum Peak (2x),31368.2
+Zr,Ka2,Sum Peak (2x),31382.0
+Bi,Lg3,Sum Peak (2x),31418.4
+I,Kb4,Escape Peak (Si),31418.4
+Ac,Lb1,Sum Peak (2x),31426.0
+Ba,Ka3,Emission Line,31452.0
+U,Lb6,Sum Peak (2x),31454.0
+Po,Lg1,Sum Peak (2x),31488.0
+Zr,Ka1,Sum Peak (2x),31550.0
+Ac,Lb5,Sum Peak (2x),31582.0
+Sr,Kb3,Sum Peak (2x),31649.4
+Sr,Kb1,Sum Peak (2x),31670.0
+Te,Kb2,Emission Line,31710.7
+Np,Ln,Sum Peak (2x),31722.0
+La,Ka1,Escape Peak (Si),31742.0
+Te,Kb4,Emission Line,31772.1
+Ba,Ka2,Emission Line,31817.0
+Xe,Kb3,Escape Peak (Si),31858.9
+Ac,Lb3,Sum Peak (2x),31862.0
+Xe,Kb1,Escape Peak (Si),31920.4
+Sr,Kb5,Sum Peak (2x),31938.0
+Pa,"Lb2,15",Sum Peak (2x),31980.0
+Sr,Kb2,Sum Peak (2x),32166.8
+Xe,Kb5,Escape Peak (Si),32172.0
+Po,Lg2,Sum Peak (2x),32176.0
+Ba,Ka1,Emission Line,32194.0
+Ce,Ka3,Escape Peak (Si),32195.0
+Pa,Lb4,Sum Peak (2x),32208.0
+Np,Lb6,Sum Peak (2x),32218.0
+I,Kb3,Emission Line,32238.0
+I,Kb1,Emission Line,32294.0
+Th,Lb1,Sum Peak (2x),32404.0
+Th,Lb5,Sum Peak (2x),32415.0
+Po,Lg6,Sum Peak (2x),32426.0
+Po,Lg3,Sum Peak (2x),32468.0
+At,Lg1,Sum Peak (2x),32504.0
+I,Kb5,Emission Line,32538.2
+Nb,Ka3,Sum Peak (2x),32576.0
+Ce,Ka2,Escape Peak (Si),32579.0
+La,Ka3,Emission Line,32659.0
+Pu,Ln,Sum Peak (2x),32666.0
+Xe,Kb2,Escape Peak (Si),32714.300000000003
+U,"Lb2,15",Sum Peak (2x),32775.4
+Xe,Kb4,Escape Peak (Si),32791.5
+Th,Lb3,Sum Peak (2x),32852.0
+Pu,Lb6,Sum Peak (2x),32996.0
+Ce,Ka1,Escape Peak (Si),33020.0
+La,Ka2,Emission Line,33034.0
+Nb,Ka2,Sum Peak (2x),33042.0
+I,Kb2,Emission Line,33046.0
+I,Kb4,Emission Line,33118.4
+U,Lb4,Sum Peak (2x),33150.0
+At,Lg2,Sum Peak (2x),33214.0
+Cs,Kb3,Escape Peak (Si),33214.0
+Nb,Ka1,Sum Peak (2x),33230.0
+Pa,Lb5,Sum Peak (2x),33278.0
+Cs,Kb1,Escape Peak (Si),33282.0
+Pa,Lb1,Sum Peak (2x),33406.0
+La,Ka1,Emission Line,33442.0
+Y,Kb3,Sum Peak (2x),33454.8
+Pr,Ka3,Escape Peak (Si),33456.0
+Y,Kb1,Sum Peak (2x),33478.4
+At,Lg6,Sum Peak (2x),33490.0
+At,Lg3,Sum Peak (2x),33506.0
+Rn,Lg1,Sum Peak (2x),33540.0
+Cs,Kb5,Escape Peak (Si),33544.5
+Xe,Kb3,Emission Line,33558.9
+Np,"Lb2,15",Sum Peak (2x),33588.0
+Xe,Kb1,Emission Line,33620.4
+Am,Ln,Sum Peak (2x),33638.0
+Y,Kb5,Sum Peak (2x),33760.6
+Am,Lb6,Sum Peak (2x),33780.0
+Pr,Ka2,Escape Peak (Si),33851.0
+Pa,Lb3,Sum Peak (2x),33862.0
+Xe,Kb5,Emission Line,33872.0
+Ce,Ka3,Emission Line,33895.0
+Y,Kb2,Sum Peak (2x),34027.2
+Cs,Kb2,Escape Peak (Si),34112.6
+Np,Lb4,Sum Peak (2x),34122.0
+U,Lb5,Sum Peak (2x),34126.4
+Cs,Kb4,Escape Peak (Si),34205.2
+Rn,Lg2,Sum Peak (2x),34240.0
+Mo,Ka3,Sum Peak (2x),34268.0
+Ce,Ka2,Emission Line,34279.0
+Pr,Ka1,Escape Peak (Si),34327.0
+Xe,Kb2,Emission Line,34414.3
+Pu,"Lb2,15",Sum Peak (2x),34422.0
+U,Lb1,Sum Peak (2x),34440.0
+Xe,Kb4,Emission Line,34491.5
+Rn,Lg3,Sum Peak (2x),34562.0
+Cm,Lb6,Sum Peak (2x),34572.0
+Rn,Lg6,Sum Peak (2x),34578.0
+Ba,Kb3,Escape Peak (Si),34604.0
+Fr,Lg1,Sum Peak (2x),34608.0
+Cm,Ln,Sum Peak (2x),34628.0
+Ba,Kb1,Escape Peak (Si),34678.0
+Ce,Ka1,Emission Line,34720.0
+Nd,Ka3,Escape Peak (Si),34743.0
+Mo,Ka2,Sum Peak (2x),34750.0
+U,Lb3,Sum Peak (2x),34908.0
+Cs,Kb3,Emission Line,34914.0
+Ba,Kb5,Escape Peak (Si),34945.3
+Mo,Ka1,Sum Peak (2x),34960.0
+Cs,Kb1,Emission Line,34982.0
+Np,Lb5,Sum Peak (2x),35002.0
+Pu,Lb4,Sum Peak (2x),35114.0
+Nd,Ka2,Escape Peak (Si),35147.0
+Pr,Ka3,Emission Line,35156.0
+Cs,Kb5,Emission Line,35244.5
+Am,"Lb2,15",Sum Peak (2x),35260.0
+Zr,Kb3,Sum Peak (2x),35309.0
+Fr,Lg2,Sum Peak (2x),35318.0
+Zr,Kb1,Sum Peak (2x),35336.4
+Bk,Lb6,Sum Peak (2x),35374.0
+Np,Lb1,Sum Peak (2x),35502.0
+Ba,Kb2,Escape Peak (Si),35549.0
+Pr,Ka2,Emission Line,35551.0
+Zr,Kb5,Sum Peak (2x),35633.8
+Ba,Kb4,Escape Peak (Si),35648.4
+Bk,Ln,Sum Peak (2x),35652.0
+Fr,Lg3,Sum Peak (2x),35658.0
+Nd,Ka1,Escape Peak (Si),35661.0
+Ra,Lg1,Sum Peak (2x),35696.0
+Fr,Lg6,Sum Peak (2x),35698.0
+Cs,Kb2,Emission Line,35812.6
+Pu,Lb5,Sum Peak (2x),35888.0
+Cs,Kb4,Emission Line,35905.2
+Zr,Kb2,Sum Peak (2x),35939.0
+Np,Lb3,Sum Peak (2x),35984.0
+Tc,Ka3,Sum Peak (2x),36002.0
+La,Kb3,Escape Peak (Si),36016.0
+Pr,Ka1,Emission Line,36027.0
+Pm,Ka3,Escape Peak (Si),36056.0
+La,Kb1,Escape Peak (Si),36097.0
+Cm,"Lb2,15",Sum Peak (2x),36108.0
+Am,Lb4,Sum Peak (2x),36138.0
+Cf,Lb6,Sum Peak (2x),36188.0
+Ba,Kb3,Emission Line,36304.0
+Ra,Lg2,Sum Peak (2x),36358.0
+La,Kb5,Escape Peak (Si),36372.0
+Ba,Kb1,Emission Line,36378.0
+Nd,Ka3,Emission Line,36443.0
+Pm,Ka2,Escape Peak (Si),36471.0
+Tc,Ka2,Sum Peak (2x),36502.0
+Pu,Lb1,Sum Peak (2x),36592.0
+Ba,Kb5,Emission Line,36645.3
+Cf,Ln,Sum Peak (2x),36694.0
+Ra,Lg3,Sum Peak (2x),36716.0
+Tc,Ka1,Sum Peak (2x),36734.0
+Am,Lb5,Sum Peak (2x),36788.0
+Ac,Lg1,Sum Peak (2x),36816.0
+Ra,Lg6,Sum Peak (2x),36832.0
+Nd,Ka2,Emission Line,36847.0
+Bk,"Lb2,15",Sum Peak (2x),36960.0
+La,Kb2,Escape Peak (Si),37019.2
+Pm,Ka1,Escape Peak (Si),37025.0
+Pu,Lb3,Sum Peak (2x),37082.0
+La,Kb4,Escape Peak (Si),37119.7
+Cm,Lb4,Sum Peak (2x),37178.0
+Nb,Kb3,Sum Peak (2x),37219.8
+Ba,Kb2,Emission Line,37249.0
+Nb,Kb1,Sum Peak (2x),37250.8
+Ba,Kb4,Emission Line,37348.4
+Nd,Ka1,Emission Line,37361.0
+Sm,Ka3,Escape Peak (Si),37397.0
+Ce,Kb3,Escape Peak (Si),37469.0
+Ac,Lg2,Sum Peak (2x),37520.0
+Ce,Kb1,Escape Peak (Si),37556.0
+Nb,Kb5,Sum Peak (2x),37562.0
+Cm,Lb5,Sum Peak (2x),37692.0
+Am,Lb1,Sum Peak (2x),37712.0
+La,Kb3,Emission Line,37716.0
+Pm,Ka3,Emission Line,37756.0
+Ru,Ka3,Sum Peak (2x),37786.0
+La,Kb1,Emission Line,37797.0
+Sm,Ka2,Escape Peak (Si),37822.0
+Cf,"Lb2,15",Sum Peak (2x),37832.0
+Ce,Kb5,Escape Peak (Si),37840.6
+Ac,Lg3,Sum Peak (2x),37900.0
+Nb,Kb2,Sum Peak (2x),37906.8
+Th,Lg1,Sum Peak (2x),37961.8
+Ac,Lg6,Sum Peak (2x),38006.0
+La,Kb5,Emission Line,38072.0
+Pm,Ka2,Emission Line,38171.0
+Am,Lb3,Sum Peak (2x),38220.0
+Bk,Lb4,Sum Peak (2x),38236.0
+Ru,Ka2,Sum Peak (2x),38300.0
+Sm,Ka1,Escape Peak (Si),38418.0
+Ce,Kb2,Escape Peak (Si),38519.8
+Ru,Ka1,Sum Peak (2x),38558.0
+Th,Lg2,Sum Peak (2x),38608.0
+Bk,Lb5,Sum Peak (2x),38610.0
+Ce,Kb4,Escape Peak (Si),38634.0
+La,Kb2,Emission Line,38719.2
+Pm,Ka1,Emission Line,38725.0
+Eu,Ka3,Escape Peak (Si),38767.0
+La,Kb4,Emission Line,38819.7
+Cm,Lb1,Sum Peak (2x),38854.0
+Pr,Kb3,Escape Peak (Si),38954.0
+Th,Lg3,Sum Peak (2x),39011.2
+Pr,Kb1,Escape Peak (Si),39049.0
+Sm,Ka3,Emission Line,39097.0
+Pa,Lg1,Sum Peak (2x),39142.0
+Ce,Kb3,Emission Line,39169.0
+Mo,Kb3,Sum Peak (2x),39176.8
+Th,Lg6,Sum Peak (2x),39201.0
+Eu,Ka2,Escape Peak (Si),39202.0
+Mo,Kb1,Sum Peak (2x),39212.0
+Ce,Kb1,Emission Line,39256.0
+Cf,Lb4,Sum Peak (2x),39330.0
+Pr,Kb5,Escape Peak (Si),39342.7
+Cm,Lb3,Sum Peak (2x),39376.0
+Sm,Ka2,Emission Line,39522.0
+Mo,Kb5,Sum Peak (2x),39537.8
+Cf,Lb5,Sum Peak (2x),39540.0
+Ce,Kb5,Emission Line,39540.6
+Rh,Ka3,Sum Peak (2x),39616.0
+Pa,Lg2,Sum Peak (2x),39762.0
+Eu,Ka1,Escape Peak (Si),39842.0
+Mo,Kb2,Sum Peak (2x),39924.8
+Bk,Lb1,Sum Peak (2x),40036.0
+Pr,Kb2,Escape Peak (Si),40054.7
+Sm,Ka1,Emission Line,40118.0
+Rh,Ka2,Sum Peak (2x),40148.0
+Gd,Ka3,Escape Peak (Si),40163.0
+Pr,Kb4,Escape Peak (Si),40175.9
+Pa,Lg3,Sum Peak (2x),40196.0
+Ce,Kb2,Emission Line,40219.8
+Ce,Kb4,Emission Line,40334.0
+U,Lg1,Sum Peak (2x),40339.4
+Rh,Ka1,Sum Peak (2x),40432.0
+Pa,Lg6,Sum Peak (2x),40440.0
+Nd,Kb3,Escape Peak (Si),40466.0
+Eu,Ka3,Emission Line,40467.0
+Bk,Lb3,Sum Peak (2x),40560.0
+Nd,Kb1,Escape Peak (Si),40572.0
+Gd,Ka2,Escape Peak (Si),40609.0
+Pr,Kb3,Emission Line,40654.0
+Pr,Kb1,Emission Line,40749.0
+Nd,Kb5,Escape Peak (Si),40865.7
+Eu,Ka2,Emission Line,40902.0
+U,Lg2,Sum Peak (2x),40972.0
+Pr,Kb5,Emission Line,41042.7
+Tc,Kb3,Sum Peak (2x),41192.8
+Cf,Lb1,Sum Peak (2x),41248.0
+Tc,Kb1,Sum Peak (2x),41252.6
+Gd,Ka1,Escape Peak (Si),41296.0
+U,Lg3,Sum Peak (2x),41428.0
+Pd,Ka3,Sum Peak (2x),41492.0
+Eu,Ka1,Emission Line,41542.0
+Np,Lg1,Sum Peak (2x),41568.0
+Tc,Kb5,Sum Peak (2x),41572.8
+Tb,Ka3,Escape Peak (Si),41588.0
+Nd,Kb2,Escape Peak (Si),41625.7
+U,Lg6,Sum Peak (2x),41690.4
+Nd,Kb4,Escape Peak (Si),41748.5
+Pr,Kb2,Emission Line,41754.7
+Cf,Lb3,Sum Peak (2x),41788.0
+Gd,Ka3,Emission Line,41863.0
+Pr,Kb4,Emission Line,41875.9
+Tc,Kb2,Sum Peak (2x),42003.4
+Pm,Kb3,Escape Peak (Si),42012.6
+Pd,Ka2,Sum Peak (2x),42040.0
+Tb,Ka2,Escape Peak (Si),42044.0
+Pm,Kb1,Escape Peak (Si),42127.0
+Nd,Kb3,Emission Line,42166.0
+Np,Lg2,Sum Peak (2x),42198.0
+Nd,Kb1,Emission Line,42272.0
+Gd,Ka2,Emission Line,42309.0
+Pd,Ka1,Sum Peak (2x),42354.0
+Pm,Kb5,Escape Peak (Si),42432.0
+Nd,Kb5,Emission Line,42565.7
+Np,Lg3,Sum Peak (2x),42684.0
+Tb,Ka1,Escape Peak (Si),42782.0
+Pu,Lg1,Sum Peak (2x),42840.0
+Np,Lg6,Sum Peak (2x),42982.0
+Gd,Ka1,Emission Line,42996.0
+Dy,Ka3,Escape Peak (Si),43043.0
+Pm,Kb2,Escape Peak (Si),43242.0
+Ru,Kb3,Sum Peak (2x),43267.4
+Tb,Ka3,Emission Line,43288.0
+Ru,Kb1,Sum Peak (2x),43311.0
+Nd,Kb2,Emission Line,43325.7
+Pm,Kb4,Escape Peak (Si),43364.0
+Ag,Ka3,Sum Peak (2x),43416.0
+Pu,Lg2,Sum Peak (2x),43448.0
+Nd,Kb4,Emission Line,43448.5
+Dy,Ka2,Escape Peak (Si),43508.0
+Sm,Kb3,Escape Peak (Si),43593.0
+Ru,Kb5,Sum Peak (2x),43665.6
+Pm,Kb3,Emission Line,43712.6
+Sm,Kb1,Escape Peak (Si),43714.2
+Tb,Ka2,Emission Line,43744.0
+Pm,Kb1,Emission Line,43827.0
+Pu,Lg3,Sum Peak (2x),43962.0
+Ag,Ka2,Sum Peak (2x),43980.0
+Sm,Kb5,Escape Peak (Si),44023.1
+Pm,Kb5,Emission Line,44132.0
+Ru,Kb2,Sum Peak (2x),44141.4
+Am,Lg1,Sum Peak (2x),44144.0
+Dy,Ka1,Escape Peak (Si),44299.0
+Pu,Lg6,Sum Peak (2x),44306.0
+Ag,Ka1,Sum Peak (2x),44326.0
+Tb,Ka1,Emission Line,44482.0
+Ho,Ka3,Escape Peak (Si),44524.0
+Am,Lg2,Sum Peak (2x),44740.0
+Dy,Ka3,Emission Line,44743.0
+Sm,Kb2,Escape Peak (Si),44868.4
+Pm,Kb2,Emission Line,44942.0
+Ho,Ka2,Escape Peak (Si),45000.0
+Sm,Kb4,Escape Peak (Si),45005.0
+Pm,Kb4,Emission Line,45064.0
+Eu,Kb3,Escape Peak (Si),45205.0
+Dy,Ka2,Emission Line,45208.0
+Am,Lg3,Sum Peak (2x),45286.0
+Sm,Kb3,Emission Line,45293.0
+Eu,Kb1,Escape Peak (Si),45338.0
+Cd,Ka3,Sum Peak (2x),45386.0
+Rh,Kb3,Sum Peak (2x),45397.4
+Sm,Kb1,Emission Line,45414.2
+Rh,Kb1,Sum Peak (2x),45447.0
+Cm,Lg1,Sum Peak (2x),45470.0
+Eu,Kb5,Escape Peak (Si),45660.4
+Am,Lg6,Sum Peak (2x),45672.0
+Sm,Kb5,Emission Line,45723.1
+Rh,Kb5,Sum Peak (2x),45816.2
+Ho,Ka1,Escape Peak (Si),45847.0
+Cd,Ka2,Sum Peak (2x),45968.0
+Dy,Ka1,Emission Line,45999.0
+Er,Ka3,Escape Peak (Si),46035.0
+Cm,Lg2,Sum Peak (2x),46056.0
+Ho,Ka3,Emission Line,46224.0
+Rh,Kb2,Sum Peak (2x),46339.0
+Cd,Ka1,Sum Peak (2x),46346.0
+Rh,Kb4,Sum Peak (2x),46436.0
+Er,Ka2,Escape Peak (Si),46522.0
+Eu,Kb2,Escape Peak (Si),46535.0
+Sm,Kb2,Emission Line,46568.4
+Cm,Lg3,Sum Peak (2x),46638.0
+Eu,Kb4,Escape Peak (Si),46686.0
+Ho,Ka2,Emission Line,46700.0
+Sm,Kb4,Emission Line,46705.0
+Bk,Lg1,Sum Peak (2x),46832.0
+Gd,Kb3,Escape Peak (Si),46851.0
+Eu,Kb3,Emission Line,46905.0
+Gd,Kb1,Escape Peak (Si),46995.0
+Eu,Kb1,Emission Line,47038.0
+Cm,Lg6,Sum Peak (2x),47054.0
+Gd,Kb5,Escape Peak (Si),47317.1
+Eu,Kb5,Emission Line,47360.4
+Bk,Lg2,Sum Peak (2x),47396.0
+In,Ka3,Sum Peak (2x),47404.0
+Er,Ka1,Escape Peak (Si),47428.0
+Ho,Ka1,Emission Line,47547.0
+Tm,Ka3,Escape Peak (Si),47574.0
+Pd,Kb3,Sum Peak (2x),47580.2
+Pd,Kb1,Sum Peak (2x),47635.4
+Er,Ka3,Emission Line,47735.0
+In,Ka2,Sum Peak (2x),48004.0
+Bk,Lg3,Sum Peak (2x),48014.0
+Pd,Kb5,Sum Peak (2x),48019.0
+Tm,Ka2,Escape Peak (Si),48073.0
+Er,Ka2,Emission Line,48222.0
+Cf,Lg1,Sum Peak (2x),48234.0
+Eu,Kb2,Emission Line,48235.0
+Gd,Kb2,Escape Peak (Si),48253.0
+Eu,Kb4,Emission Line,48386.0
+Gd,Kb4,Escape Peak (Si),48396.4
+In,Ka1,Sum Peak (2x),48420.0
+Bk,Lg6,Sum Peak (2x),48482.0
+Tb,Kb3,Escape Peak (Si),48528.0
+Gd,Kb3,Emission Line,48551.0
+Pd,Kb2,Sum Peak (2x),48588.6
+Tb,Kb1,Escape Peak (Si),48685.0
+Gd,Kb1,Emission Line,48695.0
+Pd,Kb4,Sum Peak (2x),48696.0
+Cf,Lg2,Sum Peak (2x),48780.0
+Gd,Kb5,Emission Line,49017.1
+Tb,Kb5,Escape Peak (Si),49019.1
+Tm,Ka1,Escape Peak (Si),49042.0
+Er,Ka1,Emission Line,49128.0
+Yb,Ka3,Escape Peak (Si),49146.0
+Tm,Ka3,Emission Line,49274.0
+Cf,Lg3,Sum Peak (2x),49436.0
+Sn,Ka3,Sum Peak (2x),49470.0
+Yb,Ka2,Escape Peak (Si),49654.0
+Tm,Ka2,Emission Line,49773.0
+Ag,Kb3,Sum Peak (2x),49820.4
+Ag,Kb1,Sum Peak (2x),49882.0
+Cf,Lg6,Sum Peak (2x),49942.0
+Gd,Kb2,Emission Line,49953.0
+Tb,Kb2,Escape Peak (Si),49973.6
+Sn,Ka2,Sum Peak (2x),50088.0
+Gd,Kb4,Emission Line,50096.4
+Tb,Kb4,Escape Peak (Si),50145.5
+Tb,Kb3,Emission Line,50228.0
+Dy,Kb3,Escape Peak (Si),50247.0
+Ag,Kb5,Sum Peak (2x),50280.0
+Tb,Kb1,Emission Line,50385.0
+Dy,Kb1,Escape Peak (Si),50413.0
+Sn,Ka1,Sum Peak (2x),50542.0
+Yb,Ka1,Escape Peak (Si),50688.0
+Tb,Kb5,Emission Line,50719.1
+Tm,Ka1,Emission Line,50742.0
+Lu,Ka3,Escape Peak (Si),50744.0
+Dy,Kb5,Escape Peak (Si),50756.0
+Yb,Ka3,Emission Line,50846.0
+Ag,Kb2,Sum Peak (2x),50900.6
+Ag,Kb4,Sum Peak (2x),51020.0
+Lu,Ka2,Escape Peak (Si),51265.0
+Yb,Ka2,Emission Line,51354.0
+Sb,Ka3,Sum Peak (2x),51586.0
+Tb,Kb2,Emission Line,51673.6
+Dy,Kb2,Escape Peak (Si),51755.5
+Tb,Kb4,Emission Line,51845.5
+Dy,Kb4,Escape Peak (Si),51935.4
+Dy,Kb3,Emission Line,51947.0
+Ho,Kb3,Escape Peak (Si),51995.0
+Dy,Kb1,Emission Line,52113.0
+Cd,Kb3,Sum Peak (2x),52116.8
+Ho,Kb1,Escape Peak (Si),52177.0
+Cd,Kb1,Sum Peak (2x),52185.2
+Sb,Ka2,Sum Peak (2x),52222.0
+Lu,Ka1,Escape Peak (Si),52370.0
+Hf,Ka3,Escape Peak (Si),52380.0
+Yb,Ka1,Emission Line,52388.0
+Lu,Ka3,Emission Line,52444.0
+Dy,Kb5,Emission Line,52456.0
+Ho,Kb5,Escape Peak (Si),52526.0
+Cd,Kb5,Sum Peak (2x),52598.2
+Sb,Ka1,Sum Peak (2x),52718.0
+Hf,Ka2,Escape Peak (Si),52912.0
+Lu,Ka2,Emission Line,52965.0
+Cd,Kb2,Sum Peak (2x),53294.2
+Cd,Kb4,Sum Peak (2x),53398.6
+Dy,Kb2,Emission Line,53455.5
+Ho,Kb2,Escape Peak (Si),53574.5
+Dy,Kb4,Emission Line,53635.4
+Ho,Kb3,Emission Line,53695.0
+Te,Ka3,Sum Peak (2x),53750.0
+Ho,Kb4,Escape Peak (Si),53758.0
+Er,Kb3,Escape Peak (Si),53780.0
+Ho,Kb1,Emission Line,53877.0
+Er,Kb1,Escape Peak (Si),53974.0
+Ta,Ka3,Escape Peak (Si),54034.0
+Lu,Ka1,Emission Line,54070.0
+Hf,Ka3,Emission Line,54080.0
+Hf,Ka1,Escape Peak (Si),54090.0
+Ho,Kb5,Emission Line,54226.0
+Er,Kb5,Escape Peak (Si),54333.0
+Te,Ka2,Sum Peak (2x),54404.0
+In,Kb3,Sum Peak (2x),54473.6
+In,Kb1,Sum Peak (2x),54549.4
+Ta,Ka2,Escape Peak (Si),54580.0
+Hf,Ka2,Emission Line,54612.0
+Te,Ka1,Sum Peak (2x),54946.0
+In,Kb5,Sum Peak (2x),54977.2
+Ho,Kb2,Emission Line,55274.5
+Er,Kb2,Escape Peak (Si),55419.8
+Ho,Kb4,Emission Line,55458.0
+Er,Kb3,Emission Line,55480.0
+Tm,Kb3,Escape Peak (Si),55600.0
+Er,Kb4,Escape Peak (Si),55618.4
+Er,Kb1,Emission Line,55674.0
+W,Ka3,Escape Peak (Si),55725.0
+In,Kb2,Sum Peak (2x),55733.0
+Ta,Ka3,Emission Line,55734.0
+Hf,Ka1,Emission Line,55790.0
+Tm,Kb1,Escape Peak (Si),55805.0
+Ta,Ka1,Escape Peak (Si),55835.0
+In,Kb4,Sum Peak (2x),55844.6
+I,Ka3,Sum Peak (2x),55962.0
+Er,Kb5,Emission Line,56033.0
+Tm,Kb5,Escape Peak (Si),56175.0
+Ta,Ka2,Emission Line,56280.0
+W,Ka2,Escape Peak (Si),56281.0
+I,Ka2,Sum Peak (2x),56634.0
+Sn,Kb3,Sum Peak (2x),56887.0
+Sn,Kb1,Sum Peak (2x),56970.8
+Er,Kb2,Emission Line,57119.8
+I,Ka1,Sum Peak (2x),57224.0
+Tm,Kb3,Emission Line,57300.0
+Tm,Kb2,Escape Peak (Si),57304.1
+Er,Kb4,Emission Line,57318.4
+Sn,Kb5,Sum Peak (2x),57413.6
+W,Ka3,Emission Line,57425.0
+Re,Ka3,Escape Peak (Si),57449.0
+Yb,Kb3,Escape Peak (Si),57459.0
+Tm,Kb1,Emission Line,57505.0
+Tm,Kb4,Escape Peak (Si),57514.5
+Ta,Ka1,Emission Line,57535.0
+W,Ka1,Escape Peak (Si),57618.0
+Yb,Kb1,Escape Peak (Si),57682.0
+Tm,Kb5,Emission Line,57875.0
+W,Ka2,Emission Line,57981.0
+Re,Ka2,Escape Peak (Si),58017.0
+Yb,Kb5,Escape Peak (Si),58056.0
+Xe,Ka3,Sum Peak (2x),58216.0
+Sn,Kb2,Sum Peak (2x),58232.8
+Sn,Kb4,Sum Peak (2x),58350.2
+Xe,Ka2,Sum Peak (2x),58908.0
+Tm,Kb2,Emission Line,59004.1
+Re,Ka3,Emission Line,59149.0
+Yb,Kb3,Emission Line,59159.0
+Os,Ka3,Escape Peak (Si),59203.0
+Tm,Kb4,Emission Line,59214.5
+Yb,Kb2,Escape Peak (Si),59243.3
+W,Ka1,Emission Line,59318.0
+Lu,Kb3,Escape Peak (Si),59350.0
+Sb,Kb3,Sum Peak (2x),59356.6
+Yb,Kb1,Emission Line,59382.0
+Yb,Kb4,Escape Peak (Si),59440.8
+Re,Ka1,Escape Peak (Si),59441.0
+Sb,Kb1,Sum Peak (2x),59449.2
+Xe,Ka1,Sum Peak (2x),59550.0
+Lu,Kb1,Escape Peak (Si),59590.0
+Re,Ka2,Emission Line,59717.0
+Yb,Kb5,Emission Line,59756.0
+Os,Ka2,Escape Peak (Si),59786.0
+Sb,Kb5,Sum Peak (2x),59907.0
+Lu,Kb5,Escape Peak (Si),59975.0
+Cs,Ka3,Sum Peak (2x),60542.0
+Sb,Kb2,Sum Peak (2x),60790.8
+Os,Ka3,Emission Line,60903.0
+Sb,Kb4,Sum Peak (2x),60915.4
+Yb,Kb2,Emission Line,60943.3
+Ir,Ka3,Escape Peak (Si),60992.0
+Lu,Kb3,Emission Line,61050.0
+Yb,Kb4,Emission Line,61140.8
+Re,Ka1,Emission Line,61141.0
+Lu,Kb2,Escape Peak (Si),61201.6
+Cs,Ka2,Sum Peak (2x),61252.0
+Hf,Kb3,Escape Peak (Si),61286.0
+Lu,Kb1,Emission Line,61290.0
+Os,Ka1,Escape Peak (Si),61300.0
+Lu,Kb4,Escape Peak (Si),61407.9
+Os,Ka2,Emission Line,61486.0
+Hf,Kb1,Escape Peak (Si),61544.0
+Ir,Ka2,Escape Peak (Si),61587.0
+Lu,Kb5,Emission Line,61675.0
+Te,Kb3,Sum Peak (2x),61886.4
+Hf,Kb5,Escape Peak (Si),61935.0
+Cs,Ka1,Sum Peak (2x),61946.0
+Te,Kb1,Sum Peak (2x),61986.4
+Te,Kb5,Sum Peak (2x),62461.2
+Ir,Ka3,Emission Line,62692.0
+Pt,Ka3,Escape Peak (Si),62815.0
+Lu,Kb2,Emission Line,62901.6
+Ba,Ka3,Sum Peak (2x),62904.0
+Hf,Kb3,Emission Line,62986.0
+Os,Ka1,Emission Line,63000.0
+Lu,Kb4,Emission Line,63107.9
+Ir,Ka1,Escape Peak (Si),63196.0
+Hf,Kb2,Escape Peak (Si),63212.8
+Hf,Kb1,Emission Line,63244.0
+Ta,Kb3,Escape Peak (Si),63247.0
+Ir,Ka2,Emission Line,63287.0
+Te,Kb2,Sum Peak (2x),63421.4
+Pt,Ka2,Escape Peak (Si),63422.0
+Hf,Kb4,Escape Peak (Si),63431.0
+Ta,Kb1,Escape Peak (Si),63522.0
+Te,Kb4,Sum Peak (2x),63544.2
+Ba,Ka2,Sum Peak (2x),63634.0
+Hf,Kb5,Emission Line,63635.0
+Ta,Kb5,Escape Peak (Si),63923.0
+Ba,Ka1,Sum Peak (2x),64388.0
+I,Kb3,Sum Peak (2x),64476.0
+Pt,Ka3,Emission Line,64515.0
+I,Kb1,Sum Peak (2x),64588.0
+Au,Ka3,Escape Peak (Si),64672.0
+Ir,Ka1,Emission Line,64896.0
+Hf,Kb2,Emission Line,64912.8
+Ta,Kb3,Emission Line,64947.0
+I,Kb5,Sum Peak (2x),65076.4
+Pt,Ka2,Emission Line,65122.0
+Pt,Ka1,Escape Peak (Si),65131.0
+Hf,Kb4,Emission Line,65131.0
+Ta,Kb1,Emission Line,65222.0
+W,Kb3,Escape Peak (Si),65250.0
+Ta,Kb2,Escape Peak (Si),65252.600000000006
+Au,Ka2,Escape Peak (Si),65291.0
+La,Ka3,Sum Peak (2x),65318.0
+Ta,Kb4,Escape Peak (Si),65478.100000000006
+W,Kb1,Escape Peak (Si),65544.0
+Ta,Kb5,Emission Line,65623.0
+W,Kb5,Escape Peak (Si),65953.0
+La,Ka2,Sum Peak (2x),66068.0
+I,Kb2,Sum Peak (2x),66092.0
+I,Kb4,Sum Peak (2x),66236.8
+Au,Ka3,Emission Line,66372.0
+Hg,Ka3,Escape Peak (Si),66563.0
+Pt,Ka1,Emission Line,66831.0
+La,Ka1,Sum Peak (2x),66884.0
+W,Kb3,Emission Line,66950.0
+Ta,Kb2,Emission Line,66952.6
+Au,Ka2,Emission Line,66991.0
+Au,Ka1,Escape Peak (Si),67106.0
+Xe,Kb3,Sum Peak (2x),67117.8
+Ta,Kb4,Emission Line,67178.1
+Hg,Ka2,Escape Peak (Si),67193.0
+Xe,Kb1,Sum Peak (2x),67240.8
+W,Kb1,Emission Line,67244.0
+Re,Kb3,Escape Peak (Si),67294.0
+W,Kb2,Escape Peak (Si),67334.6
+W,Kb4,Escape Peak (Si),67569.1
+Re,Kb1,Escape Peak (Si),67609.0
+W,Kb5,Emission Line,67653.0
+Xe,Kb5,Sum Peak (2x),67744.0
+Ce,Ka3,Sum Peak (2x),67790.0
+Re,Kb5,Escape Peak (Si),68027.0
+Hg,Ka3,Emission Line,68263.0
+Tl,Ka3,Escape Peak (Si),68483.0
+Ce,Ka2,Sum Peak (2x),68558.0
+Au,Ka1,Emission Line,68806.0
+Xe,Kb2,Sum Peak (2x),68828.6
+Hg,Ka2,Emission Line,68893.0
+Xe,Kb4,Sum Peak (2x),68983.0
+Re,Kb3,Emission Line,68994.0
+W,Kb2,Emission Line,69034.6
+Hg,Ka1,Escape Peak (Si),69118.0
+Tl,Ka2,Escape Peak (Si),69132.0
+W,Kb4,Emission Line,69269.1
+Re,Kb1,Emission Line,69309.0
+Os,Kb3,Escape Peak (Si),69379.0
+Ce,Ka1,Sum Peak (2x),69440.0
+Re,Kb2,Escape Peak (Si),69457.3
+Re,Kb4,Escape Peak (Si),69702.1
+Os,Kb1,Escape Peak (Si),69714.0
+Re,Kb5,Emission Line,69727.0
+Cs,Kb3,Sum Peak (2x),69828.0
+Cs,Kb1,Sum Peak (2x),69964.0
+Os,Kb5,Escape Peak (Si),70140.0
+Tl,Ka3,Emission Line,70183.0
+Pr,Ka3,Sum Peak (2x),70312.0
+Pb,Ka3,Escape Peak (Si),70444.0
+Cs,Kb5,Sum Peak (2x),70489.0
+Hg,Ka1,Emission Line,70818.0
+Tl,Ka2,Emission Line,70832.0
+Os,Kb3,Emission Line,71079.0
+Pr,Ka2,Sum Peak (2x),71102.0
+Pb,Ka2,Escape Peak (Si),71105.0
+Re,Kb2,Emission Line,71157.3
+Tl,Ka1,Escape Peak (Si),71172.0
+Re,Kb4,Emission Line,71402.1
+Os,Kb1,Emission Line,71414.0
+Ir,Kb3,Escape Peak (Si),71502.0
+Os,Kb2,Escape Peak (Si),71621.9
+Cs,Kb2,Sum Peak (2x),71625.2
+Cs,Kb4,Sum Peak (2x),71810.4
+Os,Kb5,Emission Line,71840.0
+Ir,Kb1,Escape Peak (Si),71860.0
+Os,Kb4,Escape Peak (Si),71877.9
+Pr,Ka1,Sum Peak (2x),72054.0
+Pb,Ka3,Emission Line,72144.0
+Ir,Kb5,Escape Peak (Si),72295.0
+Bi,Ka3,Escape Peak (Si),72438.0
+Ba,Kb3,Sum Peak (2x),72608.0
+Ba,Kb1,Sum Peak (2x),72756.0
+Pb,Ka2,Emission Line,72805.0
+Tl,Ka1,Emission Line,72872.0
+Nd,Ka3,Sum Peak (2x),72886.0
+Bi,Ka2,Escape Peak (Si),73115.0
+Ir,Kb3,Emission Line,73202.0
+Pb,Ka1,Escape Peak (Si),73270.0
+Ba,Kb5,Sum Peak (2x),73290.6
+Os,Kb2,Emission Line,73321.9
+Ir,Kb1,Emission Line,73560.0
+Os,Kb4,Emission Line,73577.9
+Pt,Kb3,Escape Peak (Si),73668.0
+Nd,Ka2,Sum Peak (2x),73694.0
+Ir,Kb2,Escape Peak (Si),73833.2
+Ir,Kb5,Emission Line,73995.0
+Pt,Kb1,Escape Peak (Si),74050.0
+Ir,Kb4,Escape Peak (Si),74099.1
+Bi,Ka3,Emission Line,74138.0
+Po,Ka3,Escape Peak (Si),74466.0
+Pt,Kb5,Escape Peak (Si),74493.0
+Ba,Kb2,Sum Peak (2x),74498.0
+Ba,Kb4,Sum Peak (2x),74696.8
+Nd,Ka1,Sum Peak (2x),74722.0
+Bi,Ka2,Emission Line,74815.0
+Pb,Ka1,Emission Line,74970.0
+Po,Ka2,Escape Peak (Si),75161.0
+Pt,Kb3,Emission Line,75368.0
+Bi,Ka1,Escape Peak (Si),75407.0
+La,Kb3,Sum Peak (2x),75432.0
+Pm,Ka3,Sum Peak (2x),75512.0
+Ir,Kb2,Emission Line,75533.2
+La,Kb1,Sum Peak (2x),75594.0
+Pt,Kb1,Emission Line,75750.0
+Ir,Kb4,Emission Line,75799.1
+Au,Kb3,Escape Peak (Si),75877.0
+Pt,Kb2,Escape Peak (Si),76085.9
+La,Kb5,Sum Peak (2x),76144.0
+Po,Ka3,Emission Line,76166.0
+Pt,Kb5,Emission Line,76193.0
+Au,Kb1,Escape Peak (Si),76282.0
+Pm,Ka2,Sum Peak (2x),76342.0
+Pt,Kb4,Escape Peak (Si),76363.4
+At,Ka3,Escape Peak (Si),76537.0
+Au,Kb5,Escape Peak (Si),76734.0
+Po,Ka2,Emission Line,76861.0
+Bi,Ka1,Emission Line,77107.0
+At,Ka2,Escape Peak (Si),77245.0
+La,Kb2,Sum Peak (2x),77438.4
+Pm,Ka1,Sum Peak (2x),77450.0
+Au,Kb3,Emission Line,77577.0
+Po,Ka1,Escape Peak (Si),77591.0
+La,Kb4,Sum Peak (2x),77639.4
+Pt,Kb2,Emission Line,77785.9
+Au,Kb1,Emission Line,77982.0
+Pt,Kb4,Emission Line,78063.4
+Hg,Kb3,Escape Peak (Si),78123.0
+Sm,Ka3,Sum Peak (2x),78194.0
+At,Ka3,Emission Line,78237.0
+Ce,Kb3,Sum Peak (2x),78338.0
+Au,Kb2,Escape Peak (Si),78382.3
+Au,Kb5,Emission Line,78434.0
+Ce,Kb1,Sum Peak (2x),78512.0
+Hg,Kb1,Escape Peak (Si),78555.0
+Rn,Ka3,Escape Peak (Si),78655.0
+Au,Kb4,Escape Peak (Si),78671.8
+At,Ka2,Emission Line,78945.0
+Hg,Kb5,Escape Peak (Si),79017.0
+Sm,Ka2,Sum Peak (2x),79044.0
+Ce,Kb5,Sum Peak (2x),79081.2
+Po,Ka1,Emission Line,79291.0
+Rn,Ka2,Escape Peak (Si),79367.0
+At,Ka1,Escape Peak (Si),79816.0
+Hg,Kb3,Emission Line,79823.0
+Au,Kb2,Emission Line,80082.3
+Sm,Ka1,Sum Peak (2x),80236.0
+Hg,Kb1,Emission Line,80255.0
+Rn,Ka3,Emission Line,80355.0
+Au,Kb4,Emission Line,80371.8
+Tl,Kb3,Escape Peak (Si),80414.0
+Ce,Kb2,Sum Peak (2x),80439.6
+Ce,Kb4,Sum Peak (2x),80668.0
+Hg,Kb5,Emission Line,80717.0
+Hg,Kb2,Escape Peak (Si),80721.8
+Fr,Ka3,Escape Peak (Si),80798.0
+Tl,Kb1,Escape Peak (Si),80873.0
+Eu,Ka3,Sum Peak (2x),80934.0
+Hg,Kb4,Escape Peak (Si),81023.8
+Rn,Ka2,Emission Line,81067.0
+Pr,Kb3,Sum Peak (2x),81308.0
+Tl,Kb5,Escape Peak (Si),81345.0
+Pr,Kb1,Sum Peak (2x),81498.0
+At,Ka1,Emission Line,81516.0
+Fr,Ka2,Escape Peak (Si),81530.0
+Eu,Ka2,Sum Peak (2x),81804.0
+Rn,Ka1,Escape Peak (Si),82085.0
+Pr,Kb5,Sum Peak (2x),82085.4
+Tl,Kb3,Emission Line,82114.0
+Hg,Kb2,Emission Line,82421.8
+Fr,Ka3,Emission Line,82498.0
+Tl,Kb1,Emission Line,82573.0
+Hg,Kb4,Emission Line,82723.8
+Pb,Kb3,Escape Peak (Si),82751.0
+Ra,Ka3,Escape Peak (Si),82985.0
+Tl,Kb5,Emission Line,83045.0
+Eu,Ka1,Sum Peak (2x),83084.0
+Tl,Kb2,Escape Peak (Si),83109.5
+Fr,Ka2,Emission Line,83230.0
+Pb,Kb1,Escape Peak (Si),83239.0
+Tl,Kb4,Escape Peak (Si),83424.3
+Pr,Kb2,Sum Peak (2x),83509.4
+Pb,Kb5,Escape Peak (Si),83719.0
+Gd,Ka3,Sum Peak (2x),83726.0
+Ra,Ka2,Escape Peak (Si),83738.0
+Pr,Kb4,Sum Peak (2x),83751.8
+Rn,Ka1,Emission Line,83785.0
+Nd,Kb3,Sum Peak (2x),84332.0
+Fr,Ka1,Escape Peak (Si),84406.0
+Pb,Kb3,Emission Line,84451.0
+Nd,Kb1,Sum Peak (2x),84544.0
+Gd,Ka2,Sum Peak (2x),84618.0
+Ra,Ka3,Emission Line,84685.0
+Tl,Kb2,Emission Line,84809.5
+Pb,Kb1,Emission Line,84939.0
+Tl,Kb4,Emission Line,85124.3
+Bi,Kb3,Escape Peak (Si),85130.0
+Nd,Kb5,Sum Peak (2x),85131.4
+Ac,Ka3,Escape Peak (Si),85215.0
+Pb,Kb5,Emission Line,85419.0
+Ra,Ka2,Emission Line,85438.0
+Pb,Kb2,Escape Peak (Si),85543.1
+Bi,Kb1,Escape Peak (Si),85649.0
+Pb,Kb4,Escape Peak (Si),85870.7
+Ac,Ka2,Escape Peak (Si),85972.0
+Gd,Ka1,Sum Peak (2x),85992.0
+Fr,Ka1,Emission Line,86106.0
+Bi,Kb5,Escape Peak (Si),86138.0
+Tb,Ka3,Sum Peak (2x),86576.0
+Nd,Kb2,Sum Peak (2x),86651.4
+Ra,Ka1,Escape Peak (Si),86778.0
+Bi,Kb3,Emission Line,86830.0
+Nd,Kb4,Sum Peak (2x),86897.0
+Ac,Ka3,Emission Line,86915.0
+Pb,Kb2,Emission Line,87243.1
+Bi,Kb1,Emission Line,87349.0
+Pm,Kb3,Sum Peak (2x),87425.2
+Th,Ka3,Escape Peak (Si),87479.0
+Tb,Ka2,Sum Peak (2x),87488.0
+Po,Kb3,Escape Peak (Si),87551.0
+Pb,Kb4,Emission Line,87570.7
+Pm,Kb1,Sum Peak (2x),87654.0
+Ac,Ka2,Emission Line,87672.0
+Bi,Kb5,Emission Line,87838.0
+Bi,Kb2,Escape Peak (Si),88020.8
+Po,Kb1,Escape Peak (Si),88103.0
+Th,Ka2,Escape Peak (Si),88258.0
+Pm,Kb5,Sum Peak (2x),88264.0
+Bi,Kb4,Escape Peak (Si),88362.0
+Ra,Ka1,Emission Line,88478.0
+Po,Kb5,Escape Peak (Si),88607.0
+Tb,Ka1,Sum Peak (2x),88964.0
+Th,Ka3,Emission Line,89179.0
+Ac,Ka1,Escape Peak (Si),89184.0
+Po,Kb3,Emission Line,89251.0
+Dy,Ka3,Sum Peak (2x),89486.0
+Bi,Kb2,Emission Line,89720.8
+Pa,Ka3,Escape Peak (Si),89796.0
+Po,Kb1,Emission Line,89803.0
+Pm,Kb2,Sum Peak (2x),89884.0
+Th,Ka2,Emission Line,89958.0
+At,Kb3,Escape Peak (Si),90022.0
+Bi,Kb4,Emission Line,90062.0
+Pm,Kb4,Sum Peak (2x),90128.0
+Po,Kb5,Emission Line,90307.0
+Dy,Ka2,Sum Peak (2x),90416.0
+Po,Kb2,Escape Peak (Si),90554.0
+Sm,Kb3,Sum Peak (2x),90586.0
+Pa,Ka2,Escape Peak (Si),90587.0
+At,Kb1,Escape Peak (Si),90604.0
+Sm,Kb1,Sum Peak (2x),90828.4
+Ac,Ka1,Emission Line,90884.0
+Po,Kb4,Escape Peak (Si),90905.0
+At,Kb5,Escape Peak (Si),91121.0
+Sm,Kb5,Sum Peak (2x),91446.2
+Pa,Ka3,Emission Line,91496.0
+Th,Ka1,Escape Peak (Si),91651.0
+At,Kb3,Emission Line,91722.0
+Dy,Ka1,Sum Peak (2x),91998.0
+U,Ka3,Escape Peak (Si),92149.0
+Po,Kb2,Emission Line,92254.0
+Pa,Ka2,Emission Line,92287.0
+At,Kb1,Emission Line,92304.0
+Ho,Ka3,Sum Peak (2x),92448.0
+Rn,Kb3,Escape Peak (Si),92545.0
+Po,Kb4,Emission Line,92605.0
+At,Kb5,Emission Line,92821.0
+U,Ka2,Escape Peak (Si),92958.0
+Sm,Kb2,Sum Peak (2x),93136.8
+At,Kb2,Escape Peak (Si),93144.0
+Rn,Kb1,Escape Peak (Si),93166.0
+Th,Ka1,Emission Line,93351.0
+Ho,Ka2,Sum Peak (2x),93400.0
+Sm,Kb4,Sum Peak (2x),93410.0
+At,Kb4,Escape Peak (Si),93497.0
+Rn,Kb5,Escape Peak (Si),93682.0
+Eu,Kb3,Sum Peak (2x),93810.0
+U,Ka3,Emission Line,93849.0
+Eu,Kb1,Sum Peak (2x),94076.0
+Pa,Ka1,Escape Peak (Si),94168.0
+Rn,Kb3,Emission Line,94245.0
+Np,Ka3,Escape Peak (Si),94542.0
+U,Ka2,Emission Line,94658.0
+Eu,Kb5,Sum Peak (2x),94720.8
+At,Kb2,Emission Line,94844.0
+Rn,Kb1,Emission Line,94866.0
+Ho,Ka1,Sum Peak (2x),95094.0
+Fr,Kb3,Escape Peak (Si),95110.0
+At,Kb4,Emission Line,95197.0
+Np,Ka2,Escape Peak (Si),95369.0
+Rn,Kb5,Emission Line,95382.0
+Er,Ka3,Sum Peak (2x),95470.0
+Fr,Kb1,Escape Peak (Si),95774.0
+Rn,Kb2,Escape Peak (Si),95775.0
+Pa,Ka1,Emission Line,95868.0
+Rn,Kb4,Escape Peak (Si),96137.0
+Np,Ka3,Emission Line,96242.0
+Fr,Kb5,Escape Peak (Si),96301.0
+Er,Ka2,Sum Peak (2x),96444.0
+Eu,Kb2,Sum Peak (2x),96470.0
+U,Ka1,Escape Peak (Si),96740.0
+Eu,Kb4,Sum Peak (2x),96772.0
+Fr,Kb3,Emission Line,96810.0
+Pu,Ka3,Escape Peak (Si),96987.0
+Np,Ka2,Emission Line,97069.0
+Gd,Kb3,Sum Peak (2x),97102.0
+Gd,Kb1,Sum Peak (2x),97390.0
+Fr,Kb1,Emission Line,97474.0
+Rn,Kb2,Emission Line,97475.0
+Ra,Kb3,Escape Peak (Si),97732.0
+Pu,Ka2,Escape Peak (Si),97825.0
+Rn,Kb4,Emission Line,97837.0
+Fr,Kb5,Emission Line,98001.0
+Gd,Kb5,Sum Peak (2x),98034.2
+Er,Ka1,Sum Peak (2x),98256.0
+Ra,Kb1,Escape Peak (Si),98430.0
+U,Ka1,Emission Line,98440.0
+Fr,Kb2,Escape Peak (Si),98457.0
+Tm,Ka3,Sum Peak (2x),98548.0
+Pu,Ka3,Emission Line,98687.0
+Fr,Kb4,Escape Peak (Si),98834.0
+Ra,Kb5,Escape Peak (Si),98974.0
+Np,Ka1,Escape Peak (Si),99359.0
+Ra,Kb3,Emission Line,99432.0
+Am,Ka3,Escape Peak (Si),99474.0
+Pu,Ka2,Emission Line,99525.0
+Tm,Ka2,Sum Peak (2x),99546.0
+Gd,Kb2,Sum Peak (2x),99906.0
+Ra,Kb1,Emission Line,100130.0
+Fr,Kb2,Emission Line,100157.0
+Gd,Kb4,Sum Peak (2x),100192.8
+Am,Ka2,Escape Peak (Si),100330.0
+Ac,Kb3,Escape Peak (Si),100399.0
+Tb,Kb3,Sum Peak (2x),100456.0
+Fr,Kb4,Emission Line,100534.0
+Ra,Kb5,Emission Line,100674.0
+Tb,Kb1,Sum Peak (2x),100770.0
+Np,Ka1,Emission Line,101059.0
+Ac,Kb1,Escape Peak (Si),101146.0
+Ra,Kb2,Escape Peak (Si),101164.0
+Am,Ka3,Emission Line,101174.0
+Tb,Kb5,Sum Peak (2x),101438.2
+Tm,Ka1,Sum Peak (2x),101484.0
+Ra,Kb4,Escape Peak (Si),101586.0
+Ac,Kb5,Escape Peak (Si),101685.0
+Yb,Ka3,Sum Peak (2x),101692.0
+Cm,Ka3,Escape Peak (Si),102015.0
+Am,Ka2,Emission Line,102030.0
+Pu,Ka1,Escape Peak (Si),102034.0
+Ac,Kb3,Emission Line,102099.0
+Yb,Ka2,Sum Peak (2x),102708.0
+Ac,Kb1,Emission Line,102846.0
+Ra,Kb2,Emission Line,102864.0
+Cm,Ka2,Escape Peak (Si),102890.0
+Th,Kb3,Escape Peak (Si),103121.0
+Ra,Kb4,Emission Line,103286.0
+Tb,Kb2,Sum Peak (2x),103347.2
+Ac,Kb5,Emission Line,103385.0
+Tb,Kb4,Sum Peak (2x),103691.0
+Cm,Ka3,Emission Line,103715.0
+Pu,Ka1,Emission Line,103734.0
+Dy,Kb3,Sum Peak (2x),103894.0
+Th,Kb1,Escape Peak (Si),103905.0
+Ac,Kb2,Escape Peak (Si),103975.0
+Dy,Kb1,Sum Peak (2x),104226.0
+Ac,Kb4,Escape Peak (Si),104380.0
+Th,Kb5,Escape Peak (Si),104460.0
+Cm,Ka2,Emission Line,104590.0
+Bk,Ka3,Escape Peak (Si),104600.0
+Am,Ka1,Escape Peak (Si),104772.0
+Yb,Ka1,Sum Peak (2x),104776.0
+Th,Kb3,Emission Line,104821.0
+Lu,Ka3,Sum Peak (2x),104888.0
+Dy,Kb5,Sum Peak (2x),104912.0
+Bk,Ka2,Escape Peak (Si),105485.0
+Th,Kb1,Emission Line,105605.0
+Ac,Kb2,Emission Line,105675.0
+Pa,Kb3,Escape Peak (Si),105900.0
+Lu,Ka2,Sum Peak (2x),105930.0
+Ac,Kb4,Emission Line,106080.0
+Th,Kb5,Emission Line,106160.0
+Bk,Ka3,Emission Line,106300.0
+Am,Ka1,Emission Line,106472.0
+Pa,Kb1,Escape Peak (Si),106727.0
+Th,Kb2,Escape Peak (Si),106783.0
+Dy,Kb2,Sum Peak (2x),106911.0
+Bk,Ka2,Emission Line,107185.0
+Cf,Ka3,Escape Peak (Si),107229.0
+Th,Kb4,Escape Peak (Si),107239.0
+Dy,Kb4,Sum Peak (2x),107270.8
+Pa,Kb5,Escape Peak (Si),107290.0
+Ho,Kb3,Sum Peak (2x),107390.0
+Cm,Ka1,Escape Peak (Si),107571.0
+Pa,Kb3,Emission Line,107600.0
+Ho,Kb1,Sum Peak (2x),107754.0
+Cf,Ka2,Escape Peak (Si),108131.0
+Lu,Ka1,Sum Peak (2x),108140.0
+Hf,Ka3,Sum Peak (2x),108160.0
+Pa,Kb1,Emission Line,108427.0
+Ho,Kb5,Sum Peak (2x),108452.0
+Th,Kb2,Emission Line,108483.0
+U,Kb3,Escape Peak (Si),108724.0
+Cf,Ka3,Emission Line,108929.0
+Th,Kb4,Emission Line,108939.0
+Pa,Kb5,Emission Line,108990.0
+Hf,Ka2,Sum Peak (2x),109224.0
+Cm,Ka1,Emission Line,109271.0
+U,Kb1,Escape Peak (Si),109603.0
+Pa,Kb2,Escape Peak (Si),109677.0
+Cf,Ka2,Emission Line,109831.0
+Pa,Kb4,Escape Peak (Si),110158.0
+U,Kb5,Escape Peak (Si),110178.0
+Bk,Ka1,Escape Peak (Si),110421.0
+U,Kb3,Emission Line,110424.0
+Ho,Kb2,Sum Peak (2x),110549.0
+Ho,Kb4,Sum Peak (2x),110916.0
+Er,Kb3,Sum Peak (2x),110960.0
+U,Kb1,Emission Line,111303.0
+Er,Kb1,Sum Peak (2x),111348.0
+Pa,Kb2,Emission Line,111377.0
+Ta,Ka3,Sum Peak (2x),111468.0
+Hf,Ka1,Sum Peak (2x),111580.0
+Np,Kb3,Escape Peak (Si),111603.0
+Pa,Kb4,Emission Line,111858.0
+U,Kb5,Emission Line,111878.0
+Er,Kb5,Sum Peak (2x),112066.0
+Bk,Ka1,Emission Line,112121.0
+Np,Kb1,Escape Peak (Si),112534.0
+Ta,Ka2,Sum Peak (2x),112560.0
+U,Kb2,Escape Peak (Si),112635.0
+Np,Kb5,Escape Peak (Si),113120.0
+U,Kb4,Escape Peak (Si),113128.0
+Np,Kb3,Emission Line,113303.0
+Cf,Ka1,Escape Peak (Si),113332.0
+Np,Kb1,Emission Line,114234.0
+Er,Kb2,Sum Peak (2x),114239.6
+U,Kb2,Emission Line,114335.0
+Pu,Kb3,Escape Peak (Si),114544.0
+Tm,Kb3,Sum Peak (2x),114600.0
+Er,Kb4,Sum Peak (2x),114636.8
+Np,Kb5,Emission Line,114820.0
+U,Kb4,Emission Line,114828.0
+W,Ka3,Sum Peak (2x),114850.0
+Tm,Kb1,Sum Peak (2x),115010.0
+Cf,Ka1,Emission Line,115032.0
+Ta,Ka1,Sum Peak (2x),115070.0
+Pu,Kb1,Escape Peak (Si),115528.0
+Np,Kb2,Escape Peak (Si),115641.0
+Tm,Kb5,Sum Peak (2x),115750.0
+W,Ka2,Sum Peak (2x),115962.0
+Pu,Kb5,Escape Peak (Si),116121.0
+Np,Kb4,Escape Peak (Si),116153.0
+Pu,Kb3,Emission Line,116244.0
+Pu,Kb1,Emission Line,117228.0
+Np,Kb2,Emission Line,117341.0
+Am,Kb3,Escape Peak (Si),117543.0
+Pu,Kb5,Emission Line,117821.0
+Np,Kb4,Emission Line,117853.0
+Tm,Kb2,Sum Peak (2x),118008.2
+Re,Ka3,Sum Peak (2x),118298.0
+Yb,Kb3,Sum Peak (2x),118318.0
+Tm,Kb4,Sum Peak (2x),118429.0
+Am,Kb1,Escape Peak (Si),118584.0
+W,Ka1,Sum Peak (2x),118636.0
+Pu,Kb2,Escape Peak (Si),118711.0
+Yb,Kb1,Sum Peak (2x),118764.0
+Am,Kb5,Escape Peak (Si),119186.0
+Am,Kb3,Emission Line,119243.0
+Pu,Kb4,Escape Peak (Si),119245.0
+Re,Ka2,Sum Peak (2x),119434.0
+Yb,Kb5,Sum Peak (2x),119512.0
+Am,Kb1,Emission Line,120284.0
+Pu,Kb2,Emission Line,120411.0
+Cm,Kb3,Escape Peak (Si),120604.0
+Am,Kb5,Emission Line,120886.0
+Pu,Kb4,Emission Line,120945.0
+Cm,Kb1,Escape Peak (Si),121703.0
+Os,Ka3,Sum Peak (2x),121806.0
+Am,Kb2,Escape Peak (Si),121844.0
+Yb,Kb2,Sum Peak (2x),121886.6
+Lu,Kb3,Sum Peak (2x),122100.0
+Yb,Kb4,Sum Peak (2x),122281.6
+Re,Ka1,Sum Peak (2x),122282.0
+Cm,Kb3,Emission Line,122304.0
+Cm,Kb5,Escape Peak (Si),122317.0
+Am,Kb4,Escape Peak (Si),122402.0
+Lu,Kb1,Sum Peak (2x),122580.0
+Os,Ka2,Sum Peak (2x),122972.0
+Lu,Kb5,Sum Peak (2x),123350.0
+Cm,Kb1,Emission Line,123403.0
+Am,Kb2,Emission Line,123544.0
+Bk,Kb3,Escape Peak (Si),123718.0
+Cm,Kb5,Emission Line,124017.0
+Am,Kb4,Emission Line,124102.0
+Bk,Kb1,Escape Peak (Si),124880.0
+Cm,Kb2,Escape Peak (Si),125043.0
+Ir,Ka3,Sum Peak (2x),125384.0
+Bk,Kb3,Emission Line,125418.0
+Bk,Kb5,Escape Peak (Si),125503.0
+Cm,Kb4,Escape Peak (Si),125625.0
+Lu,Kb2,Sum Peak (2x),125803.2
+Hf,Kb3,Sum Peak (2x),125972.0
+Os,Ka1,Sum Peak (2x),126000.0
+Lu,Kb4,Sum Peak (2x),126215.8
+Hf,Kb1,Sum Peak (2x),126488.0
+Ir,Ka2,Sum Peak (2x),126574.0
+Bk,Kb1,Emission Line,126580.0
+Cm,Kb2,Emission Line,126743.0
+Cf,Kb3,Escape Peak (Si),126894.0
+Bk,Kb5,Emission Line,127203.0
+Hf,Kb5,Sum Peak (2x),127270.0
+Cm,Kb4,Emission Line,127325.0
+Cf,Kb1,Escape Peak (Si),128123.0
+Bk,Kb2,Escape Peak (Si),128298.0
+Cf,Kb3,Emission Line,128594.0
+Cf,Kb5,Escape Peak (Si),128755.0
+Bk,Kb4,Escape Peak (Si),128901.0
+Pt,Ka3,Sum Peak (2x),129030.0
+Ir,Ka1,Sum Peak (2x),129792.0
+Cf,Kb1,Emission Line,129823.0
+Hf,Kb2,Sum Peak (2x),129825.6
+Ta,Kb3,Sum Peak (2x),129894.0
+Bk,Kb2,Emission Line,129998.0
+Pt,Ka2,Sum Peak (2x),130244.0
+Hf,Kb4,Sum Peak (2x),130262.0
+Ta,Kb1,Sum Peak (2x),130444.0
+Cf,Kb5,Emission Line,130455.0
+Bk,Kb4,Emission Line,130601.0
+Ta,Kb5,Sum Peak (2x),131246.0
+Cf,Kb2,Escape Peak (Si),131619.0
+Cf,Kb4,Escape Peak (Si),132248.0
+Au,Ka3,Sum Peak (2x),132744.0
+Cf,Kb2,Emission Line,133319.0
+Pt,Ka1,Sum Peak (2x),133662.0
+W,Kb3,Sum Peak (2x),133900.0
+Ta,Kb2,Sum Peak (2x),133905.2
+Cf,Kb4,Emission Line,133948.0
+Au,Ka2,Sum Peak (2x),133982.0
+Ta,Kb4,Sum Peak (2x),134356.2
+W,Kb1,Sum Peak (2x),134488.0
+W,Kb5,Sum Peak (2x),135306.0
+Hg,Ka3,Sum Peak (2x),136526.0
+Au,Ka1,Sum Peak (2x),137612.0
+Hg,Ka2,Sum Peak (2x),137786.0
+Re,Kb3,Sum Peak (2x),137988.0
+W,Kb2,Sum Peak (2x),138069.2
+W,Kb4,Sum Peak (2x),138538.2
+Re,Kb1,Sum Peak (2x),138618.0
+Re,Kb5,Sum Peak (2x),139454.0
+Tl,Ka3,Sum Peak (2x),140366.0
+Hg,Ka1,Sum Peak (2x),141636.0
+Tl,Ka2,Sum Peak (2x),141664.0
+Os,Kb3,Sum Peak (2x),142158.0
+Re,Kb2,Sum Peak (2x),142314.6
+Re,Kb4,Sum Peak (2x),142804.2
+Os,Kb1,Sum Peak (2x),142828.0
+Os,Kb5,Sum Peak (2x),143680.0
+Pb,Ka3,Sum Peak (2x),144288.0
+Pb,Ka2,Sum Peak (2x),145610.0
+Tl,Ka1,Sum Peak (2x),145744.0
+Ir,Kb3,Sum Peak (2x),146404.0
+Os,Kb2,Sum Peak (2x),146643.8
+Ir,Kb1,Sum Peak (2x),147120.0
+Os,Kb4,Sum Peak (2x),147155.8
+Ir,Kb5,Sum Peak (2x),147990.0
+Bi,Ka3,Sum Peak (2x),148276.0
+Bi,Ka2,Sum Peak (2x),149630.0
+Pb,Ka1,Sum Peak (2x),149940.0

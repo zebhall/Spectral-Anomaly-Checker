@@ -38,37 +38,47 @@ def elementZtoName(Z):          # Returns Element name
         return 'Error: Z out of range'
 
 
-def lineEnergiesToCSV(element):
+def lineEnergiesToCSV(elementZs:list,linetypes:list) -> pd.DataFrame(): 
     anomalies = pd.DataFrame(data={'Element':[],'Line':[],'Type':[],'Energy':[]})
-    line_type_whitelist = ['Ka1','Ka2','Ka3','Ka4','Ka5','Kb1','Kb2','Kb3','Kb4','Kb5','La1','La2','La3','La4','La5','Lb1','Lb2','Lb3','Lb4','Lb5']
     # Iterate through all Elements
-    for z in range(1,104):
-            element = elementZtoSymbol(z)
-            # Get standard emission lines for all elements
-            try:
-                for name, line in xrdb.xray_lines(element).items():
-                    energy = line.energy
-
-                    if name in line_type_whitelist:
-                        if energy <= 50000:
-                            newrow = {'Element':element,'Line':name,'Type':'Emission Line','Energy':energy}
-                            anomalies = anomalies.append(newrow, ignore_index = True)
-                            if energy*2 <= 50000:   # check if sum peak is possible for standard detector (50kV)
-                                newrow2 = {'Element':element,'Line':name,'Type':'Sum Peak (2x)','Energy':(energy*2)}
-                                anomalies = anomalies.append(newrow2, ignore_index = True)
-                            # if energy*3 <= 50000:   # check if 3x sum peak is possible for standard detector (50kV)
-                            #     newrow2 = {'Element':element,'Line':name,'Type':'Sum Peak (3x)','Energy':(energy*3)}
-                            #     anomalies = anomalies.append(newrow2, ignore_index = True)
-                            if energy-1700 > 0:     # check if escape peak is possible
-                                newrow4 = {'Element':element,'Line':name,'Type':'Escape Peak (Si)','Energy':(energy-1700)}
-                                anomalies = anomalies.append(newrow4, ignore_index = True)
-            except: 
-                print(f'Error getting lines for {element}')
-                pass
+    for z in elementZs:
+        elementsymbol = elementZtoSymbol(z)
+        print(f'getting lines for {elementsymbol}...')
+        # Get standard emission lines for all elements
+        try:
+            for name, line in xrdb.xray_lines(elementsymbol).items():
+                lineenergy_in_ev = line.energy
+                #if name in linetypes:
+                if lineenergy_in_ev <= 150000:
+                    newrow = pd.DataFrame(data={'Element':[elementsymbol],'Line':[name],'Type':['Emission Line'],'Energy':[lineenergy_in_ev]})
+                    anomalies = pd.concat([anomalies, newrow], ignore_index = True)
+                    if lineenergy_in_ev*2 <= 150000:   # check if sum peak is possible for standard detector (50kV)
+                        newrow2 = pd.DataFrame(data={'Element':[elementsymbol],'Line':[name],'Type':['Sum Peak (2x)'],'Energy':[(lineenergy_in_ev*2)]})
+                        anomalies = pd.concat([anomalies, newrow2], ignore_index = True)
+                    # if energy*3 <= 50000:   # check if 3x sum peak is possible for standard detector (50kV)
+                    #     newrow2 = {'Element':element,'Line':name,'Type':'Sum Peak (3x)','Energy':(energy*3)}
+                    #     anomalies = anomalies.append(newrow2, ignore_index = True)
+                    if lineenergy_in_ev-1700 > 0:     # check if escape peak is possible
+                        newrow4 = pd.DataFrame(data={'Element':[elementsymbol],'Line':[name],'Type':['Escape Peak (Si)'],'Energy':[(lineenergy_in_ev-1700)]})
+                        anomalies = pd.concat([anomalies, newrow4], ignore_index = True)
+        except ValueError: 
+            print(f'Error getting lines for {elementsymbol}')
+            pass
 
     anomalies.sort_values(by='Energy', inplace=True)
-    anomalies.to_csv('all_lines.csv', index = False)
     print(anomalies)
+    return anomalies
 
 
-lineEnergiesToCSV
+def main():
+    line_type_whitelist = ['Ka1','Ka2','Ka3','Ka4','Ka5','Kb1','Kb2','Kb3','Kb4','Kb5','La1','La2','La3','La4','La5','Lb1','Lb2','Lb3','Lb4','Lb5']
+    elementZvalues = list(range(1,104))
+    lineenergies_df = lineEnergiesToCSV(elementZs=elementZvalues, linetypes=line_type_whitelist)
+    lineenergies_df.to_csv('energies2.csv', index = False)
+
+
+
+
+
+if __name__ == main():
+    main()
