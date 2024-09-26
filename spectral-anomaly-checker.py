@@ -1,9 +1,10 @@
 # XRF Spectral Anomaly Checker by ZH
+import pandas as pd
+import os
+
 versionNum = 'v1.1.1'
 versionDate = '2023/06/02'
 
-import pandas as pd
-import os
 
 
 
