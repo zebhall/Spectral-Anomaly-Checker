@@ -29,8 +29,8 @@ def elementSymboltoName(sym:str):
 		try:
 			i = elementSymbols.index(sym)
 			return elementNames[i]
-		except:
-			raise Exception(f'Error in elementSymboltoName: "{sym}" was not found in list of Element Symbols. Symbol is case-sensitive, first character should be capitalised.')
+		except Exception as e:
+			raise Exception(f'Error in elementSymboltoName: "{sym}" was not found in list of Element Symbols. Symbol is case-sensitive, first character should be capitalised.({e})')
 	else:
 		raise Exception(f'Error in elementSymboltoName: "{sym}" is too long. Element symbol should be MAX 3 Characters.')
 
