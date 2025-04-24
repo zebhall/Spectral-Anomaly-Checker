@@ -7,10 +7,10 @@ versionNum = 'v1.2.0'
 versionDate = '2025/04/24'
 
 pd.options.mode.chained_assignment = None  # default='warn'
-os.system('color')
+# os.system('color')
 
 # CHANGE THIS TO FALSE IF FORMATTING IN TERMINAL IS MESSED UP **********************************************
-USE_COLOURS_IN_TERMINAL = True
+USE_COLOURS_IN_TERMINAL = False
 # **********************************************************************************************************
 
 
@@ -155,7 +155,7 @@ def main():
 		request_lines:list[float] = getCommonElementLineEnergies(request_str)
 
 		if len(request_lines) == 0:
-			print(f'{bcol.WARNING}Input must be numerical energy (eV) or a recognised Element Symbol. {bcol.ENDC}')
+			print('Input must be numerical energy (eV) or a recognised Element Symbol.')
 			raise SystemExit(1)
 
 		output:str = ''
